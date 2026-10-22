@@ -1,0 +1,1498 @@
+Date,InvoiceNo,Customer,Branch,Product,Category,Quantity,UnitPrice,Amount,Status,DueDate,SalesRep
+2025-01-02,INV-2025-0001,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,15,830.00,12450.00,Paid,2025-03-03,L. Hamunyela
+2025-01-02,INV-2025-0002,Namib Logistics,Windhoek,Printer,Electronics,3,3985.00,11955.00,Paid,2025-03-03,M. Shikongo
+2025-01-02,INV-2025-0003,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,30,815.00,24450.00,Paid,2025-02-01,R. Beukes
+2025-01-03,INV-2025-0004,Khomas Hardware,Windhoek,Smartphone,Electronics,3,6185.00,18555.00,Paid,2025-02-02,M. Shikongo
+2025-01-03,INV-2025-0005,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,20,1235.00,24700.00,Paid,2025-02-02,M. Shikongo
+2025-01-03,INV-2025-0006,Okavango Stationers,Windhoek,Smartphone,Electronics,1,6730.00,6730.00,Paid,2025-02-02,L. Hamunyela
+2025-01-04,INV-2025-0007,ABC Trading,Windhoek,Accounting Software Licence,Software & Services,4,10270.00,41080.00,Paid,2025-02-03,T. Nangolo
+2025-01-04,INV-2025-0008,NamiTech,Windhoek,Office Desk,Office Furniture,3,4165.00,12495.00,Paid,2025-02-03,L. Hamunyela
+2025-01-04,INV-2025-0009,XYZ Enterprises,Swakopmund,Tablet,Electronics,3,5260.00,15780.00,Paid,2025-02-03,R. Beukes
+2025-01-04,INV-2025-0010,Erongo Mining Services,Swakopmund,Accounting Software Licence,Software & Services,2,9840.00,19680.00,Paid,2025-03-05,R. Beukes
+2025-01-04,INV-2025-0011,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,9,1605.00,14445.00,Overdue,2025-02-03,M. Shikongo
+2025-01-06,INV-2025-0012,Oshana Builders,Oshakati,Office Desk,Office Furniture,4,4210.00,16840.00,Paid,2025-02-05,P. Iipinge
+2025-01-06,INV-2025-0013,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,16,1195.00,19120.00,Paid,2025-02-05,M. Shikongo
+2025-01-06,INV-2025-0014,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,8,860.00,6880.00,Paid,2025-02-05,S. Tjivikua
+2025-01-06,INV-2025-0015,Kalahari Traders,Windhoek,Smartphone,Electronics,4,6660.00,26640.00,Paid,2025-02-05,M. Shikongo
+2025-01-06,INV-2025-0016,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,6,2230.00,13380.00,Paid,2025-02-05,L. Hamunyela
+2025-01-06,INV-2025-0016,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,6,2230.00,13380.00,Paid,2025-02-05,L. Hamunyela
+2025-01-06,INV-2025-0017,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,17,1245.00,21165.00,Paid,2025-03-07,R. Beukes
+2025-01-07,INV-2025-0018,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,2,1200.00,2400.00,Paid,2025-02-06,R. Beukes
+2025-01-07,INV-2025-0019,Caprivi Timber,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,11,1225.00,13475.00,Paid,2025-02-06,A. Gaoab
+2025-01-07,INV-2025-0020,,Windhoek,Tablet,Electronics,5,5420.00,27100.00,Paid,2025-02-06,M. Shikongo
+2025-01-07,INV-2025-0021,Dolphin Marine Services,Swakopmund,Toner Cartridge,Stationery & Consumables,7,1635.00,11445.00,Paid,2025-02-06,R. Beukes
+2025-01-08,INV-2025-0022,Sossusvlei Lodge,Oshakati,Tablet,Electronics,1,5145.00,5145.00,Paid,2025-02-07,N. Haufiku
+2025-01-08,INV-2025-0023,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,30,870.00,26100.00,Paid,2025-03-09,T. Nangolo
+2025-01-08,INV-2025-0024,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1215.00,23085.00,Paid,2025-02-07,L. Hamunyela
+2025-01-08,INV-2025-0025,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,37,850.00,31450.00,Paid,2025-03-09,R. Beukes
+2025-01-09,INV-2025-0026,ABC Trading,Swakopmund,Toner Cartridge,Stationery & Consumables,10,1715.00,17150.00,Paid,2025-02-08,A. Gaoab
+2025-01-09,INV-2025-0027,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1140.00,14820.00,Paid,2025-02-08,M. Shikongo
+2025-01-09,INV-2025-0028,Tsumeb Metals,Oshakati,Toner Cartridge,Stationery & Consumables,11,1665.00,18315.00,Paid,2025-03-10,N. Haufiku
+2025-01-10,INV-2025-0029,Benguela Cold Storage,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,2,1240.00,2480.00,Paid,2025-02-09,J. Kandjoze
+2025-01-10,INV-2025-0030,Ongwediva Pharmacy,Oshakati,Printing Paper (Box),Stationery & Consumables,9,825.00,7425.00,Paid,2025-02-09,P. Iipinge
+2025-01-11,INV-2025-0031,Dolphin Marine Services,Windhoek,Toner Cartridge,Stationery & Consumables,11,1630.00,17930.00,Paid,2025-02-10,M. Shikongo
+2025-01-11,INV-2025-0032,Oshana Builders,Walvis Bay,Tablet,Electronics,5,4985.00,24925.00,Paid,2025-02-10,J. Kandjoze
+2025-01-11,INV-2025-0033,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,6,1610.00,9660.00,Paid,2025-03-12,A. Gaoab
+2025-01-13,INV-2025-0034,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,29,885.00,25665.00,Paid,2025-02-12,T. Nangolo
+2025-01-13,INV-2025-0035,ABC Trading,Windhoek,Accounting Software Licence,Software & Services,5,10165.00,50825.00,Paid,2025-02-12,M. Shikongo
+2025-01-13,INV-2025-0036,Windhoek Supplies,Windhoek,Smartphone,Electronics,4,6510.00,26040.00,Paid,2025-02-12,T. Nangolo
+2025-01-13,INV-2025-0037,NamiTech,Windhoek,Office Chair,Office Furniture,6,2205.00,13230.00,Paid,2025-02-12,L. Hamunyela
+2025-01-13,INV-2025-0038,Oshana Builders,Oshakati,Office Chair,Office Furniture,7,2230.00,15610.00,Paid,2025-02-12,N. Haufiku
+2025-01-13,INV-2025-0039,Walvis Freight Agents,Walvis Bay,Office Desk,Office Furniture,6,4155.00,24930.00,Paid,2025-03-14,S. Tjivikua
+2025-01-13,INV-2025-0040,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,20,850.00,17000.00,Paid,2025-02-12,L. Hamunyela
+2025-01-13,INV-2025-0041,Atlantic Fisheries,Swakopmund,Accounting Software Licence,Software & Services,1,9770.00,9770.00,Overdue,2025-02-12,A. Gaoab
+2025-01-14,INV-2025-0042,Khomas Hardware,Windhoek,Office Desk,Office Furniture,3,4320.00,12960.00,Paid,2025-02-13,M. Shikongo
+2025-01-14,INV-2025-0043,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,6,1700.00,10200.00,Paid,2025-02-13,N. Haufiku
+2025-01-14,INV-2025-0044,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,5,855.00,4275.00,Paid,2025-02-13,T. Nangolo
+2025-01-14,INV-2025-0045,Windhoek Supplies,Windhoek,Printer,Electronics,4,3935.00,15740.00,Paid,2025-02-13,L. Hamunyela
+2025-01-14,INV-2025-0046,Ohangwena Traders,Oshakati,Smartphone,Electronics,6,6525.00,39150.00,Paid,2025-02-13,E. Shilongo
+2025-01-14,INV-2025-0047,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,17,1225.00,20825.00,Paid,2025-02-13,T. Nangolo
+2025-01-14,INV-2025-0048,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,4,1645.00,6580.00,Paid,2025-02-13,T. Nangolo
+2025-01-15,INV-2025-0049,ABC Trading,Windhoek,Office Chair,Office Furniture,9,2345.00,21105.00,Paid,2025-02-14,L. Hamunyela
+2025-01-15,INV-2025-0050,Namib Logistics,Windhoek,Printer,Electronics,2,3630.00,7260.00,Paid,2025-03-16,T. Nangolo
+2025-01-15,INV-2025-0051,Erongo Mining Services,Swakopmund,Smartphone,Electronics,4,6465.00,25860.00,Paid,2025-03-16,A. Gaoab
+2025-01-15,INV-2025-0052,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,9,1235.00,11115.00,Overdue,2025-02-14,M. Shikongo
+2025-01-16,INV-2025-0053,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,16,1225.00,19600.00,Paid,2025-02-15,P. Iipinge
+2025-01-16,INV-2025-0054,,Windhoek,Stationery Bulk Pack,Stationery & Consumables,12,1215.00,14580.00,Paid,2025-02-15,T. Nangolo
+2025-01-16,INV-2025-0055,Swakop Boutique Hotel,Swakopmund,Office Desk,Office Furniture,5,4170.00,20850.00,Paid,2025-02-15,A. Gaoab
+2025-01-16,INV-2025-0056,Kunene Tours,Oshakati,Office Desk,Office Furniture,3,4355.00,13065.00,Paid,2025-02-15,P. Iipinge
+2025-01-16,INV-2025-0057,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,7,2385.00,16695.00,Paid,2025-02-15,M. Shikongo
+2025-01-16,INV-2025-0058,Windhoek Supplies,Oshakati,Stationery Bulk Pack,Stationery & Consumables,13,1190.00,15470.00,Paid,2025-02-15,P. Iipinge
+2025-01-17,INV-2025-0059,Kunene Tours,Windhoek,Laptop,Electronics,5,13100.00,65500.00,Paid,2025-02-16,T. Nangolo
+2025-01-17,INV-2025-0060,ABC Trading,Windhoek,Office Chair,Office Furniture,7,2320.00,16240.00,Paid,2025-02-16,L. Hamunyela
+2025-01-17,INV-2025-0061,ABC Trading,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1180.00,11800.00,Paid,2025-02-16,T. Nangolo
+2025-01-17,INV-2025-0062,Oshana Builders,Oshakati,Office Chair,Office Furniture,8,2270.00,18160.00,Paid,2025-02-16,E. Shilongo
+2025-01-18,INV-2025-0063,Ohangwena Traders,Oshakati,IT Support Contract,Software & Services,2,18810.00,37620.00,Overdue,2025-02-17,E. Shilongo
+2025-01-18,INV-2025-0064,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,1,3985.00,3985.00,Paid,2025-02-17,J. Kandjoze
+2025-01-18,INV-2025-0065,Oshana Builders,Swakopmund,Toner Cartridge,Stationery & Consumables,1,1630.00,1630.00,Paid,2025-02-17,R. Beukes
+2025-01-18,INV-2025-0066,Ohangwena Traders,Oshakati,IT Support Contract,Software & Services,2,18770.00,37540.00,Paid,2025-02-17,E. Shilongo
+2025-01-18,INV-2025-0067,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,1,6530.00,6530.00,Paid,2025-03-19,S. Tjivikua
+2025-01-20,INV-2025-0068,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,6,1210.00,7260.00,Paid,2025-02-19,L. Hamunyela
+2025-01-20,INV-2025-0069,Erongo Mining Services,Windhoek,Printer,Electronics,2,3735.00,7470.00,Paid,2025-03-21,T. Nangolo
+2025-01-20,INV-2025-0070,Hardap Farms,Windhoek,IT Support Contract,Software & Services,1,17300.00,17300.00,Paid,2025-02-19,L. Hamunyela
+2025-01-20,INV-2025-0071,Erongo Mining Services,Oshakati,Smartphone,Electronics,5,6540.00,32700.00,Paid,2025-03-21,N. Haufiku
+2025-01-20,INV-2025-0072,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,11,875.00,9625.00,Paid,2025-02-19,N. Haufiku
+2025-01-21,INV-2025-0073,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,2,10100.00,20200.00,Overdue,2025-02-20,L. Hamunyela
+2025-01-22,INV-2025-0074,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,4,1245.00,4980.00,Paid,2025-02-21,M. Shikongo
+2025-01-22,INV-2025-0075,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,3,18145.00,54435.00,Paid,2025-02-21,L. Hamunyela
+2025-01-22,INV-2025-0076,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,13,1195.00,15535.00,Paid,2025-02-21,S. Tjivikua
+2025-01-22,INV-2025-0077,NamiTech,Swakopmund,Smartphone,Electronics,4,6425.00,25700.00,Paid,2025-02-21,A. Gaoab
+2025-01-24,INV-2025-0078,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,8,2280.00,18240.00,Paid,2025-02-23,A. Gaoab
+2025-01-24,INV-2025-0079,Namib Logistics,Windhoek,Smartphone,Electronics,6,6640.00,39840.00,Paid,2025-03-25,T. Nangolo
+2025-01-25,INV-2025-0080,Rundu Motors,Oshakati,Tablet,Electronics,5,5090.00,25450.00,Overdue,2025-02-24,P. Iipinge
+2025-01-25,INV-2025-0081,Swakop Boutique Hotel,Swakopmund,Filing Cabinet,Office Furniture,2,3030.00,6060.00,Paid,2025-02-24,R. Beukes
+2025-01-27,INV-2025-0082,Sossusvlei Lodge,Swakopmund,Accounting Software Licence,Software & Services,2,10230.00,20460.00,Paid,2025-02-26,R. Beukes
+2025-01-27,INV-2025-0083,Kalahari Traders,Windhoek,Tablet,Electronics,1,5085.00,5085.00,Paid,2025-02-26,T. Nangolo
+2025-01-27,INV-2025-0084,NamiTech,Windhoek,Office Chair,Office Furniture,5,2195.00,10975.00,Paid,2025-02-26,T. Nangolo
+2025-01-28,INV-2025-0085,NamiTech,Windhoek,Laptop,Electronics,5,12175.00,60875.00,Paid,2025-02-27,M. Shikongo
+2025-01-29,INV-2025-0086,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,7,1675.00,11725.00,Paid,2025-02-28,M. Shikongo
+2025-01-30,INV-2025-0087,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,1,5200.00,5200.00,Paid,2025-03-31,S. Tjivikua
+2025-01-30,INV-2025-0088,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,3,1160.00,3480.00,Paid,2025-03-31,R. Beukes
+2025-01-30,INV-2025-0089,Grootfontein Agri,Windhoek,Stationery Bulk Pack,Stationery & Consumables,18,1215.00,21870.00,Overdue,2025-03-01,T. Nangolo
+2025-01-30,INV-2025-0090,Rundu Motors,Oshakati,Office Chair,Office Furniture,6,2385.00,14310.00,Overdue,2025-03-01,P. Iipinge
+2025-01-30,INV-2025-0091,Windhoek Supplies,Windhoek,Tablet,Electronics,5,5080.00,25400.00,Paid,2025-03-01,T. Nangolo
+2025-01-31,INV-2025-0092,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,7,1205.00,8435.00,Overdue,2025-03-02,T. Nangolo
+2025-01-31,INV-2025-0093,Namport Contractors,Walvis Bay,Office Desk,Office Furniture,6,4240.00,25440.00,Paid,2025-03-02,S. Tjivikua
+2025-02-01,INV-2025-0094,Hardap Farms,Windhoek,Smartphone,Electronics,4,6650.00,26600.00,Paid,2025-03-03,L. Hamunyela
+2025-02-03,INV-2025-0095,XYZ Enterprises,Windhoek,Tablet,Electronics,5,5445.00,27225.00,Paid,2025-03-05,L. Hamunyela
+2025-02-03,INV-2025-0096,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,2,1250.00,2500.00,Paid,2025-04-04,J. Kandjoze
+2025-02-03,INV-2025-0097,NamiTech,Windhoek,IT Support Contract,Software & Services,1,17580.00,17580.00,Paid,2025-03-05,T. Nangolo
+2025-02-03,INV-2025-0098,Namib Logistics,Windhoek,Filing Cabinet,Office Furniture,1,3050.00,3050.00,Paid,2025-04-04,M. Shikongo
+2025-02-03,INV-2025-0099,Namport Contractors,Walvis Bay,Laptop,Electronics,2,12050.00,24100.00,Paid,2025-03-05,J. Kandjoze
+2025-02-03,INV-2025-0100,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,4,1730.00,6920.00,Paid,2025-03-05,M. Shikongo
+2025-02-03,INV-2025-0101,Tsumeb Metals,Oshakati,Toner Cartridge,Stationery & Consumables,9,1730.00,15570.00,Paid,2025-04-04,P. Iipinge
+2025-02-03,INV-2025-0102,Tsumeb Metals,Oshakati,Printer,Electronics,4,3925.00,15700.00,Paid,2025-04-04,P. Iipinge
+2025-02-03,INV-2025-0103,ABC Trading,Windhoek,Office Chair,Office Furniture,4,2395.00,9580.00,Paid,2025-03-05,L. Hamunyela
+2025-02-04,INV-2025-0104,Tsumeb Metals,Oshakati,Printer,Electronics,4,3985.00,15940.00,Paid,2025-04-05,P. Iipinge
+2025-02-04,INV-2025-0105,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,16,1140.00,18240.00,Paid,2025-04-05,E. Shilongo
+2025-02-05,INV-2025-0106,Rundu Motors,Oshakati,Printing Paper (Box),Stationery & Consumables,7,850.00,5950.00,Overdue,2025-03-07,E. Shilongo
+2025-02-06,INV-2025-0107,Namib Logistics,Windhoek,Tablet,Electronics,3,5105.00,15315.00,Paid,2025-04-07,T. Nangolo
+2025-02-06,INV-2025-0108,Oshana Builders,Oshakati,Laptop,Electronics,2,12200.00,24400.00,Paid,2025-03-08,N. Haufiku
+2025-02-06,INV-2025-0109,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,3,12255.00,36765.00,Paid,2025-03-08,P. Iipinge
+2025-02-06,INV-2025-0110,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,3,1600.00,4800.00,Paid,2025-03-08,M. Shikongo
+2025-02-06,INV-2025-0111,Sossusvlei Lodge,Swakopmund,Printer,Electronics,2,3710.00,7420.00,Paid,2025-03-08,R. Beukes
+2025-02-06,INV-2025-0112,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,10,1225.00,12250.00,Overdue,2025-04-07,A. Gaoab
+2025-02-07,INV-2025-0113,Ohangwena Traders,Oshakati,Smartphone,Electronics,3,6825.00,20475.00,Paid,2025-03-09,P. Iipinge
+2025-02-07,INV-2025-0114,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,16,1155.00,18480.00,Paid,2025-04-08,P. Iipinge
+2025-02-07,INV-2025-0115,Kalahari Traders,Windhoek,Smartphone,Electronics,3,6350.00,19050.00,Paid,2025-03-09,M. Shikongo
+2025-02-07,INV-2025-0116,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1215.00,23085.00,Paid,2025-03-09,T. Nangolo
+2025-02-07,INV-2025-0117,Namport Contractors,Walvis Bay,Filing Cabinet,Office Furniture,1,2995.00,2995.00,Paid,2025-03-09,J. Kandjoze
+2025-02-08,INV-2025-0118,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1145.00,17175.00,Paid,2025-03-10,T. Nangolo
+2025-02-08,INV-2025-0118,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1145.00,17175.00,Paid,2025-03-10,T. Nangolo
+2025-02-08,INV-2025-0119,Hardap Farms,Windhoek,Printing Paper (Box),Stationery & Consumables,38,815.00,30970.00,Paid,2025-03-10,T. Nangolo
+2025-02-08,INV-2025-0120,ABC Trading,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,5,1175.00,5875.00,Paid,2025-03-10,S. Tjivikua
+2025-02-10,INV-2025-0121,Rundu Motors,Oshakati,Accounting Software Licence,Software & Services,2,9310.00,18620.00,Overdue,2025-03-12,N. Haufiku
+2025-02-10,INV-2025-0122,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,11,1250.00,13750.00,Overdue,2025-03-12,R. Beukes
+2025-02-10,INV-2025-0123,Windhoek Supplies,Windhoek,Laptop,Electronics,5,13065.00,65325.00,Paid,2025-03-12,T. Nangolo
+2025-02-10,INV-2025-0124,Kalahari Traders,Windhoek,Tablet,Electronics,1,5075.00,5075.00,Paid,2025-03-12,M. Shikongo
+2025-02-10,INV-2025-0125,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,9,2360.00,21240.00,Paid,2025-03-12,M. Shikongo
+2025-02-10,INV-2025-0126,NamiTech,Windhoek,Accounting Software Licence,Software & Services,4,9375.00,37500.00,Paid,2025-03-12,T. Nangolo
+2025-02-10,INV-2025-0127,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,2,2225.00,4450.00,Paid,2025-04-11,A. Gaoab
+2025-02-11,INV-2025-0128,Walvis Freight Agents,Walvis Bay,IT Support Contract,Software & Services,1,18490.00,18490.00,Paid,2025-04-12,S. Tjivikua
+2025-02-11,INV-2025-0129,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,12,1705.00,20460.00,Paid,2025-03-13,T. Nangolo
+2025-02-11,INV-2025-0130,Windhoek Supplies,Oshakati,Stationery Bulk Pack,Stationery & Consumables,17,1190.00,20230.00,Overdue,2025-03-13,N. Haufiku
+2025-02-11,INV-2025-0131,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,2,4260.00,8520.00,Paid,2025-03-13,R. Beukes
+2025-02-11,INV-2025-0132,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,3,4195.00,12585.00,Paid,2025-03-13,R. Beukes
+2025-02-11,INV-2025-0133,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,5,1570.00,7850.00,Paid,2025-04-12,A. Gaoab
+2025-02-11,INV-2025-0134,Khomas Hardware,Windhoek,Tablet,Electronics,3,5310.00,15930.00,Paid,2025-03-13,M. Shikongo
+2025-02-11,INV-2025-0135,Windhoek Supplies,Windhoek,Filing Cabinet,Office Furniture,4,3000.00,12000.00,Paid,2025-03-13,L. Hamunyela
+2025-02-12,INV-2025-0136,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,10,1180.00,11800.00,Paid,2025-04-13,S. Tjivikua
+2025-02-12,INV-2025-0137,Rundu Motors,Oshakati,Accounting Software Licence,Software & Services,5,10130.00,50650.00,Paid,2025-03-14,P. Iipinge
+2025-02-12,INV-2025-0138,Skeleton Coast Foods,Walvis Bay,Toner Cartridge,Stationery & Consumables,3,1725.00,5175.00,Paid,2025-03-14,J. Kandjoze
+2025-02-12,INV-2025-0139,Tsumeb Metals,Oshakati,Office Desk,Office Furniture,5,4070.00,20350.00,Paid,2025-04-13,P. Iipinge
+2025-02-13,INV-2025-0140,NamiTech,Windhoek,Filing Cabinet,Office Furniture,3,2985.00,8955.00,Paid,2025-03-15,M. Shikongo
+2025-02-13,INV-2025-0141,Okavango Stationers,Windhoek,Smartphone,Electronics,5,6645.00,33225.00,Paid,2025-03-15,T. Nangolo
+2025-02-13,INV-2025-0142,Kalahari Traders,Windhoek,Tablet,Electronics,2,5305.00,10610.00,Overdue,2025-03-15,T. Nangolo
+2025-02-13,INV-2025-0143,Swakop Boutique Hotel,Swakopmund,Office Desk,Office Furniture,4,4245.00,16980.00,Paid,2025-03-15,A. Gaoab
+2025-02-14,INV-2025-0144,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,4,6620.00,26480.00,Paid,2025-04-15,J. Kandjoze
+2025-02-14,INV-2025-0145,NamiTech,Windhoek,Office Chair,Office Furniture,10,2245.00,22450.00,Paid,2025-03-16,M. Shikongo
+2025-02-14,INV-2025-0146,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,1,3045.00,3045.00,Paid,2025-03-16,M. Shikongo
+2025-02-14,INV-2025-0147,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,9,1195.00,10755.00,Paid,2025-03-16,R. Beukes
+2025-02-15,INV-2025-0148,Oshana Builders,Oshakati,Smartphone,Electronics,2,6750.00,13500.00,Paid,2025-03-17,N. Haufiku
+2025-02-15,INV-2025-0149,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,39,865.00,33735.00,Paid,2025-03-17,M. Shikongo
+2025-02-17,INV-2025-0150,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,14,880.00,12320.00,Paid,2025-03-19,R. Beukes
+2025-02-17,INV-2025-0151,Tsumeb Metals,Oshakati,Smartphone,Electronics,6,6340.00,38040.00,Overdue,2025-04-18,N. Haufiku
+2025-02-17,INV-2025-0152,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,5,6410.00,32050.00,Paid,2025-03-19,R. Beukes
+2025-02-17,INV-2025-0153,Caprivi Timber,Oshakati,Toner Cartridge,Stationery & Consumables,10,1635.00,16350.00,Overdue,2025-03-19,P. Iipinge
+2025-02-17,INV-2025-0154,ABC Trading,Windhoek,Printer,Electronics,1,3795.00,3795.00,Paid,2025-03-19,L. Hamunyela
+2025-02-17,INV-2025-0155,Ongwediva Pharmacy,Oshakati,Stationery Bulk Pack,Stationery & Consumables,19,1185.00,22515.00,Paid,2025-03-19,N. Haufiku
+2025-02-17,INV-2025-0156,Kalahari Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,31,830.00,25730.00,Overdue,2025-03-19,M. Shikongo
+2025-02-17,INV-2025-0157,NamiTech,Windhoek,Tablet,Electronics,3,5455.00,16365.00,Paid,2025-03-19,T. Nangolo
+2025-02-18,INV-2025-0158,Kunene Tours,Oshakati,Office Desk,Office Furniture,1,4265.00,4265.00,Paid,2025-03-20,P. Iipinge
+2025-02-18,INV-2025-0159,Namport Contractors,Walvis Bay,Office Desk,Office Furniture,6,4020.00,"24,120.00",Paid,2025-03-20,S. Tjivikua
+2025-02-18,INV-2025-0160,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,10,1700.00,17000.00,Overdue,2025-03-20,M. Shikongo
+2025-02-18,INV-2025-0161,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,1,3190.00,3190.00,Paid,2025-03-20,L. Hamunyela
+2025-02-19,INV-2025-0162,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,32,840.00,26880.00,Paid,2025-03-21,R. Beukes
+2025-02-19,INV-2025-0163,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,1,1580.00,1580.00,Paid,2025-03-21,L. Hamunyela
+2025-02-19,INV-2025-0164,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,17,1185.00,20145.00,Paid,2025-03-21,S. Tjivikua
+2025-02-19,INV-2025-0165,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,6,1150.00,6900.00,Paid,2025-03-21,R. Beukes
+2025-02-19,INV-2025-0166,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,1,1595.00,1595.00,Overdue,2025-03-21,L. Hamunyela
+2025-02-19,INV-2025-0167,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,24,860.00,20640.00,Paid,2025-03-21,P. Iipinge
+2025-02-19,INV-2025-0168,Namport Contractors,Walvis Bay,Tablet,Electronics,1,5275.00,5275.00,Paid,2025-03-21,S. Tjivikua
+2025-02-20,INV-2025-0169,Dolphin Marine Services,Windhoek,Printer,Electronics,1,3885.00,3885.00,Paid,2025-03-22,T. Nangolo
+2025-02-20,INV-2025-0170,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,25,855.00,21375.00,Paid,2025-04-21,R. Beukes
+2025-02-21,INV-2025-0171,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1250.00,16250.00,Paid,2025-04-22,M. Shikongo
+2025-02-21,INV-2025-0172,Erongo Mining Services,Swakopmund,Smartphone,Electronics,3,6200.00,18600.00,Overdue,2025-04-22,R. Beukes
+2025-02-21,INV-2025-0173,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,35,885.00,30975.00,Paid,2025-04-22,J. Kandjoze
+2025-02-21,INV-2025-0174,Khomas Hardware,Windhoek,Printer,Electronics,3,3635.00,10905.00,Paid,2025-03-23,T. Nangolo
+2025-02-21,INV-2025-0175,Tsumeb Metals,Oshakati,Filing Cabinet,Office Furniture,4,3070.00,12280.00,Paid,2025-04-22,P. Iipinge
+2025-02-21,INV-2025-0176,ABC Trading,Windhoek,Tablet,Electronics,4,5265.00,21060.00,Paid,2025-03-23,M. Shikongo
+2025-02-21,INV-2025-0177,Kunene Tours,Oshakati,Printer,Electronics,3,3845.00,"11,535.00",Paid,2025-03-23,N. Haufiku
+2025-02-22,INV-2025-0178,Oshana Builders,Oshakati,Filing Cabinet,Office Furniture,1,2990.00,2990.00,Overdue,2025-03-24,E. Shilongo
+2025-02-22,INV-2025-0179,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,5,1210.00,6050.00,Paid,2025-03-24,M. Shikongo
+2025-02-22,INV-2025-0180,XYZ Enterprises,Windhoek,Office Chair,Office Furniture,3,2375.00,7125.00,Paid,2025-03-24,T. Nangolo
+2025-02-22,INV-2025-0181,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6780.00,40680.00,Paid,2025-03-24,T. Nangolo
+2025-02-22,INV-2025-0182,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1195.00,17925.00,Paid,2025-04-23,L. Hamunyela
+2025-02-24,INV-2025-0183,Tsumeb Metals,Oshakati,Office Desk,Office Furniture,1,4120.00,4120.00,Paid,2025-04-25,P. Iipinge
+2025-02-24,INV-2025-0184,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,5,2255.00,11275.00,Paid,2025-03-26,A. Gaoab
+2025-02-25,INV-2025-0185,XYZ Enterprises,Windhoek,Smartphone,Electronics,5,6445.00,32225.00,Paid,2025-03-27,T. Nangolo
+2025-02-25,INV-2025-0186,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,4,1685.00,6740.00,Paid,2025-03-27,M. Shikongo
+2025-02-25,INV-2025-0187,XYZ Enterprises,Windhoek,Smartphone,Electronics,1,6185.00,6185.00,Paid,2025-03-27,M. Shikongo
+2025-02-25,INV-2025-0188,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,5,3225.00,16125.00,Overdue,2025-03-27,L. Hamunyela
+2025-02-26,INV-2025-0189,Caprivi Timber,Oshakati,Printing Paper (Box),Stationery & Consumables,13,875.00,11375.00,Overdue,2025-03-28,E. Shilongo
+2025-02-26,INV-2025-0190,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,12,1155.00,13860.00,Paid,2025-03-28,S. Tjivikua
+2025-02-26,INV-2025-0191,Rundu Motors,Oshakati,Accounting Software Licence,Software & Services,2,10280.00,20560.00,Paid,2025-03-28,E. Shilongo
+2025-02-26,INV-2025-0192,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,6,1605.00,9630.00,Paid,2025-03-28,M. Shikongo
+2025-02-26,INV-2025-0193,Ohangwena Traders,Oshakati,Smartphone,Electronics,3,6445.00,19335.00,Paid,2025-03-28,N. Haufiku
+2025-02-27,INV-2025-0194,Ongwediva Pharmacy,Walvis Bay,Toner Cartridge,Stationery & Consumables,12,1595.00,19140.00,Paid,2025-03-29,J. Kandjoze
+2025-02-27,INV-2025-0195,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,20,1245.00,24900.00,Overdue,2025-04-28,T. Nangolo
+2025-02-27,INV-2025-0196,Atlantic Fisheries,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1730.00,20760.00,Paid,2025-03-29,A. Gaoab
+2025-02-28,INV-2025-0197,Grootfontein Agri,Walvis Bay,Laptop,Electronics,3,11885.00,35655.00,Paid,2025-03-30,J. Kandjoze
+2025-02-28,INV-2025-0198,NamiTech,Windhoek,Tablet,Electronics,4,4945.00,19780.00,Paid,2025-03-30,T. Nangolo
+2025-02-28,INV-2025-0199,NamiTech,Windhoek,Printer,Electronics,1,3800.00,3800.00,Paid,2025-03-30,T. Nangolo
+2025-02-28,INV-2025-0200,Khomas Hardware,Windhoek,Smartphone,Electronics,4,6735.00,26940.00,Paid,2025-03-30,T. Nangolo
+2025-03-01,INV-2025-0201,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,15,845.00,12675.00,Paid,2025-03-31,T. Nangolo
+2025-03-01,INV-2025-0202,Namib Logistics,Windhoek,Office Desk,Office Furniture,2,4205.00,8410.00,Overdue,2025-04-30,M. Shikongo
+2025-03-01,INV-2025-0203,NamiTech,Windhoek,Printer,Electronics,1,3815.00,3815.00,Paid,2025-03-31,T. Nangolo
+2025-03-03,INV-2025-0204,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,21,855.00,17955.00,Paid,2025-04-02,S. Tjivikua
+2025-03-03,INV-2025-0205,NamiTech,Windhoek,Printer,Electronics,3,3980.00,11940.00,Paid,2025-04-02,M. Shikongo
+2025-03-03,INV-2025-0206,Okavango Stationers,Windhoek,IT Support Contract,Software & Services,3,16535.00,49605.00,Paid,2025-04-02,M. Shikongo
+2025-03-03,INV-2025-0207,Namport Contractors,Walvis Bay,Printing Paper (Box),Stationery & Consumables,12,810.00,9720.00,Paid,2025-04-02,S. Tjivikua
+2025-03-03,INV-2025-0208,Windhoek Supplies,Windhoek,Smartphone,Electronics,5,6715.00,33575.00,Paid,2025-04-02,L. Hamunyela
+2025-03-04,INV-2025-0209,Windhoek Supplies,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,9,1155.00,10395.00,Paid,2025-04-03,J. Kandjoze
+2025-03-04,INV-2025-0210,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,2,1250.00,2500.00,Paid,2025-04-03,S. Tjivikua
+2025-03-04,INV-2025-0211,Erongo Mining Services,Swakopmund,Laptop,Electronics,4,12785.00,51140.00,Paid,2025-05-03,A. Gaoab
+2025-03-05,INV-2025-0212,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,3,9375.00,28125.00,Overdue,2025-04-04,L. Hamunyela
+2025-03-06,INV-2025-0213,Erongo Mining Services,Swakopmund,Accounting Software Licence,Software & Services,4,9665.00,38660.00,Paid,2025-05-05,A. Gaoab
+2025-03-06,INV-2025-0214,Grootfontein Agri,Walvis Bay,Laptop,Electronics,5,12020.00,60100.00,Paid,2025-04-05,J. Kandjoze
+2025-03-07,INV-2025-0215,Namib Logistics,Windhoek,Toner Cartridge,Stationery & Consumables,9,1625.00,14625.00,Paid,2025-05-06,M. Shikongo
+2025-03-07,INV-2025-0216,Erongo Mining Services,Swakopmund,IT Support Contract,Software & Services,1,17595.00,17595.00,Paid,2025-05-06,R. Beukes
+2025-03-07,INV-2025-0217,ABC Trading,Windhoek,Office Chair,Office Furniture,10,2340.00,23400.00,Paid,2025-04-06,L. Hamunyela
+2025-03-07,INV-2025-0218,Hardap Farms,Windhoek,Office Desk,Office Furniture,4,4010.00,16040.00,Paid,2025-04-06,M. Shikongo
+2025-03-07,INV-2025-0219,Atlantic Fisheries,Swakopmund,Laptop,Electronics,3,11980.00,35940.00,Paid,2025-04-06,R. Beukes
+2025-03-07,INV-2025-0220,Khomas Hardware,Windhoek,Accounting Software Licence,Software & Services,2,9340.00,18680.00,Paid,2025-04-06,T. Nangolo
+2025-03-08,INV-2025-0221,Namib Logistics,Windhoek,Office Chair,Office Furniture,6,2405.00,14430.00,Paid,2025-05-07,M. Shikongo
+2025-03-08,INV-2025-0222,Namport Contractors,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,15,1255.00,18825.00,Paid,2025-04-07,A. Gaoab
+2025-03-08,INV-2025-0223,Khomas Hardware,Windhoek,Accounting Software Licence,Software & Services,4,9970.00,39880.00,Paid,2025-04-07,T. Nangolo
+2025-03-08,INV-2025-0224,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,8,1635.00,13080.00,Overdue,2025-04-07,E. Shilongo
+2025-03-08,INV-2025-0225,Tsumeb Metals,Oshakati,Tablet,Electronics,4,5330.00,21320.00,Paid,2025-05-07,E. Shilongo
+2025-03-08,INV-2025-0226,Kalahari Traders,Windhoek,Office Desk,Office Furniture,2,4050.00,8100.00,Overdue,2025-04-07,L. Hamunyela
+2025-03-10,INV-2025-0227,XYZ Enterprises,Windhoek,IT Support Contract,Software & Services,1,17190.00,17190.00,Paid,2025-04-09,M. Shikongo
+2025-03-10,INV-2025-0228,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,4,1655.00,6620.00,Paid,2025-04-09,L. Hamunyela
+2025-03-10,INV-2025-0229,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,14,1150.00,16100.00,Paid,2025-04-09,M. Shikongo
+2025-03-10,INV-2025-0230,Namib Logistics,Windhoek,Smartphone,Electronics,1,6590.00,6590.00,Paid,2025-05-09,L. Hamunyela
+2025-03-10,INV-2025-0231,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,12,1255.00,15060.00,Paid,2025-04-09,T. Nangolo
+2025-03-10,INV-2025-0232,Hardap Farms,Windhoek,Printing Paper (Box),Stationery & Consumables,25,845.00,21125.00,Overdue,2025-04-09,L. Hamunyela
+2025-03-10,INV-2025-0233,Tsumeb Metals,Oshakati,Toner Cartridge,Stationery & Consumables,2,1690.00,3380.00,Paid,2025-05-09,E. Shilongo
+2025-03-11,INV-2025-0234,Kalahari Traders,Windhoek,Smartphone,Electronics,6,6660.00,39960.00,Paid,2025-04-10,M. Shikongo
+2025-03-11,INV-2025-0235,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,5,1625.00,8125.00,Paid,2025-04-10,M. Shikongo
+2025-03-11,INV-2025-0236,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,19,860.00,16340.00,Paid,2025-05-10,R. Beukes
+2025-03-11,INV-2025-0237,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,4,4205.00,16820.00,Paid,2025-04-10,L. Hamunyela
+2025-03-12,INV-2025-0238,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,16,885.00,14160.00,Paid,2025-05-11,R. Beukes
+2025-03-12,INV-2025-0239,Namib Logistics,Windhoek,Toner Cartridge,Stationery & Consumables,4,1570.00,6280.00,Paid,2025-05-11,L. Hamunyela
+2025-03-12,INV-2025-0240,XYZ Enterprises,Windhoek,Laptop,Electronics,2,12315.00,24630.00,Paid,2025-04-11,T. Nangolo
+2025-03-12,INV-2025-0241,Atlantic Fisheries,Swakopmund,Printer,Electronics,2,3780.00,7560.00,Paid,2025-04-11,R. Beukes
+2025-03-12,INV-2025-0242,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,1,18210.00,18210.00,Paid,2025-04-11,M. Shikongo
+2025-03-12,INV-2025-0243,NamiTech,Windhoek,Filing Cabinet,Office Furniture,4,3130.00,12520.00,Paid,2025-04-11,M. Shikongo
+2025-03-12,INV-2025-0244,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,11,1580.00,17380.00,Paid,2025-04-11,L. Hamunyela
+2025-03-12,INV-2025-0245,Ohangwena Traders,Windhoek,Toner Cartridge,Stationery & Consumables,5,1595.00,7975.00,Overdue,2025-04-11,M. Shikongo
+2025-03-13,INV-2025-0246,ABC Trading,Windhoek,Tablet,Electronics,3,5395.00,16185.00,Paid,2025-04-12,T. Nangolo
+2025-03-13,INV-2025-0247,Tsumeb Metals,Oshakati,Tablet,Electronics,5,5135.00,25675.00,Paid,2025-05-12,P. Iipinge
+2025-03-13,INV-2025-0248,Oshana Builders,Oshakati,Smartphone,Electronics,5,6645.00,33225.00,Paid,2025-04-12,P. Iipinge
+2025-03-13,INV-2025-0249,Khomas Hardware,Windhoek,Office Chair,Office Furniture,7,2315.00,16205.00,Paid,2025-04-12,L. Hamunyela
+2025-03-13,INV-2025-0250,Hardap Farms,Windhoek,Office Chair,Office Furniture,6,2335.00,14010.00,Paid,2025-04-12,M. Shikongo
+2025-03-14,INV-2025-0251,Namport Contractors,Walvis Bay,Accounting Software Licence,Software & Services,5,9210.00,46050.00,Paid,2025-04-13,J. Kandjoze
+2025-03-14,INV-2025-0252,Namport Contractors,Walvis Bay,Accounting Software Licence,Software & Services,5,9370.00,46850.00,Paid,2025-04-13,J. Kandjoze
+2025-03-14,INV-2025-0253,Namport Contractors,Walvis Bay,Accounting Software Licence,Software & Services,5,9680.00,48400.00,Paid,2025-04-13,J. Kandjoze
+2025-03-14,INV-2025-0254,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,9,1165.00,10485.00,Paid,2025-04-13,M. Shikongo
+2025-03-14,INV-2025-0255,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,3,3815.00,11445.00,Paid,2025-04-13,J. Kandjoze
+2025-03-15,INV-2025-0256,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,5,12520.00,62600.00,Paid,2025-04-14,P. Iipinge
+2025-03-17,INV-2025-0257,Ongwediva Pharmacy,Oshakati,Smartphone,Electronics,3,6460.00,19380.00,Paid,2025-04-16,N. Haufiku
+2025-03-17,INV-2025-0258,Grootfontein Agri,Windhoek,Toner Cartridge,Stationery & Consumables,10,1720.00,17200.00,Paid,2025-04-16,T. Nangolo
+2025-03-17,INV-2025-0259,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,2,2290.00,4580.00,Paid,2025-05-16,J. Kandjoze
+2025-03-17,INV-2025-0260,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,5,6450.00,32250.00,Paid,2025-05-16,J. Kandjoze
+2025-03-17,INV-2025-0261,XYZ Enterprises,Windhoek,Smartphone,Electronics,2,6420.00,12840.00,Paid,2025-04-16,T. Nangolo
+2025-03-17,INV-2025-0262,NamiTech,Windhoek,Filing Cabinet,Office Furniture,4,3225.00,12900.00,Paid,2025-04-16,T. Nangolo
+2025-03-17,INV-2025-0263,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,1,6365.00,6365.00,Paid,2025-04-16,R. Beukes
+2025-03-17,INV-2025-0264,Rundu Motors,Oshakati,Smartphone,Electronics,7,6955.00,48685.00,Overdue,2025-04-16,E. Shilongo
+2025-03-17,INV-2025-0265,Kunene Tours,Oshakati,Printing Paper (Box),Stationery & Consumables,16,845.00,13520.00,Overdue,2025-04-16,N. Haufiku
+2025-03-18,INV-2025-0266,Caprivi Timber,Oshakati,Printing Paper (Box),Stationery & Consumables,21,860.00,18060.00,Overdue,2025-04-17,E. Shilongo
+2025-03-18,INV-2025-0267,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,11,1615.00,17765.00,Overdue,2025-04-17,N. Haufiku
+2025-03-18,INV-2025-0268,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,15,1150.00,17250.00,Paid,2025-05-17,J. Kandjoze
+2025-03-19,INV-2025-0269,Oshana Builders,Oshakati,Smartphone,Electronics,6,6710.00,40260.00,Paid,2025-04-18,N. Haufiku
+2025-03-19,INV-2025-0270,Atlantic Fisheries,Swakopmund,IT Support Contract,Software & Services,1,18445.00,18445.00,Paid,2025-04-18,A. Gaoab
+2025-03-20,INV-2025-0271,Sossusvlei Lodge,Oshakati,Office Chair,Office Furniture,1,2245.00,2245.00,Overdue,2025-04-19,E. Shilongo
+2025-03-01,INV-2025-0202,Namib Logistics,Windhoek,Office Desk,Office Furniture,2,4205.00,8410.00,Overdue,2025-04-30,M. Shikongo
+2025-03-20,INV-2025-0272,Kalahari Traders,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,19,1150.00,21850.00,Overdue,2025-04-19,S. Tjivikua
+2025-03-20,INV-2025-0273,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,4,1705.00,6820.00,Paid,2025-04-19,M. Shikongo
+2025-03-20,INV-2025-0274,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,5,4295.00,21475.00,Paid,2025-04-19,J. Kandjoze
+2025-03-20,INV-2025-0275,Kunene Tours,Oshakati,Accounting Software Licence,Software & Services,3,9920.00,29760.00,Overdue,2025-04-19,E. Shilongo
+2025-03-21,INV-2025-0276,Oshana Builders,Oshakati,Smartphone,Electronics,6,6220.00,37320.00,Paid,2025-04-20,N. Haufiku
+2025-03-21,INV-2025-0277,Ohangwena Traders,Oshakati,Laptop,Electronics,2,12915.00,25830.00,Paid,2025-04-20,E. Shilongo
+2025-03-21,INV-2025-0278,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,4,1180.00,4720.00,Paid,2025-04-20,M. Shikongo
+2025-03-21,INV-2025-0279,Namib Logistics,Windhoek,Laptop,Electronics,5,12750.00,63750.00,Paid,2025-05-20,M. Shikongo
+2025-03-21,INV-2025-0280,ABC Trading,Windhoek,Smartphone,Electronics,2,6235.00,12470.00,Overdue,2025-04-20,M. Shikongo
+2025-03-22,INV-2025-0281,Kunene Tours,Oshakati,Printing Paper (Box),Stationery & Consumables,5,820.00,4100.00,Paid,2025-04-21,N. Haufiku
+2025-03-22,INV-2025-0282,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,20,1155.00,23100.00,Paid,2025-04-21,S. Tjivikua
+2025-03-22,INV-2025-0283,Ohangwena Traders,Oshakati,Printer,Electronics,2,3955.00,7910.00,Overdue,2025-04-21,E. Shilongo
+2025-03-24,INV-2025-0284,Kalahari Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,24,820.00,19680.00,Paid,2025-04-23,L. Hamunyela
+2025-03-24,INV-2025-0285,Kunene Tours,Oshakati,Toner Cartridge,Stationery & Consumables,5,1580.00,7900.00,Paid,2025-04-23,P. Iipinge
+2025-03-24,INV-2025-0286,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,18,810.00,14580.00,Paid,2025-05-23,R. Beukes
+2025-03-24,INV-2025-0287,Sossusvlei Lodge,Swakopmund,Tablet,Electronics,5,5345.00,26725.00,Paid,2025-04-23,R. Beukes
+2025-03-25,INV-2025-0288,Tsumeb Metals,Windhoek,Printing Paper (Box),Stationery & Consumables,13,880.00,11440.00,Paid,2025-05-24,L. Hamunyela
+2025-03-26,INV-2025-0289,Walvis Freight Agents,Walvis Bay,Toner Cartridge,Stationery & Consumables,7,1640.00,11480.00,Paid,2025-05-25,S. Tjivikua
+2025-03-26,INV-2025-0290,Namib Logistics,Windhoek,Accounting Software Licence,Software & Services,1,9475.00,9475.00,Paid,2025-05-25,M. Shikongo
+2025-03-26,INV-2025-0291,ABC Trading,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1165.00,17475.00,Paid,2025-04-25,M. Shikongo
+2025-03-28,INV-2025-0292,Swakop Boutique Hotel,Swakopmund,Office Desk,Office Furniture,3,4410.00,13230.00,Paid,2025-04-27,A. Gaoab
+2025-03-28,INV-2025-0293,Sossusvlei Lodge,Swakopmund,Filing Cabinet,Office Furniture,5,3175.00,15875.00,Paid,2025-04-27,A. Gaoab
+2025-03-28,INV-2025-0294,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,4,6805.00,27220.00,Paid,2025-04-27,J. Kandjoze
+2025-03-28,INV-2025-0295,Atlantic Fisheries,Swakopmund,Tablet,Electronics,4,5050.00,20200.00,Paid,2025-04-27,A. Gaoab
+2025-03-28,INV-2025-0296,Namib Logistics,Windhoek,Office Desk,Office Furniture,3,4260.00,12780.00,Paid,2025-05-27,M. Shikongo
+2025-03-28,INV-2025-0297,Tsumeb Metals,Oshakati,Tablet,Electronics,1,5120.00,5120.00,Paid,2025-05-27,E. Shilongo
+2025-03-28,INV-2025-0297,Tsumeb Metals,Oshakati,Tablet,Electronics,1,5120.00,5120.00,Paid,2025-05-27,E. Shilongo
+2025-03-29,INV-2025-0298,Windhoek Supplies,Swakopmund,Office Chair,Office Furniture,2,2285.00,4570.00,Paid,2025-04-28,A. Gaoab
+2025-03-29,INV-2025-0299,,Oshakati,Printer,Electronics,1,3855.00,3855.00,Paid,2025-04-28,E. Shilongo
+2025-03-29,INV-2025-0300,Tsumeb Metals,Oshakati,Tablet,Electronics,4,5185.00,20740.00,Paid,2025-05-28,P. Iipinge
+2025-03-29,INV-2025-0301,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,8,2265.00,18120.00,Paid,2025-04-28,L. Hamunyela
+2025-03-29,INV-2025-0302,,Windhoek,Laptop,Electronics,1,12190.00,12190.00,Paid,2025-04-28,M. Shikongo
+2025-03-29,INV-2025-0303,Ohangwena Traders,Oshakati,Printing Paper (Box),Stationery & Consumables,20,850.00,17000.00,Paid,2025-04-28,E. Shilongo
+2025-03-29,INV-2025-0304,Ongwediva Pharmacy,Oshakati,Tablet,Electronics,1,5185.00,5185.00,Paid,2025-04-28,E. Shilongo
+2025-03-31,INV-2025-0305,XYZ Enterprises,Windhoek,Smartphone,Electronics,2,6590.00,13180.00,Paid,2025-04-30,L. Hamunyela
+2025-03-31,INV-2025-0306,Swakop Boutique Hotel,Swakopmund,Toner Cartridge,Stationery & Consumables,6,1690.00,10140.00,Paid,2025-04-30,A. Gaoab
+2025-03-31,INV-2025-0307,Benguela Cold Storage,Walvis Bay,Printer,Electronics,2,3935.00,7870.00,Paid,2025-04-30,J. Kandjoze
+2025-03-31,INV-2025-0308,Rundu Motors,Oshakati,Printing Paper (Box),Stationery & Consumables,24,820.00,19680.00,Paid,2025-04-30,N. Haufiku
+2025-03-31,INV-2025-0309,Dolphin Marine Services,Swakopmund,Office Chair,Office Furniture,7,2345.00,16415.00,Paid,2025-04-30,A. Gaoab
+2025-03-31,INV-2025-0310,Tsumeb Metals,Oshakati,Printer,Electronics,2,3945.00,7890.00,Paid,2025-05-30,N. Haufiku
+2025-03-31,INV-2025-0311,Windhoek Supplies,Windhoek,Smartphone,Electronics,1,6290.00,6290.00,Paid,2025-04-30,T. Nangolo
+2025-03-31,INV-2025-0312,Rundu Motors,Oshakati,Stationery Bulk Pack,Stationery & Consumables,13,1240.00,16120.00,Overdue,2025-04-30,P. Iipinge
+2025-03-31,INV-2025-0313,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,5,6520.00,32600.00,Paid,2025-04-30,A. Gaoab
+2025-03-31,INV-2025-0314,Hardap Farms,Windhoek,Office Chair,Office Furniture,1,2325.00,2325.00,Paid,2025-04-30,T. Nangolo
+2025-03-31,INV-2025-0315,Namib Logistics,Windhoek,Office Desk,Office Furniture,2,4340.00,8680.00,Paid,2025-05-30,M. Shikongo
+2025-03-31,INV-2025-0316,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,4,1705.00,6820.00,Paid,2025-04-30,N. Haufiku
+2025-03-31,INV-2025-0317,XYZ Enterprises,Windhoek,Smartphone,Electronics,6,6245.00,37470.00,Paid,2025-04-30,M. Shikongo
+2025-03-31,INV-2025-0318,Ongwediva Pharmacy,Oshakati,Stationery Bulk Pack,Stationery & Consumables,10,1235.00,12350.00,Paid,2025-04-30,E. Shilongo
+2025-03-31,INV-2025-0319,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,3,1575.00,4725.00,Paid,2025-04-30,E. Shilongo
+2025-03-31,INV-2025-0320,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,14,810.00,11340.00,Paid,2025-04-30,R. Beukes
+2025-04-01,INV-2025-0321,Ohangwena Traders,Walvis Bay,Smartphone,Electronics,2,6735.00,13470.00,Overdue,2025-05-01,S. Tjivikua
+2025-04-01,INV-2025-0322,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,6,6525.00,39150.00,Paid,2025-05-01,S. Tjivikua
+2025-04-02,INV-2025-0323,Windhoek Supplies,Walvis Bay,Printing Paper (Box),Stationery & Consumables,20,860.00,17200.00,Paid,2025-05-02,J. Kandjoze
+2025-04-02,INV-2025-0324,Benguela Cold Storage,Oshakati,Office Desk,Office Furniture,3,4225.00,12675.00,Paid,2025-05-02,P. Iipinge
+2025-04-02,INV-2025-0325,Namib Logistics,Windhoek,Laptop,Electronics,1,12660.00,12660.00,Overdue,2025-06-01,M. Shikongo
+2025-04-03,INV-2025-0326,Walvis Freight Agents,Walvis Bay,Filing Cabinet,Office Furniture,4,3060.00,12240.00,Paid,2025-06-02,J. Kandjoze
+2025-04-03,INV-2025-0327,Erongo Mining Services,Swakopmund,Printer,Electronics,1,3930.00,3930.00,Paid,2025-06-02,A. Gaoab
+2025-04-03,INV-2025-0328,Atlantic Fisheries,Swakopmund,Printer,Electronics,1,3660.00,3660.00,Paid,2025-05-03,A. Gaoab
+2025-04-03,INV-2025-0329,Kunene Tours,Oshakati,Office Chair,Office Furniture,7,2200.00,15400.00,Paid,2025-05-03,E. Shilongo
+2025-04-03,INV-2025-0330,Sossusvlei Lodge,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1715.00,20580.00,Paid,2025-05-03,A. Gaoab
+2025-04-03,INV-2025-0331,Kunene Tours,Oshakati,Filing Cabinet,Office Furniture,4,3080.00,"N$12,320.00",Paid,2025-05-03,E. Shilongo
+2025-04-04,INV-2025-0332,Swakop Boutique Hotel,Swakopmund,Office Chair,Office Furniture,3,2190.00,6570.00,Paid,2025-05-04,A. Gaoab
+2025-04-05,INV-2025-0333,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,1,1730.00,1730.00,Paid,2025-05-05,N. Haufiku
+2025-04-05,INV-2025-0334,XYZ Enterprises,Windhoek,Tablet,Electronics,1,5040.00,5040.00,Paid,2025-05-05,M. Shikongo
+2025-04-05,INV-2025-0335,Ohangwena Traders,Oshakati,Printing Paper (Box),Stationery & Consumables,37,875.00,32375.00,Paid,2025-05-05,N. Haufiku
+2025-04-05,INV-2025-0336,Oshana Builders,Windhoek,Laptop,Electronics,3,12140.00,36420.00,Paid,2025-05-05,M. Shikongo
+2025-04-05,INV-2025-0337,Walvis Freight Agents,Windhoek,Tablet,Electronics,3,5195.00,15585.00,Paid,2025-06-04,L. Hamunyela
+2025-04-05,INV-2025-0338,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,7,1145.00,8015.00,Paid,2025-05-05,S. Tjivikua
+2025-04-05,INV-2025-0339,Okavango Stationers,Oshakati,Stationery Bulk Pack,Stationery & Consumables,20,1155.00,23100.00,Paid,2025-05-05,P. Iipinge
+2025-04-07,INV-2025-0340,Okavango Stationers,Windhoek,Accounting Software Licence,Software & Services,3,9535.00,28605.00,Paid,2025-05-07,L. Hamunyela
+2025-04-07,INV-2025-0341,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,14,820.00,11480.00,Paid,2025-06-06,T. Nangolo
+2025-04-07,INV-2025-0342,ABC Trading,Windhoek,Office Desk,Office Furniture,4,4140.00,16560.00,Paid,2025-05-07,L. Hamunyela
+2025-04-07,INV-2025-0343,Erongo Mining Services,Swakopmund,Tablet,Electronics,4,5080.00,20320.00,Paid,2025-06-06,R. Beukes
+2025-04-07,INV-2025-0344,Ongwediva Pharmacy,Windhoek,Stationery Bulk Pack,Stationery & Consumables,20,1175.00,23500.00,Paid,2025-05-07,L. Hamunyela
+2025-04-07,INV-2025-0345,Ohangwena Traders,Oshakati,Smartphone,Electronics,1,6335.00,6335.00,Paid,2025-05-07,P. Iipinge
+2025-04-07,INV-2025-0346,,Oshakati,Laptop,Electronics,1,11990.00,11990.00,Paid,2025-06-06,E. Shilongo
+2025-04-07,INV-2025-0347,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,22,890.00,19580.00,Paid,2025-06-06,A. Gaoab
+2025-04-07,INV-2025-0348,ABC Trading,Oshakati,Office Desk,Office Furniture,3,4105.00,12315.00,Paid,2025-05-07,N. Haufiku
+2025-04-07,INV-2025-0349,Dolphin Marine Services,Swakopmund,Printer,Electronics,1,3690.00,3690.00,Paid,2025-05-07,A. Gaoab
+2025-04-07,INV-2025-0350,Kalahari Traders,Walvis Bay,Accounting Software Licence,Software & Services,3,9840.00,29520.00,Paid,2025-05-07,J. Kandjoze
+2025-04-07,INV-2025-0351,Hardap Farms,Windhoek,Office Chair,Office Furniture,2,2360.00,4720.00,Paid,2025-05-07,T. Nangolo
+2025-04-08,INV-2025-0352,Namport Contractors,Walvis Bay,Printer,Electronics,2,3740.00,7480.00,Paid,2025-05-08,J. Kandjoze
+2025-04-08,INV-2025-0353,Oshana Builders,Oshakati,Toner Cartridge,Stationery & Consumables,12,1645.00,19740.00,Paid,2025-05-08,P. Iipinge
+2025-04-08,INV-2025-0354,Dolphin Marine Services,Swakopmund,Office Chair,Office Furniture,5,2385.00,11925.00,Paid,2025-05-08,A. Gaoab
+2025-04-09,INV-2025-0355,Namib Logistics,Windhoek,Smartphone,Electronics,4,6725.00,-26900.00,Paid,2025-06-08,T. Nangolo
+2025-04-09,INV-2025-0356,Benguela Cold Storage,Walvis Bay,Printer,Electronics,1,3730.00,3730.00,Paid,2025-05-09,S. Tjivikua
+2025-04-09,INV-2025-0357,Tsumeb Metals,Oshakati,Printing Paper (Box),Stationery & Consumables,39,855.00,33345.00,Paid,2025-06-08,P. Iipinge
+2025-04-09,INV-2025-0358,ABC Trading,Windhoek,Laptop,Electronics,4,12640.00,50560.00,Paid,2025-05-09,T. Nangolo
+2025-04-09,INV-2025-0359,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,7,1180.00,8260.00,Paid,2025-05-09,N. Haufiku
+2025-04-10,INV-2025-0360,Namib Logistics,Windhoek,Smartphone,Electronics,4,6310.00,25240.00,Paid,2025-06-09,L. Hamunyela
+2025-04-10,INV-2025-0361,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6225.00,37350.00,Paid,2025-05-10,L. Hamunyela
+2025-04-10,INV-2025-0362,NamiTech,Windhoek,Office Desk,Office Furniture,1,4020.00,4020.00,Paid,2025-05-10,L. Hamunyela
+2025-04-11,INV-2025-0363,Ongwediva Pharmacy,Oshakati,Printer,Electronics,2,3785.00,7570.00,Paid,2025-05-11,N. Haufiku
+2025-04-11,INV-2025-0364,,Walvis Bay,Laptop,Electronics,5,12015.00,60075.00,Paid,2025-05-11,S. Tjivikua
+2025-04-11,INV-2025-0365,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,39,850.00,33150.00,Paid,2025-06-10,T. Nangolo
+2025-04-11,INV-2025-0366,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,14,1250.00,17500.00,Paid,2025-06-10,S. Tjivikua
+2025-04-12,INV-2025-0367,NamiTech,Windhoek,Smartphone,Electronics,4,6215.00,24860.00,Paid,2025-05-12,T. Nangolo
+2025-04-12,INV-2025-0368,Oshana Builders,Oshakati,Office Desk,Office Furniture,3,4375.00,13125.00,Overdue,2025-05-12,N. Haufiku
+2025-04-12,INV-2025-0369,Swakop Boutique Hotel,Swakopmund,Printer,Electronics,4,3655.00,14620.00,Paid,2025-05-12,A. Gaoab
+2025-04-14,INV-2025-0370,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,3,4145.00,12435.00,Overdue,2025-05-14,L. Hamunyela
+2025-04-14,INV-2025-0371,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,3,2245.00,6735.00,Paid,2025-06-13,A. Gaoab
+2025-04-14,INV-2025-0372,Dolphin Marine Services,Swakopmund,IT Support Contract,Software & Services,3,18635.00,55905.00,Paid,2025-05-14,A. Gaoab
+2025-04-15,INV-2025-0373,Grootfontein Agri,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,6,1160.00,6960.00,Paid,2025-05-15,J. Kandjoze
+2025-04-15,INV-2025-0374,Atlantic Fisheries,Swakopmund,Tablet,Electronics,2,4940.00,9880.00,Paid,2025-05-15,R. Beukes
+2025-04-15,INV-2025-0375,XYZ Enterprises,Windhoek,Printing Paper (Box),Stationery & Consumables,40,840.00,33600.00,Paid,2025-05-15,T. Nangolo
+2025-04-15,INV-2025-0376,Kalahari Traders,Oshakati,Accounting Software Licence,Software & Services,1,9450.00,9450.00,Overdue,2025-05-15,E. Shilongo
+2025-04-16,INV-2025-0377,Ohangwena Traders,Oshakati,Tablet,Electronics,1,5080.00,5080.00,Paid,2025-05-16,P. Iipinge
+2025-04-16,INV-2025-0378,Windhoek Supplies,Windhoek,Laptop,Electronics,3,12035.00,36105.00,Paid,2025-05-16,L. Hamunyela
+2025-04-16,INV-2025-0379,Okavango Stationers,Windhoek,Laptop,Electronics,1,12765.00,12765.00,Paid,2025-05-16,M. Shikongo
+2025-04-16,INV-2025-0380,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,2,2260.00,4520.00,Paid,2025-05-16,T. Nangolo
+2025-04-17,INV-2025-0381,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,34,855.00,29070.00,Paid,2025-05-17,M. Shikongo
+2025-04-17,INV-2025-0382,Dolphin Marine Services,Swakopmund,Accounting Software Licence,Software & Services,4,9395.00,37580.00,Paid,2025-05-17,A. Gaoab
+2025-04-18,INV-2025-0383,Rundu Motors,Oshakati,Stationery Bulk Pack,Stationery & Consumables,20,1175.00,23500.00,Paid,2025-05-18,N. Haufiku
+2025-04-18,INV-2025-0384,Erongo Mining Services,Swakopmund,Laptop,Electronics,5,12165.00,60825.00,Paid,2025-06-17,R. Beukes
+2025-04-18,INV-2025-0385,,Windhoek,Stationery Bulk Pack,Stationery & Consumables,7,1215.00,8505.00,Paid,2025-05-18,M. Shikongo
+2025-04-18,INV-2025-0386,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,4,5280.00,21120.00,Paid,2025-06-17,J. Kandjoze
+2025-04-18,INV-2025-0387,Caprivi Timber,Oshakati,Stationery Bulk Pack,Stationery & Consumables,20,1150.00,"N$23,000.00",Overdue,2025-05-18,P. Iipinge
+2025-04-18,INV-2025-0388,Atlantic Fisheries,Windhoek,Smartphone,Electronics,4,6265.00,25060.00,Paid,2025-05-18,T. Nangolo
+2025-04-19,INV-2025-0389,Skeleton Coast Foods,Walvis Bay,Laptop,Electronics,1,12465.00,12465.00,Paid,2025-05-19,J. Kandjoze
+2025-04-19,INV-2025-0390,ABC Trading,Windhoek,Stationery Bulk Pack,Stationery & Consumables,12,1180.00,14160.00,Paid,2025-05-19,M. Shikongo
+2025-04-19,INV-2025-0391,Grootfontein Agri,Walvis Bay,Filing Cabinet,Office Furniture,5,3240.00,16200.00,Paid,2025-05-19,J. Kandjoze
+2025-04-19,INV-2025-0392,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,28,835.00,23380.00,Paid,2025-05-19,M. Shikongo
+2025-04-19,INV-2025-0393,Kalahari Traders,Windhoek,Printer,Electronics,1,3765.00,3765.00,Paid,2025-05-19,T. Nangolo
+2025-04-19,INV-2025-0394,Ongwediva Pharmacy,Oshakati,Printer,Electronics,3,3900.00,11700.00,Paid,2025-05-19,P. Iipinge
+2025-04-21,INV-2025-0395,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,10,1165.00,11650.00,Paid,2025-06-20,S. Tjivikua
+2025-04-21,INV-2025-0396,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,19,1210.00,22990.00,Paid,2025-05-21,A. Gaoab
+2025-04-21,INV-2025-0397,ABC Trading,Walvis Bay,Filing Cabinet,Office Furniture,4,3205.00,12820.00,Paid,2025-05-21,S. Tjivikua
+2025-04-21,INV-2025-0398,Skeleton Coast Foods,Walvis Bay,Toner Cartridge,Stationery & Consumables,9,1680.00,15120.00,Paid,2025-05-21,S. Tjivikua
+2025-04-21,INV-2025-0399,Oshana Builders,Oshakati,Office Chair,Office Furniture,2,2395.00,4790.00,Paid,2025-05-21,N. Haufiku
+2025-04-21,INV-2025-0400,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,1,2370.00,2370.00,Paid,2025-06-20,J. Kandjoze
+2025-04-21,INV-2025-0401,Oshana Builders,Oshakati,Printer,Electronics,2,3795.00,"7,590.00",Paid,2025-05-21,E. Shilongo
+2025-04-21,INV-2025-0402,Grootfontein Agri,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,16,1260.00,20160.00,Paid,2025-05-21,J. Kandjoze
+2025-04-21,INV-2025-0403,Kunene Tours,Oshakati,Office Chair,Office Furniture,8,2255.00,18040.00,Paid,2025-05-21,E. Shilongo
+2025-04-22,INV-2025-0404,Ongwediva Pharmacy,Oshakati,Printer,Electronics,2,3915.00,7830.00,Paid,2025-05-22,N. Haufiku
+2025-04-22,INV-2025-0405,Rundu Motors,Oshakati,Smartphone,Electronics,1,6670.00,6670.00,Overdue,2025-05-22,E. Shilongo
+2025-04-22,INV-2025-0406,Benguela Cold Storage,Walvis Bay,Laptop,Electronics,3,12410.00,37230.00,Paid,2025-05-22,J. Kandjoze
+2025-04-22,INV-2025-0407,Namport Contractors,Walvis Bay,Smartphone,Electronics,3,6755.00,20265.00,Paid,2025-05-22,S. Tjivikua
+2025-04-23,INV-2025-0408,Ohangwena Traders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,13,1175.00,15275.00,Overdue,2025-05-23,P. Iipinge
+2025-04-23,INV-2025-0409,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,14,1255.00,17570.00,Paid,2025-05-23,L. Hamunyela
+2025-04-23,INV-2025-0410,Swakop Boutique Hotel,Swakopmund,Smartphone,Electronics,5,6515.00,32575.00,Paid,2025-05-23,R. Beukes
+2025-04-23,INV-2025-0411,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,6,1685.00,10110.00,Paid,2025-06-22,A. Gaoab
+2025-04-23,INV-2025-0412,Okavango Stationers,Windhoek,Smartphone,Electronics,5,6795.00,33975.00,Paid,2025-05-23,L. Hamunyela
+2025-04-24,INV-2025-0413,Walvis Freight Agents,Windhoek,Printer,Electronics,3,3665.00,10995.00,Paid,2025-06-23,L. Hamunyela
+2025-04-24,INV-2025-0414,Sossusvlei Lodge,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,2,1230.00,2460.00,Paid,2025-05-24,A. Gaoab
+2025-04-25,INV-2025-0415,Kalahari Traders,Swakopmund,Printer,Electronics,1,3770.00,3770.00,Overdue,2025-05-25,R. Beukes
+2025-04-25,INV-2025-0416,Atlantic Fisheries,Windhoek,Office Chair,Office Furniture,3,2365.00,7095.00,Paid,2025-05-25,T. Nangolo
+2025-04-25,INV-2025-0417,Tsumeb Metals,Oshakati,Tablet,Electronics,3,5200.00,15600.00,Paid,2025-06-24,N. Haufiku
+2025-04-25,INV-2025-0418,Windhoek Supplies,Windhoek,Tablet,Electronics,1,5180.00,5180.00,Paid,2025-05-25,L. Hamunyela
+2025-04-26,INV-2025-0419,Caprivi Timber,Oshakati,Toner Cartridge,Stationery & Consumables,6,1725.00,10350.00,Overdue,2025-05-26,N. Haufiku
+2025-04-26,INV-2025-0420,Caprivi Timber,Oshakati,Filing Cabinet,Office Furniture,5,3000.00,15000.00,Paid,2025-05-26,P. Iipinge
+2025-04-28,INV-2025-0421,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,12,845.00,10140.00,Paid,2025-05-28,J. Kandjoze
+2025-04-28,INV-2025-0422,Sossusvlei Lodge,Swakopmund,Office Chair,Office Furniture,9,2215.00,19935.00,Paid,2025-05-28,A. Gaoab
+2025-04-28,INV-2025-0423,Tsumeb Metals,Oshakati,Smartphone,Electronics,1,6415.00,6415.00,Paid,2025-06-27,E. Shilongo
+2025-04-28,INV-2025-0424,Khomas Hardware,Windhoek,Smartphone,Electronics,6,6590.00,39540.00,Paid,2025-05-28,T. Nangolo
+2025-04-28,INV-2025-0425,Swakop Boutique Hotel,Swakopmund,Toner Cartridge,Stationery & Consumables,6,1690.00,10140.00,Paid,2025-05-28,A. Gaoab
+2025-04-28,INV-2025-0426,Benguela Cold Storage,Walvis Bay,Toner Cartridge,Stationery & Consumables,12,1725.00,20700.00,Paid,2025-05-28,J. Kandjoze
+2025-04-28,INV-2025-0427,Kalahari Traders,Windhoek,Office Chair,Office Furniture,7,2290.00,16030.00,Paid,2025-05-28,M. Shikongo
+2025-04-28,INV-2025-0428,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1255.00,16315.00,Paid,2025-05-28,T. Nangolo
+2025-04-28,INV-2025-0429,Skeleton Coast Foods,Walvis Bay,Office Desk,Office Furniture,2,4325.00,8650.00,Paid,2025-05-28,S. Tjivikua
+2025-04-28,INV-2025-0430,Kalahari Traders,Windhoek,Smartphone,Electronics,2,6690.00,13380.00,Overdue,2025-05-28,T. Nangolo
+2025-04-28,INV-2025-0431,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,2,12745.00,25490.00,Paid,2025-06-27,J. Kandjoze
+2025-04-28,INV-2025-0432,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,11,1710.00,18810.00,Paid,2025-05-28,M. Shikongo
+2025-04-28,INV-2025-0433,Kunene Tours,Windhoek,Filing Cabinet,Office Furniture,3,3175.00,9525.00,Paid,2025-05-28,M. Shikongo
+2025-04-28,INV-2025-0434,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,16,810.00,12960.00,Paid,2025-05-28,J. Kandjoze
+2025-04-28,INV-2025-0435,NamiTech,Windhoek,Smartphone,Electronics,6,6245.00,37470.00,Paid,2025-05-28,M. Shikongo
+2025-04-28,INV-2025-0436,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,5,1615.00,8075.00,Overdue,2025-05-28,P. Iipinge
+2025-04-29,INV-2025-0437,Namib Logistics,Windhoek,Smartphone,Electronics,4,6565.00,26260.00,Paid,2025-06-28,L. Hamunyela
+2025-04-29,INV-2025-0438,Swakop Boutique Hotel,Swakopmund,Office Chair,Office Furniture,3,2295.00,6885.00,Paid,2025-05-29,A. Gaoab
+2025-04-29,INV-2025-0439,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1255.00,16315.00,Paid,2025-06-28,L. Hamunyela
+2025-04-29,INV-2025-0440,Okavango Stationers,Windhoek,Office Chair,Office Furniture,1,2335.00,2335.00,Paid,2025-05-29,M. Shikongo
+2025-04-29,INV-2025-0441,,Windhoek,Filing Cabinet,Office Furniture,1,3120.00,3120.00,Paid,2025-05-29,L. Hamunyela
+2025-04-30,INV-2025-0442,Tsumeb Metals,Oshakati,Smartphone,Electronics,1,6575.00,6575.00,Paid,2025-06-29,N. Haufiku
+2025-04-30,INV-2025-0443,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,8,2285.00,18280.00,Paid,2025-06-29,J. Kandjoze
+2025-05-01,INV-2025-0444,Kalahari Traders,Windhoek,Laptop,Electronics,1,13085.00,13085.00,Paid,2025-05-31,M. Shikongo
+2025-05-01,INV-2025-0445,Ohangwena Traders,Swakopmund,Printing Paper (Box),Stationery & Consumables,5,810.00,4050.00,Paid,2025-05-31,A. Gaoab
+2025-05-01,INV-2025-0446,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,5,12740.00,63700.00,Paid,2025-06-30,J. Kandjoze
+2025-05-01,INV-2025-0447,ABC Trading,Windhoek,Office Desk,Office Furniture,5,4195.00,20975.00,Paid,2025-05-31,T. Nangolo
+2025-05-02,INV-2025-0448,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,3,1650.00,4950.00,Paid,2025-06-01,M. Shikongo
+2025-05-02,INV-2025-0449,Sossusvlei Lodge,Swakopmund,Filing Cabinet,Office Furniture,1,3150.00,3150.00,Paid,2025-06-01,A. Gaoab
+2025-05-02,INV-2025-0450,Sossusvlei Lodge,Swakopmund,Office Desk,Office Furniture,5,4345.00,21725.00,Paid,2025-06-01,A. Gaoab
+2025-05-02,INV-2025-0451,Khomas Hardware,Windhoek,Accounting Software Licence,Software & Services,3,9970.00,29910.00,Overdue,2025-06-01,T. Nangolo
+2025-05-02,INV-2025-0452,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,16,890.00,14240.00,Paid,2025-06-01,A. Gaoab
+2025-05-03,INV-2025-0453,NamiTech,Windhoek,Laptop,Electronics,3,12170.00,36510.00,Paid,2025-06-02,M. Shikongo
+2025-05-03,INV-2025-0454,Swakop Boutique Hotel,Swakopmund,Filing Cabinet,Office Furniture,5,3175.00,15875.00,Paid,2025-06-02,A. Gaoab
+2025-05-03,INV-2025-0455,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,4,4375.00,17500.00,Paid,2025-07-02,R. Beukes
+2025-05-03,INV-2025-0456,Walvis Freight Agents,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,11,1255.00,13805.00,Paid,2025-07-02,A. Gaoab
+2025-05-05,INV-2025-0457,Ongwediva Pharmacy,Oshakati,Accounting Software Licence,Software & Services,1,10080.00,10080.00,Paid,2025-06-04,E. Shilongo
+2025-05-05,INV-2025-0458,Kalahari Traders,Windhoek,Laptop,Electronics,2,12165.00,24330.00,Overdue,2025-06-04,M. Shikongo
+2025-05-05,INV-2025-0459,Kunene Tours,Oshakati,Office Chair,Office Furniture,1,2290.00,2290.00,Overdue,2025-06-04,N. Haufiku
+2025-05-05,INV-2025-0460,Swakop Boutique Hotel,Swakopmund,Smartphone,Electronics,2,6315.00,12630.00,Paid,2025-06-04,A. Gaoab
+2025-05-05,INV-2025-0461,Tsumeb Metals,Oshakati,Printer,Electronics,3,3730.00,11190.00,Paid,2025-07-04,N. Haufiku
+2025-05-05,INV-2025-0462,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,9,2290.00,20610.00,Paid,2025-06-04,T. Nangolo
+2025-05-05,INV-2025-0463,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,2,2190.00,4380.00,Paid,2025-07-04,S. Tjivikua
+2025-05-05,INV-2025-0464,Oshana Builders,Oshakati,Office Chair,Office Furniture,3,2345.00,7035.00,Paid,2025-06-04,E. Shilongo
+2025-05-05,INV-2025-0465,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,3,3610.00,10830.00,Paid,2025-06-04,J. Kandjoze
+2025-05-05,INV-2025-0466,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,31,835.00,25885.00,Paid,2025-06-04,S. Tjivikua
+2025-05-05,INV-2025-0467,Atlantic Fisheries,Swakopmund,Printer,Electronics,2,3860.00,7720.00,Paid,2025-06-04,R. Beukes
+2025-05-05,INV-2025-0468,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,4,3215.00,12860.00,Paid,2025-06-04,L. Hamunyela
+2025-05-06,INV-2025-0469,Erongo Mining Services,Swakopmund,Tablet,Electronics,5,5135.00,25675.00,Overdue,2025-07-05,R. Beukes
+2025-05-06,INV-2025-0470,Tsumeb Metals,Oshakati,Printing Paper (Box),Stationery & Consumables,34,830.00,28220.00,Paid,2025-07-05,N. Haufiku
+2025-05-06,INV-2025-0471,Benguela Cold Storage,Oshakati,Accounting Software Licence,Software & Services,4,9620.00,38480.00,Paid,2025-06-05,E. Shilongo
+2025-05-07,INV-2025-0472,Erongo Mining Services,Swakopmund,Filing Cabinet,Office Furniture,4,2970.00,11880.00,Paid,2025-07-06,R. Beukes
+2025-05-07,INV-2025-0473,Sossusvlei Lodge,Swakopmund,Office Desk,Office Furniture,4,4365.00,17460.00,Paid,2025-06-06,A. Gaoab
+2025-05-07,INV-2025-0474,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,27,865.00,23355.00,Paid,2025-07-06,J. Kandjoze
+2025-05-07,INV-2025-0475,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,8,835.00,6680.00,Paid,2025-06-06,P. Iipinge
+2025-05-07,INV-2025-0476,NamiTech,Windhoek,Printer,Electronics,2,3740.00,7480.00,Paid,2025-06-06,T. Nangolo
+2025-05-08,INV-2025-0477,Namport Contractors,Walvis Bay,IT Support Contract,Software & Services,3,18045.00,54135.00,Paid,2025-06-07,S. Tjivikua
+2025-05-08,INV-2025-0478,XYZ Enterprises,Windhoek,Filing Cabinet,Office Furniture,4,3070.00,12280.00,Paid,2025-06-07,M. Shikongo
+2025-05-08,INV-2025-0479,Namib Logistics,Windhoek,Smartphone,Electronics,6,6475.00,38850.00,Paid,2025-07-07,T. Nangolo
+2025-05-09,INV-2025-0480,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,6,4240.00,25440.00,Paid,2025-06-08,M. Shikongo
+2025-05-09,INV-2025-0481,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1655.00,19860.00,Overdue,2025-07-08,A. Gaoab
+2025-05-09,INV-2025-0482,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,13,835.00,10855.00,Paid,2025-06-08,P. Iipinge
+2025-05-09,INV-2025-0483,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,5,4155.00,20775.00,Paid,2025-07-08,R. Beukes
+2025-05-09,INV-2025-0484,Ongwediva Pharmacy,Oshakati,Office Desk,Office Furniture,2,4265.00,8530.00,Paid,2025-06-08,P. Iipinge
+2025-05-09,INV-2025-0485,Namport Contractors,Walvis Bay,Laptop,Electronics,1,12165.00,12165.00,Paid,2025-06-08,J. Kandjoze
+2025-05-09,INV-2025-0486,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,11,865.00,9515.00,Paid,2025-06-08,L. Hamunyela
+2025-05-10,INV-2025-0487,Windhoek Supplies,Windhoek,Laptop,Electronics,2,12090.00,24180.00,Paid,2025-06-09,L. Hamunyela
+2025-05-10,INV-2025-0488,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,7,1630.00,11410.00,Paid,2025-07-09,R. Beukes
+2025-05-10,INV-2025-0489,Skeleton Coast Foods,Walvis Bay,Office Chair,Office Furniture,3,2365.00,7095.00,Paid,2025-06-09,J. Kandjoze
+2025-05-12,INV-2025-0490,Sossusvlei Lodge,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,7,1255.00,8785.00,Overdue,2025-06-11,A. Gaoab
+2025-05-12,INV-2025-0491,NamiTech,Windhoek,Tablet,Electronics,3,4995.00,14985.00,Paid,2025-06-11,M. Shikongo
+2025-05-12,INV-2025-0492,Dolphin Marine Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,35,865.00,30275.00,Paid,2025-06-11,A. Gaoab
+2025-05-12,INV-2025-0493,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,4,12640.00,50560.00,Paid,2025-06-11,N. Haufiku
+2025-05-12,INV-2025-0494,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,4,1685.00,6740.00,Paid,2025-06-11,E. Shilongo
+2025-05-12,INV-2025-0495,XYZ Enterprises,Windhoek,Smartphone,Electronics,4,6420.00,25680.00,Paid,2025-06-11,L. Hamunyela
+2025-05-12,INV-2025-0496,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1160.00,17400.00,Paid,2025-06-11,M. Shikongo
+2025-05-12,INV-2025-0497,Skeleton Coast Foods,Walvis Bay,Office Chair,Office Furniture,10,2300.00,23000.00,Overdue,2025-06-11,J. Kandjoze
+2025-05-13,INV-2025-0498,Sossusvlei Lodge,Swakopmund,Printer,Electronics,3,3925.00,11775.00,Paid,2025-06-12,R. Beukes
+2025-05-13,INV-2025-0499,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,30,890.00,26700.00,Paid,2025-06-12,S. Tjivikua
+2025-05-13,INV-2025-0500,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,10,1670.00,16700.00,Paid,2025-07-12,A. Gaoab
+2025-05-13,INV-2025-0501,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,7,845.00,5915.00,Paid,2025-06-12,N. Haufiku
+2025-05-14,INV-2025-0502,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,1,12615.00,12615.00,Paid,2025-06-13,P. Iipinge
+2025-05-14,INV-2025-0503,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,18,1180.00,21240.00,Paid,2025-07-13,E. Shilongo
+2025-05-14,INV-2025-0504,Namib Logistics,Windhoek,Office Chair,Office Furniture,5,2225.00,11125.00,Paid,2025-07-13,T. Nangolo
+2025-05-14,INV-2025-0505,NamiTech,Windhoek,Office Desk,Office Furniture,3,4210.00,12630.00,Paid,2025-06-13,T. Nangolo
+2025-05-14,INV-2025-0506,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,5,6200.00,31000.00,Paid,2025-06-13,R. Beukes
+2025-05-15,INV-2025-0507,Okavango Stationers,Windhoek,Toner Cartridge,Stationery & Consumables,3,1610.00,4830.00,Paid,2025-06-14,L. Hamunyela
+2025-05-15,INV-2025-0508,Namib Logistics,Windhoek,Office Chair,Office Furniture,2,2270.00,4540.00,Paid,2025-07-14,M. Shikongo
+2025-05-15,INV-2025-0509,Namib Logistics,Windhoek,Laptop,Electronics,2,13015.00,26030.00,Paid,2025-07-14,L. Hamunyela
+2025-05-15,INV-2025-0510,Oshana Builders,Oshakati,Office Desk,Office Furniture,4,4090.00,16360.00,Paid,2025-06-14,N. Haufiku
+2025-05-16,INV-2025-0511,Dolphin Marine Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,9,1235.00,11115.00,Paid,2025-06-15,A. Gaoab
+2025-05-16,INV-2025-0512,Caprivi Timber,Oshakati,IT Support Contract,Software & Services,3,16620.00,49860.00,Overdue,2025-06-15,P. Iipinge
+2025-05-16,INV-2025-0513,NamiTech,Windhoek,Printer,Electronics,3,3915.00,11745.00,Paid,2025-06-15,T. Nangolo
+2025-05-17,INV-2025-0514,Sossusvlei Lodge,Swakopmund,Printing Paper (Box),Stationery & Consumables,26,875.00,22750.00,Paid,2025-06-16,A. Gaoab
+2025-05-17,INV-2025-0515,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1150.00,9200.00,Paid,2025-06-16,M. Shikongo
+2025-05-17,INV-2025-0516,Kalahari Traders,Windhoek,Tablet,Electronics,5,5170.00,25850.00,Paid,2025-06-16,L. Hamunyela
+2025-05-17,INV-2025-0517,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,1,1655.00,1655.00,Overdue,2025-06-16,T. Nangolo
+2025-05-19,INV-2025-0518,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,8,1220.00,9760.00,Paid,2025-06-18,S. Tjivikua
+2025-05-19,INV-2025-0519,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,1,3125.00,3125.00,Paid,2025-06-18,M. Shikongo
+2025-05-19,INV-2025-0520,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,11,1595.00,17545.00,Overdue,2025-06-18,P. Iipinge
+2025-05-20,INV-2025-0521,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,4,4045.00,16180.00,Paid,2025-06-19,A. Gaoab
+2025-05-20,INV-2025-0522,Erongo Mining Services,Swakopmund,Laptop,Electronics,1,12350.00,12350.00,Paid,2025-07-19,A. Gaoab
+2025-05-20,INV-2025-0523,Oshana Builders,Oshakati,Printer,Electronics,3,3745.00,11235.00,Paid,2025-06-19,N. Haufiku
+2025-05-21,INV-2025-0524,XYZ Enterprises,Windhoek,Office Chair,Office Furniture,3,2400.00,7200.00,Paid,2025-06-20,M. Shikongo
+2025-05-21,INV-2025-0525,Namib Logistics,Windhoek,Smartphone,Electronics,2,6240.00,12480.00,Paid,2025-07-20,L. Hamunyela
+2025-05-21,INV-2025-0526,Grootfontein Agri,Walvis Bay,Printing Paper (Box),Stationery & Consumables,5,855.00,4275.00,Paid,2025-06-20,S. Tjivikua
+2025-05-21,INV-2025-0527,NamiTech,Windhoek,Laptop,Electronics,5,13015.00,65075.00,Paid,2025-06-20,L. Hamunyela
+2025-05-21,INV-2025-0528,Oshana Builders,Walvis Bay,Office Chair,Office Furniture,8,2225.00,17800.00,Paid,2025-06-20,J. Kandjoze
+2025-05-22,INV-2025-0529,Rundu Motors,Oshakati,Printing Paper (Box),Stationery & Consumables,27,880.00,23760.00,Overdue,2025-06-21,E. Shilongo
+2025-05-22,INV-2025-0530,ABC Trading,Windhoek,Printing Paper (Box),Stationery & Consumables,24,855.00,20520.00,Paid,2025-06-21,M. Shikongo
+2025-05-23,INV-2025-0531,Swakop Boutique Hotel,Swakopmund,Printing Paper (Box),Stationery & Consumables,15,810.00,12150.00,Paid,2025-06-22,A. Gaoab
+2025-05-23,INV-2025-0532,Hardap Farms,Windhoek,Printing Paper (Box),Stationery & Consumables,11,850.00,9350.00,Paid,2025-06-22,L. Hamunyela
+2025-05-23,INV-2025-0533,Kunene Tours,Oshakati,Printing Paper (Box),Stationery & Consumables,21,860.00,18060.00,Paid,2025-06-22,N. Haufiku
+2025-05-23,INV-2025-0534,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,17,1170.00,19890.00,Paid,2025-07-22,E. Shilongo
+2025-05-24,INV-2025-0535,Oshana Builders,Oshakati,Office Chair,Office Furniture,4,2300.00,9200.00,Paid,2025-06-23,N. Haufiku
+2025-05-24,INV-2025-0536,Skeleton Coast Foods,Walvis Bay,Smartphone,Electronics,5,6635.00,33175.00,Paid,2025-06-23,S. Tjivikua
+2025-05-24,INV-2025-0537,XYZ Enterprises,Windhoek,Printer,Electronics,2,3755.00,7510.00,Paid,2025-06-23,T. Nangolo
+2025-05-26,INV-2025-0538,Khomas Hardware,Windhoek,Printer,Electronics,1,3960.00,3960.00,Paid,2025-06-25,L. Hamunyela
+2025-05-26,INV-2025-0539,Ongwediva Pharmacy,Oshakati,Printing Paper (Box),Stationery & Consumables,35,845.00,29575.00,Paid,2025-06-25,P. Iipinge
+2025-05-26,INV-2025-0540,NamiTech,Windhoek,Filing Cabinet,Office Furniture,2,3090.00,6180.00,Paid,2025-06-25,T. Nangolo
+2025-05-26,INV-2025-0541,Namib Logistics,Walvis Bay,Toner Cartridge,Stationery & Consumables,8,1700.00,13600.00,Paid,2025-07-25,J. Kandjoze
+2025-05-26,INV-2025-0542,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,3,1220.00,3660.00,Paid,2025-06-25,M. Shikongo
+2025-05-26,INV-2025-0543,Grootfontein Agri,Oshakati,Tablet,Electronics,4,5290.00,21160.00,Paid,2025-06-25,E. Shilongo
+2025-05-26,INV-2025-0544,Ohangwena Traders,Oshakati,Smartphone,Electronics,3,6270.00,18810.00,Paid,2025-06-25,P. Iipinge
+2025-05-26,INV-2025-0545,Khomas Hardware,Windhoek,Filing Cabinet,Office Furniture,3,3160.00,9480.00,Paid,2025-06-25,M. Shikongo
+2025-05-26,INV-2025-0546,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,1,5135.00,5135.00,Paid,2025-07-25,J. Kandjoze
+2025-05-27,INV-2025-0547,Dolphin Marine Services,Swakopmund,Office Chair,Office Furniture,6,2375.00,14250.00,Paid,2025-06-26,A. Gaoab
+2025-05-27,INV-2025-0548,Dolphin Marine Services,Swakopmund,Tablet,Electronics,3,5335.00,"N$16,005.00",Paid,2025-06-26,A. Gaoab
+2025-05-27,INV-2025-0549,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,6,4145.00,24870.00,Paid,2025-06-26,L. Hamunyela
+2025-05-27,INV-2025-0550,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,1,2295.00,2295.00,Paid,2025-07-26,J. Kandjoze
+2025-05-27,INV-2025-0551,Namib Logistics,Windhoek,Smartphone,Electronics,1,6685.00,6685.00,Paid,2025-07-26,T. Nangolo
+2025-05-27,INV-2025-0552,XYZ Enterprises,Windhoek,Laptop,Electronics,1,12225.00,12225.00,Paid,2025-06-26,L. Hamunyela
+2025-05-28,INV-2025-0553,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,2,1190.00,2380.00,Paid,2025-07-27,S. Tjivikua
+2025-05-28,INV-2025-0554,Namib Logistics,Windhoek,Office Desk,Office Furniture,1,4270.00,4270.00,Paid,2025-07-27,M. Shikongo
+2025-05-28,INV-2025-0555,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,10,1710.00,17100.00,Paid,2025-06-27,T. Nangolo
+2025-05-28,INV-2025-0556,Hardap Farms,Windhoek,IT Support Contract,Software & Services,3,18500.00,55500.00,Paid,2025-06-27,T. Nangolo
+2025-05-28,INV-2025-0557,Namib Logistics,Windhoek,Toner Cartridge,Stationery & Consumables,3,1630.00,4890.00,Paid,2025-07-27,T. Nangolo
+2025-05-28,INV-2025-0558,Atlantic Fisheries,Windhoek,Laptop,Electronics,4,12855.00,51420.00,Paid,2025-06-27,L. Hamunyela
+2025-05-28,INV-2025-0559,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,4,2395.00,9580.00,Paid,2025-07-27,S. Tjivikua
+2025-05-29,INV-2025-0560,Ongwediva Pharmacy,Oshakati,Office Chair,Office Furniture,7,2330.00,16310.00,Paid,2025-06-28,P. Iipinge
+2025-05-29,INV-2025-0561,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,7,1160.00,8120.00,Paid,2025-06-28,L. Hamunyela
+2025-05-29,INV-2025-0562,Khomas Hardware,Windhoek,Filing Cabinet,Office Furniture,1,3075.00,3075.00,Paid,2025-06-28,T. Nangolo
+2025-05-29,INV-2025-0563,Kunene Tours,Walvis Bay,Printing Paper (Box),Stationery & Consumables,27,885.00,23895.00,Overdue,2025-06-28,J. Kandjoze
+2025-05-30,INV-2025-0564,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,5,1190.00,5950.00,Paid,2025-07-29,E. Shilongo
+2025-05-30,INV-2025-0565,Ohangwena Traders,Oshakati,Printer,Electronics,3,3895.00,11685.00,Paid,2025-06-29,E. Shilongo
+2025-05-30,INV-2025-0566,Kalahari Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,17,850.00,14450.00,Paid,2025-06-29,T. Nangolo
+2025-05-30,INV-2025-0567,Rundu Motors,Oshakati,Smartphone,Electronics,4,6505.00,26020.00,Overdue,2025-06-29,E. Shilongo
+2025-05-31,INV-2025-0568,XYZ Enterprises,Windhoek,Accounting Software Licence,Software & Services,1,9810.00,9810.00,Paid,2025-06-30,L. Hamunyela
+2025-05-31,INV-2025-0569,Caprivi Timber,Oshakati,Office Chair,Office Furniture,9,2320.00,20880.00,Overdue,2025-06-30,N. Haufiku
+2025-05-31,INV-2025-0570,Erongo Mining Services,Oshakati,Smartphone,Electronics,3,6235.00,18705.00,Paid,2025-07-30,N. Haufiku
+2025-05-31,INV-2025-0571,Okavango Stationers,Windhoek,Printer,Electronics,1,3645.00,3645.00,Paid,2025-06-30,T. Nangolo
+2025-06-02,INV-2025-0572,Erongo Mining Services,Windhoek,Office Chair,Office Furniture,1,2400.00,2400.00,Paid,2025-08-01,L. Hamunyela
+2025-06-02,INV-2025-0573,Atlantic Fisheries,Swakopmund,Laptop,Electronics,2,12585.00,25170.00,Paid,2025-07-02,R. Beukes
+2025-06-02,INV-2025-0574,Erongo Mining Services,Swakopmund,Laptop,Electronics,1,12690.00,12690.00,Paid,2025-08-01,A. Gaoab
+2025-06-02,INV-2025-0575,Namib Logistics,Oshakati,Office Chair,Office Furniture,8,2240.00,17920.00,Paid,2025-08-01,P. Iipinge
+2025-06-02,INV-2025-0576,NamiTech,Windhoek,IT Support Contract,Software & Services,1,18290.00,18290.00,Paid,2025-07-02,L. Hamunyela
+2025-06-02,INV-2025-0577,Atlantic Fisheries,Swakopmund,Printer,Electronics,3,3760.00,11280.00,Paid,2025-07-02,R. Beukes
+2025-06-02,INV-2025-0578,Oshana Builders,Oshakati,Laptop,Electronics,3,12200.00,36600.00,Paid,2025-07-02,N. Haufiku
+2025-06-03,INV-2025-0579,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,22,845.00,18590.00,Paid,2025-07-03,A. Gaoab
+2025-06-03,INV-2025-0580,Ohangwena Traders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,19,1175.00,22325.00,Paid,2025-07-03,P. Iipinge
+2025-06-03,INV-2025-0581,Khomas Hardware,Windhoek,IT Support Contract,Software & Services,3,18545.00,55635.00,Paid,2025-07-03,L. Hamunyela
+2025-06-03,INV-2025-0582,Kalahari Traders,Windhoek,Office Desk,Office Furniture,5,4260.00,21300.00,Overdue,2025-07-03,L. Hamunyela
+2025-06-04,INV-2025-0583,Oshana Builders,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,9,1155.00,10395.00,Paid,2025-07-04,J. Kandjoze
+2025-06-04,INV-2025-0584,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,3,1720.00,5160.00,Paid,2025-07-04,M. Shikongo
+2025-06-04,INV-2025-0585,Swakop Boutique Hotel,Swakopmund,Tablet,Electronics,3,5245.00,15735.00,Paid,2025-07-04,R. Beukes
+2025-06-04,INV-2025-0586,Namib Logistics,Windhoek,Smartphone,Electronics,2,6245.00,12490.00,Paid,2025-08-03,L. Hamunyela
+2025-06-04,INV-2025-0587,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,3,1160.00,3480.00,Paid,2025-07-04,S. Tjivikua
+2025-06-05,INV-2025-0588,Caprivi Timber,Oshakati,Office Chair,Office Furniture,8,2330.00,18640.00,Paid,2025-07-05,P. Iipinge
+2025-06-05,INV-2025-0589,,Walvis Bay,Office Chair,Office Furniture,4,2335.00,9340.00,Paid,2025-07-05,J. Kandjoze
+2025-06-05,INV-2025-0590,Rundu Motors,Oshakati,Office Chair,Office Furniture,2,2410.00,4820.00,Paid,2025-07-05,P. Iipinge
+2025-06-05,INV-2025-0591,Ongwediva Pharmacy,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,16,1245.00,"19,920.00",Paid,2025-07-05,A. Gaoab
+2025-06-05,INV-2025-0592,Sossusvlei Lodge,Swakopmund,Printing Paper (Box),Stationery & Consumables,34,850.00,28900.00,Overdue,2025-07-05,A. Gaoab
+2025-06-07,INV-2025-0593,Okavango Stationers,Windhoek,Office Chair,Office Furniture,7,2400.00,16800.00,Paid,2025-07-07,T. Nangolo
+2025-06-07,INV-2025-0594,NamiTech,Walvis Bay,Smartphone,Electronics,3,6695.00,20085.00,Paid,2025-07-07,J. Kandjoze
+2025-06-07,INV-2025-0595,Dolphin Marine Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,10,810.00,8100.00,Paid,2025-07-07,R. Beukes
+2025-06-07,INV-2025-0596,Hardap Farms,Windhoek,Office Chair,Office Furniture,9,2370.00,21330.00,Paid,2025-07-07,M. Shikongo
+2025-06-09,INV-2025-0597,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,19,1220.00,23180.00,Paid,2025-07-09,P. Iipinge
+2025-06-09,INV-2025-0598,Kalahari Traders,Windhoek,Tablet,Electronics,4,5425.00,21700.00,Paid,2025-07-09,L. Hamunyela
+2025-06-09,INV-2025-0599,Oshana Builders,Oshakati,Laptop,Electronics,1,12610.00,12610.00,Paid,2025-07-09,E. Shilongo
+2025-06-09,INV-2025-0600,Atlantic Fisheries,Swakopmund,Tablet,Electronics,3,4965.00,14895.00,Paid,2025-07-09,A. Gaoab
+2025-06-09,INV-2025-0601,Atlantic Fisheries,Swakopmund,Laptop,Electronics,1,12485.00,12485.00,Paid,2025-07-09,R. Beukes
+2025-06-09,INV-2025-0602,ABC Trading,Oshakati,Smartphone,Electronics,4,6490.00,25960.00,Paid,2025-07-09,E. Shilongo
+2025-06-09,INV-2025-0603,Walvis Freight Agents,Walvis Bay,Toner Cartridge,Stationery & Consumables,8,1640.00,13120.00,Paid,2025-08-08,S. Tjivikua
+2025-06-10,INV-2025-0604,Sossusvlei Lodge,Swakopmund,Printer,Electronics,4,3890.00,15560.00,Overdue,2025-07-10,R. Beukes
+2025-06-10,INV-2025-0605,Tsumeb Metals,Walvis Bay,Accounting Software Licence,Software & Services,4,10215.00,40860.00,Paid,2025-08-09,J. Kandjoze
+2025-06-10,INV-2025-0606,NamiTech,Windhoek,Printer,Electronics,4,3745.00,14980.00,Paid,2025-07-10,L. Hamunyela
+2025-06-10,INV-2025-0607,Kalahari Traders,Windhoek,Office Chair,Office Furniture,2,2190.00,4380.00,Overdue,2025-07-10,T. Nangolo
+2025-06-10,INV-2025-0608,Okavango Stationers,Windhoek,Office Desk,Office Furniture,2,4155.00,8310.00,Paid,2025-07-10,M. Shikongo
+2025-06-10,INV-2025-0609,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,4,9425.00,37700.00,Overdue,2025-07-10,T. Nangolo
+2025-06-11,INV-2025-0610,Skeleton Coast Foods,Walvis Bay,Office Chair,Office Furniture,4,2385.00,9540.00,Paid,2025-07-11,J. Kandjoze
+2025-06-11,INV-2025-0611,Tsumeb Metals,Oshakati,Laptop,Electronics,3,12090.00,36270.00,Paid,2025-08-10,E. Shilongo
+2025-06-11,INV-2025-0612,Kunene Tours,Oshakati,Toner Cartridge,Stationery & Consumables,11,1695.00,18645.00,Paid,2025-07-11,P. Iipinge
+2025-06-11,INV-2025-0613,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,35,810.00,28350.00,Paid,2025-07-11,T. Nangolo
+2025-04-24,INV-2025-0414,Sossusvlei Lodge,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,2,1230.00,2460.00,Paid,2025-05-24,A. Gaoab
+2025-06-11,INV-2025-0614,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,4,3020.00,12080.00,Overdue,2025-07-11,L. Hamunyela
+2025-06-12,INV-2025-0615,Namib Logistics,Windhoek,Office Chair,Office Furniture,4,2210.00,8840.00,Paid,2025-08-11,L. Hamunyela
+2025-06-12,INV-2025-0616,Caprivi Timber,Oshakati,Tablet,Electronics,5,5120.00,25600.00,Overdue,2025-07-12,P. Iipinge
+2025-06-12,INV-2025-0617,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,7,880.00,6160.00,Paid,2025-07-12,T. Nangolo
+2025-06-13,INV-2025-0618,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,34,865.00,29410.00,Paid,2025-07-13,T. Nangolo
+2025-06-13,INV-2025-0619,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,6,1670.00,10020.00,Paid,2025-07-13,E. Shilongo
+2025-06-13,INV-2025-0620,Swakop Boutique Hotel,Swakopmund,IT Support Contract,Software & Services,2,17165.00,34330.00,Paid,2025-07-13,R. Beukes
+2025-06-13,INV-2025-0621,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1205.00,15665.00,Paid,2025-07-13,L. Hamunyela
+2025-06-13,INV-2025-0622,Ohangwena Traders,Oshakati,Accounting Software Licence,Software & Services,5,9770.00,48850.00,Paid,2025-07-13,N. Haufiku
+2025-06-13,INV-2025-0623,Ohangwena Traders,Oshakati,Accounting Software Licence,Software & Services,5,9435.00,47175.00,Paid,2025-07-13,N. Haufiku
+2025-06-13,INV-2025-0624,XYZ Enterprises,Windhoek,Laptop,Electronics,5,12035.00,60175.00,Paid,2025-07-13,L. Hamunyela
+2025-06-14,INV-2025-0625,Kalahari Traders,Windhoek,IT Support Contract,Software & Services,2,17900.00,35800.00,Overdue,2025-07-14,L. Hamunyela
+2025-06-14,INV-2025-0626,Kunene Tours,Oshakati,Smartphone,Electronics,6,6655.00,39930.00,Paid,2025-07-14,N. Haufiku
+2025-06-14,INV-2025-0627,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,7,1650.00,11550.00,Paid,2025-07-14,T. Nangolo
+2025-06-14,INV-2025-0628,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,2,3125.00,6250.00,Overdue,2025-07-14,M. Shikongo
+2025-06-14,INV-2025-0629,Atlantic Fisheries,Windhoek,Printing Paper (Box),Stationery & Consumables,24,810.00,19440.00,Paid,2025-07-14,L. Hamunyela
+2025-06-16,INV-2025-0630,Grootfontein Agri,Walvis Bay,Accounting Software Licence,Software & Services,4,10250.00,41000.00,Paid,2025-07-16,S. Tjivikua
+2025-06-16,INV-2025-0631,Kunene Tours,Windhoek,Printing Paper (Box),Stationery & Consumables,22,825.00,18150.00,Overdue,2025-07-16,M. Shikongo
+2025-06-16,INV-2025-0632,Atlantic Fisheries,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1610.00,"N$6,440.00",Paid,2025-07-16,A. Gaoab
+2025-06-16,INV-2025-0633,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,8,1660.00,13280.00,Paid,2025-07-16,L. Hamunyela
+2025-06-16,INV-2025-0634,Atlantic Fisheries,Windhoek,Printer,Electronics,4,3780.00,15120.00,Paid,2025-07-16,L. Hamunyela
+2025-06-16,INV-2025-0635,Kalahari Traders,Windhoek,Tablet,Electronics,4,4970.00,19880.00,Overdue,2025-07-16,L. Hamunyela
+2025-06-16,INV-2025-0636,Grootfontein Agri,Walvis Bay,Toner Cartridge,Stationery & Consumables,5,1690.00,8450.00,Paid,2025-07-16,S. Tjivikua
+2025-06-17,INV-2025-0637,ABC Trading,Windhoek,Printing Paper (Box),Stationery & Consumables,29,880.00,25520.00,Paid,2025-07-17,T. Nangolo
+2025-06-17,INV-2025-0638,Oshana Builders,Oshakati,Office Chair,Office Furniture,3,2210.00,6630.00,Paid,2025-07-17,E. Shilongo
+2025-06-17,INV-2025-0639,Dolphin Marine Services,Swakopmund,Office Desk,Office Furniture,6,4360.00,26160.00,Paid,2025-07-17,R. Beukes
+2025-06-17,INV-2025-0640,Namib Logistics,Oshakati,Smartphone,Electronics,2,6290.00,12580.00,Paid,2025-08-16,N. Haufiku
+2025-06-17,INV-2025-0641,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,16,1255.00,20080.00,Paid,2025-08-16,J. Kandjoze
+2025-06-18,INV-2025-0642,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,3,5310.00,15930.00,Paid,2025-08-17,S. Tjivikua
+2025-06-18,INV-2025-0643,Namib Logistics,Windhoek,Smartphone,Electronics,3,6180.00,18540.00,Paid,2025-08-17,T. Nangolo
+2025-06-18,INV-2025-0644,Windhoek Supplies,Windhoek,Printer,Electronics,1,3660.00,3660.00,Paid,2025-07-18,T. Nangolo
+2025-06-18,INV-2025-0645,Atlantic Fisheries,Swakopmund,Filing Cabinet,Office Furniture,1,2990.00,2990.00,Paid,2025-07-18,R. Beukes
+2025-06-19,INV-2025-0646,Caprivi Timber,Windhoek,Tablet,Electronics,4,5095.00,20380.00,Overdue,2025-07-19,T. Nangolo
+2025-06-19,INV-2025-0647,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,40,850.00,34000.00,Paid,2025-07-19,R. Beukes
+2025-06-19,INV-2025-0648,Benguela Cold Storage,Walvis Bay,Filing Cabinet,Office Furniture,4,3020.00,12080.00,Paid,2025-07-19,S. Tjivikua
+2025-06-20,INV-2025-0649,NamiTech,Windhoek,Office Desk,Office Furniture,2,4080.00,8160.00,Paid,2025-07-20,T. Nangolo
+2025-06-20,INV-2025-0650,Kunene Tours,Oshakati,Printing Paper (Box),Stationery & Consumables,39,870.00,33930.00,Paid,2025-07-20,N. Haufiku
+2025-06-20,INV-2025-0651,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,4,5315.00,21260.00,Paid,2025-07-20,S. Tjivikua
+2025-06-20,INV-2025-0652,Ohangwena Traders,Walvis Bay,Smartphone,Electronics,5,6820.00,34100.00,Paid,2025-07-20,J. Kandjoze
+2025-06-20,INV-2025-0653,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,2,2300.00,4600.00,Paid,2025-08-19,S. Tjivikua
+2025-06-20,INV-2025-0654,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,3,3815.00,11445.00,Paid,2025-07-20,J. Kandjoze
+2025-06-20,INV-2025-0655,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,7,1220.00,8540.00,Paid,2025-07-20,E. Shilongo
+2025-06-21,INV-2025-0656,Sossusvlei Lodge,Walvis Bay,Tablet,Electronics,4,5070.00,20280.00,Paid,2025-07-21,J. Kandjoze
+2025-06-21,INV-2025-0657,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,15,830.00,12450.00,Paid,2025-07-21,R. Beukes
+2025-06-21,INV-2025-0658,Rundu Motors,Oshakati,Smartphone,Electronics,6,6630.00,39780.00,Overdue,2025-07-21,N. Haufiku
+2025-06-21,INV-2025-0659,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,3,1205.00,3615.00,Paid,2025-07-21,P. Iipinge
+2025-06-23,INV-2025-0660,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,9,2270.00,20430.00,Paid,2025-08-22,R. Beukes
+2025-06-23,INV-2025-0661,Rundu Motors,Oshakati,Filing Cabinet,Office Furniture,2,3040.00,6080.00,Paid,2025-07-23,N. Haufiku
+2025-06-23,INV-2025-0662,Ohangwena Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,25,810.00,20250.00,Paid,2025-07-23,L. Hamunyela
+2025-06-23,INV-2025-0663,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,7,1160.00,8120.00,Paid,2025-08-22,P. Iipinge
+2025-06-23,INV-2025-0664,Benguela Cold Storage,Walvis Bay,IT Support Contract,Software & Services,3,17350.00,52050.00,Paid,2025-07-23,S. Tjivikua
+2025-06-23,INV-2025-0665,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,5,2280.00,11400.00,Paid,2025-07-23,S. Tjivikua
+2025-06-23,INV-2025-0666,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1705.00,20460.00,Paid,2025-08-22,A. Gaoab
+2025-06-21,INV-2025-0659,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,3,1205.00,3615.00,Paid,2025-07-21,P. Iipinge
+2025-06-23,INV-2025-0667,Skeleton Coast Foods,Walvis Bay,Toner Cartridge,Stationery & Consumables,12,1670.00,20040.00,Paid,2025-07-23,S. Tjivikua
+2025-06-23,INV-2025-0668,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,3,1195.00,3585.00,Paid,2025-07-23,L. Hamunyela
+2025-06-24,INV-2025-0669,Namport Contractors,Walvis Bay,Office Desk,Office Furniture,5,4090.00,20450.00,Paid,2025-07-24,S. Tjivikua
+2025-06-24,INV-2025-0670,Khomas Hardware,Windhoek,Office Chair,Office Furniture,7,2320.00,16240.00,Paid,2025-07-24,L. Hamunyela
+2025-06-25,INV-2025-0671,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,6,1175.00,7050.00,Paid,2025-07-25,A. Gaoab
+2025-06-25,INV-2025-0672,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,10,1650.00,16500.00,Paid,2025-07-25,T. Nangolo
+2025-06-25,INV-2025-0673,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,5,1695.00,8475.00,Paid,2025-07-25,M. Shikongo
+2025-06-25,INV-2025-0674,Oshana Builders,Oshakati,Smartphone,Electronics,6,6645.00,39870.00,Paid,2025-07-25,P. Iipinge
+2025-06-26,INV-2025-0675,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,5,12525.00,62625.00,Paid,2025-08-25,J. Kandjoze
+2025-06-26,INV-2025-0676,Oshana Builders,Oshakati,Smartphone,Electronics,6,6250.00,37500.00,Paid,2025-07-26,P. Iipinge
+2025-06-26,INV-2025-0677,Benguela Cold Storage,Walvis Bay,Toner Cartridge,Stationery & Consumables,12,1720.00,20640.00,Paid,2025-07-26,S. Tjivikua
+2025-06-26,INV-2025-0678,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,6,1170.00,7020.00,Paid,2025-08-25,A. Gaoab
+2025-06-26,INV-2025-0679,Kalahari Traders,Windhoek,Tablet,Electronics,5,5205.00,26025.00,Paid,2025-07-26,M. Shikongo
+2025-06-27,INV-2025-0680,Khomas Hardware,Walvis Bay,Smartphone,Electronics,6,6470.00,38820.00,Paid,2025-07-27,S. Tjivikua
+2025-06-27,INV-2025-0681,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,5,1695.00,8475.00,Paid,2025-07-27,L. Hamunyela
+2025-06-28,INV-2025-0682,Sossusvlei Lodge,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1660.00,6640.00,Paid,2025-07-28,R. Beukes
+2025-06-28,INV-2025-0683,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,17,1185.00,20145.00,Paid,2025-07-28,S. Tjivikua
+2025-06-28,INV-2025-0683,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,17,1185.00,20145.00,Paid,2025-07-28,S. Tjivikua
+2025-06-30,INV-2025-0684,Erongo Mining Services,Swakopmund,Tablet,Electronics,1,5455.00,5455.00,Paid,2025-08-29,A. Gaoab
+2025-06-30,INV-2025-0685,Oshana Builders,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1720.00,20640.00,Overdue,2025-07-30,R. Beukes
+2025-06-30,INV-2025-0686,Swakop Boutique Hotel,Windhoek,Laptop,Electronics,5,12950.00,-64750.00,Paid,2025-07-30,T. Nangolo
+2025-06-30,INV-2025-0687,Namib Logistics,Swakopmund,Toner Cartridge,Stationery & Consumables,3,1640.00,4920.00,Paid,2025-08-29,A. Gaoab
+2025-06-30,INV-2025-0688,Ongwediva Pharmacy,Oshakati,Accounting Software Licence,Software & Services,1,9325.00,9325.00,Paid,2025-07-30,N. Haufiku
+2025-06-30,INV-2025-0689,Tsumeb Metals,Oshakati,Laptop,Electronics,3,12415.00,37245.00,Paid,2025-08-29,E. Shilongo
+2025-06-30,INV-2025-0690,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,6,1245.00,7470.00,Paid,2025-07-30,L. Hamunyela
+2025-06-30,INV-2025-0691,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,13,1210.00,15730.00,Paid,2025-08-29,P. Iipinge
+2025-06-30,INV-2025-0692,Walvis Freight Agents,Walvis Bay,Office Desk,Office Furniture,1,4050.00,4050.00,Paid,2025-08-29,S. Tjivikua
+2025-06-30,INV-2025-0693,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,1,12080.00,12080.00,Paid,2025-08-29,J. Kandjoze
+2025-06-30,INV-2025-0694,Ohangwena Traders,Oshakati,Office Chair,Office Furniture,5,2400.00,12000.00,Paid,2025-07-30,N. Haufiku
+2025-06-30,INV-2025-0695,Walvis Freight Agents,Walvis Bay,Filing Cabinet,Office Furniture,1,3050.00,3050.00,Paid,2025-08-29,J. Kandjoze
+2025-06-30,INV-2025-0696,Ohangwena Traders,Windhoek,Office Chair,Office Furniture,2,2210.00,4420.00,Overdue,2025-07-30,M. Shikongo
+2025-07-01,INV-2025-0697,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,1,1640.00,1640.00,Overdue,2025-07-31,L. Hamunyela
+2025-07-01,INV-2025-0698,Swakop Boutique Hotel,Swakopmund,Accounting Software Licence,Software & Services,4,9505.00,38020.00,Paid,2025-07-31,A. Gaoab
+2025-07-01,INV-2025-0699,Swakop Boutique Hotel,Swakopmund,Office Chair,Office Furniture,9,2235.00,20115.00,Paid,2025-07-31,A. Gaoab
+2025-07-01,INV-2025-0700,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,34,885.00,30090.00,Paid,2025-07-31,M. Shikongo
+2025-07-01,INV-2025-0701,Skeleton Coast Foods,Walvis Bay,Laptop,Electronics,2,12735.00,25470.00,Paid,2025-07-31,S. Tjivikua
+2025-07-01,INV-2025-0702,,Windhoek,Smartphone,Electronics,4,6335.00,25340.00,Overdue,2025-07-31,M. Shikongo
+2025-07-02,INV-2025-0703,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,18,1155.00,20790.00,Paid,2025-08-01,R. Beukes
+2025-07-03,INV-2025-0704,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,5,1150.00,5750.00,Paid,2025-08-02,T. Nangolo
+2025-07-03,INV-2025-0705,Namport Contractors,Walvis Bay,Toner Cartridge,Stationery & Consumables,2,1665.00,3330.00,Paid,2025-08-02,S. Tjivikua
+2025-07-03,INV-2025-0706,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,34,845.00,28730.00,Paid,2025-09-01,L. Hamunyela
+2025-07-04,INV-2025-0707,Walvis Freight Agents,Swakopmund,Accounting Software Licence,Software & Services,4,9845.00,39380.00,Paid,2025-09-02,A. Gaoab
+2025-07-04,INV-2025-0708,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,21,870.00,18270.00,Paid,2025-08-03,S. Tjivikua
+2025-07-04,INV-2025-0709,Erongo Mining Services,Swakopmund,Laptop,Electronics,2,12700.00,25400.00,Paid,2025-09-02,A. Gaoab
+2025-07-04,INV-2025-0710,Ohangwena Traders,Oshakati,Filing Cabinet,Office Furniture,2,2960.00,5920.00,Paid,2025-08-03,N. Haufiku
+2025-07-05,INV-2025-0711,Windhoek Supplies,Walvis Bay,Laptop,Electronics,1,12390.00,12390.00,Paid,2025-08-04,S. Tjivikua
+2025-07-05,INV-2025-0712,ABC Trading,Windhoek,Printer,Electronics,4,3870.00,15480.00,Paid,2025-08-04,M. Shikongo
+2025-07-05,INV-2025-0713,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,8,1705.00,13640.00,Paid,2025-08-04,M. Shikongo
+2025-07-05,INV-2025-0714,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,20,1185.00,23700.00,Paid,2025-08-04,J. Kandjoze
+2025-07-05,INV-2025-0715,Kunene Tours,Oshakati,Office Chair,Office Furniture,3,2335.00,7005.00,Paid,2025-08-04,E. Shilongo
+2025-07-05,INV-2025-0716,Rundu Motors,Oshakati,Printer,Electronics,2,3975.00,7950.00,Paid,2025-08-04,E. Shilongo
+2025-07-05,INV-2025-0717,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,12,1705.00,20460.00,Overdue,2025-08-04,T. Nangolo
+2025-07-05,INV-2025-0718,Tsumeb Metals,Windhoek,Printing Paper (Box),Stationery & Consumables,35,820.00,"N$28,700.00",Paid,2025-09-03,L. Hamunyela
+2025-07-05,INV-2025-0719,Okavango Stationers,Windhoek,Printer,Electronics,3,3645.00,10935.00,Paid,2025-08-04,T. Nangolo
+2025-07-07,INV-2025-0720,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,7,2220.00,15540.00,Paid,2025-08-06,A. Gaoab
+2025-07-07,INV-2025-0721,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,9,1595.00,14355.00,Paid,2025-08-06,P. Iipinge
+2025-07-07,INV-2025-0722,Windhoek Supplies,Windhoek,Filing Cabinet,Office Furniture,2,3010.00,6020.00,Paid,2025-08-06,L. Hamunyela
+2025-07-07,INV-2025-0723,NamiTech,Windhoek,Office Chair,Office Furniture,6,2290.00,13740.00,Paid,2025-08-06,L. Hamunyela
+2025-07-07,INV-2025-0724,Namib Logistics,Oshakati,Office Chair,Office Furniture,2,2200.00,4400.00,Paid,2025-09-05,N. Haufiku
+2025-07-07,INV-2025-0725,Hardap Farms,Windhoek,Printer,Electronics,4,3910.00,15640.00,Paid,2025-08-06,L. Hamunyela
+2025-07-07,INV-2025-0726,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,3,1185.00,3555.00,Overdue,2025-08-06,E. Shilongo
+2025-07-07,INV-2025-0727,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,1,18700.00,18700.00,Paid,2025-08-06,L. Hamunyela
+2025-07-08,INV-2025-0728,NamiTech,Windhoek,Printer,Electronics,3,3670.00,11010.00,Paid,2025-08-07,T. Nangolo
+2025-07-08,INV-2025-0729,Namport Contractors,Walvis Bay,Filing Cabinet,Office Furniture,3,3080.00,9240.00,Paid,2025-08-07,J. Kandjoze
+2025-07-08,INV-2025-0730,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1615.00,6460.00,Paid,2025-09-06,R. Beukes
+2025-07-08,INV-2025-0731,NamiTech,Windhoek,Office Chair,Office Furniture,2,2370.00,4740.00,Paid,2025-08-07,M. Shikongo
+2025-07-08,INV-2025-0732,ABC Trading,Walvis Bay,Office Desk,Office Furniture,6,4245.00,25470.00,Paid,2025-08-07,S. Tjivikua
+2025-07-09,INV-2025-0733,Oshana Builders,Oshakati,IT Support Contract,Software & Services,1,18570.00,18570.00,Paid,2025-08-08,N. Haufiku
+2025-07-09,INV-2025-0734,,Windhoek,Tablet,Electronics,5,5285.00,26425.00,Paid,2025-09-07,L. Hamunyela
+2025-07-09,INV-2025-0735,Windhoek Supplies,Swakopmund,Filing Cabinet,Office Furniture,3,2990.00,8970.00,Paid,2025-08-08,R. Beukes
+2025-07-09,INV-2025-0736,Swakop Boutique Hotel,Swakopmund,Tablet,Electronics,5,5210.00,26050.00,Paid,2025-08-08,A. Gaoab
+2025-07-09,INV-2025-0737,Kalahari Traders,Windhoek,Office Chair,Office Furniture,7,2195.00,15365.00,Overdue,2025-08-08,L. Hamunyela
+2025-07-10,INV-2025-0738,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,2,5365.00,10730.00,Paid,2025-09-08,S. Tjivikua
+2025-07-10,INV-2025-0739,Walvis Freight Agents,Walvis Bay,Accounting Software Licence,Software & Services,3,9445.00,28335.00,Paid,2025-09-08,J. Kandjoze
+2025-07-11,INV-2025-0740,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,38,845.00,32110.00,Paid,2025-09-09,L. Hamunyela
+2025-07-11,INV-2025-0741,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,23,880.00,20240.00,Paid,2025-08-10,T. Nangolo
+2025-07-11,INV-2025-0742,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,4,1260.00,5040.00,Paid,2025-08-10,T. Nangolo
+2025-07-11,INV-2025-0743,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,15,860.00,12900.00,Paid,2025-08-10,T. Nangolo
+2025-07-11,INV-2025-0744,Grootfontein Agri,Walvis Bay,Printing Paper (Box),Stationery & Consumables,5,845.00,4225.00,Overdue,2025-08-10,S. Tjivikua
+2025-07-11,INV-2025-0745,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,5,6410.00,32050.00,Paid,2025-08-10,A. Gaoab
+2025-07-11,INV-2025-0746,Windhoek Supplies,Windhoek,Smartphone,Electronics,5,6350.00,-31750.00,Paid,2025-08-10,M. Shikongo
+2025-07-11,INV-2025-0747,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,15,815.00,12225.00,Paid,2025-09-09,J. Kandjoze
+2025-05-17,INV-2025-0515,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1150.00,9200.00,Paid,2025-06-16,M. Shikongo
+2025-07-11,INV-2025-0748,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,4,1245.00,4980.00,Paid,2025-08-10,J. Kandjoze
+2025-07-11,INV-2025-0749,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,9,2310.00,20790.00,Paid,2025-08-10,S. Tjivikua
+2025-07-11,INV-2025-0750,Benguela Cold Storage,Walvis Bay,Office Desk,Office Furniture,3,4300.00,12900.00,Paid,2025-08-10,S. Tjivikua
+2025-07-12,INV-2025-0751,Benguela Cold Storage,Walvis Bay,Toner Cartridge,Stationery & Consumables,4,1600.00,6400.00,Paid,2025-08-11,S. Tjivikua
+2025-07-12,INV-2025-0752,Windhoek Supplies,Windhoek,Accounting Software Licence,Software & Services,1,10225.00,10225.00,Paid,2025-08-11,T. Nangolo
+2025-07-12,INV-2025-0753,Oshana Builders,Oshakati,Smartphone,Electronics,2,6465.00,12930.00,Paid,2025-08-11,E. Shilongo
+2025-07-12,INV-2025-0754,NamiTech,Oshakati,Stationery Bulk Pack,Stationery & Consumables,13,1220.00,15860.00,Paid,2025-08-11,N. Haufiku
+2025-07-12,INV-2025-0755,Swakop Boutique Hotel,Windhoek,Office Desk,Office Furniture,4,4255.00,17020.00,Paid,2025-08-11,L. Hamunyela
+2025-07-12,INV-2025-0756,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,4,4165.00,16660.00,Paid,2025-08-11,A. Gaoab
+2025-07-12,INV-2025-0757,NamiTech,Oshakati,Accounting Software Licence,Software & Services,1,9825.00,9825.00,Paid,2025-08-11,E. Shilongo
+2025-07-14,INV-2025-0758,Caprivi Timber,Oshakati,Toner Cartridge,Stationery & Consumables,9,1685.00,15165.00,Overdue,2025-08-13,E. Shilongo
+2025-07-14,INV-2025-0759,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1215.00,18225.00,Overdue,2025-08-13,M. Shikongo
+2025-07-14,INV-2025-0760,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,31,840.00,26040.00,Paid,2025-08-13,L. Hamunyela
+2025-07-14,INV-2025-0761,Dolphin Marine Services,Swakopmund,Office Desk,Office Furniture,6,4155.00,24930.00,Paid,2025-08-13,R. Beukes
+2025-07-14,INV-2025-0762,Oshana Builders,Windhoek,Smartphone,Electronics,4,6755.00,27020.00,Paid,2025-08-13,T. Nangolo
+2025-07-14,INV-2025-0763,Atlantic Fisheries,Windhoek,Smartphone,Electronics,5,6420.00,32100.00,Paid,2025-08-13,L. Hamunyela
+2025-07-14,INV-2025-0764,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,18,835.00,15030.00,Paid,2025-08-13,A. Gaoab
+2025-07-15,INV-2025-0765,ABC Trading,Windhoek,Office Desk,Office Furniture,4,4250.00,17000.00,Paid,2025-08-14,L. Hamunyela
+2025-07-15,INV-2025-0766,Oshana Builders,Oshakati,Filing Cabinet,Office Furniture,3,3230.00,9690.00,Paid,2025-08-14,N. Haufiku
+2025-07-15,INV-2025-0767,NamiTech,Windhoek,IT Support Contract,Software & Services,1,17170.00,17170.00,Paid,2025-08-14,M. Shikongo
+2025-07-16,INV-2025-0768,Oshana Builders,Oshakati,Tablet,Electronics,3,5325.00,15975.00,Paid,2025-08-15,E. Shilongo
+2025-07-16,INV-2025-0769,NamiTech,Walvis Bay,Filing Cabinet,Office Furniture,1,3180.00,3180.00,Paid,2025-08-15,J. Kandjoze
+2025-07-16,INV-2025-0770,NamiTech,Windhoek,IT Support Contract,Software & Services,3,17605.00,52815.00,Paid,2025-08-15,L. Hamunyela
+2025-07-16,INV-2025-0771,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,7,1155.00,8085.00,Paid,2025-08-15,N. Haufiku
+2025-07-16,INV-2025-0772,Dolphin Marine Services,Swakopmund,Laptop,Electronics,2,12525.00,25050.00,Paid,2025-08-15,R. Beukes
+2025-07-17,INV-2025-0773,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1240.00,12400.00,Paid,2025-08-16,M. Shikongo
+2025-07-17,INV-2025-0774,Rundu Motors,Oshakati,Tablet,Electronics,4,4960.00,19840.00,Paid,2025-08-16,N. Haufiku
+2025-07-17,INV-2025-0775,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,4,5200.00,20800.00,Paid,2025-08-16,J. Kandjoze
+2025-07-17,INV-2025-0776,Khomas Hardware,Windhoek,Printer,Electronics,1,3790.00,3790.00,Overdue,2025-08-16,L. Hamunyela
+2025-07-17,INV-2025-0777,Swakop Boutique Hotel,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1700.00,6800.00,Paid,2025-08-16,R. Beukes
+2025-07-17,INV-2025-0778,Kalahari Traders,Windhoek,Office Desk,Office Furniture,5,4055.00,20275.00,Overdue,2025-08-16,L. Hamunyela
+2025-07-18,INV-2025-0779,Benguela Cold Storage,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,12,1155.00,13860.00,Paid,2025-08-17,S. Tjivikua
+2025-07-19,INV-2025-0780,Skeleton Coast Foods,Windhoek,Printer,Electronics,1,3750.00,3750.00,Paid,2025-08-18,T. Nangolo
+2025-07-19,INV-2025-0781,Walvis Freight Agents,Swakopmund,Accounting Software Licence,Software & Services,2,9990.00,19980.00,Paid,2025-09-17,A. Gaoab
+2025-07-19,INV-2025-0782,ABC Trading,Windhoek,Printer,Electronics,2,3880.00,7760.00,Paid,2025-08-18,L. Hamunyela
+2025-07-19,INV-2025-0783,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,4,1645.00,6580.00,Paid,2025-08-18,T. Nangolo
+2025-07-19,INV-2025-0784,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,1,6625.00,6625.00,Paid,2025-09-17,S. Tjivikua
+2025-07-19,INV-2025-0785,Skeleton Coast Foods,Walvis Bay,Accounting Software Licence,Software & Services,1,9565.00,9565.00,Paid,2025-08-18,J. Kandjoze
+2025-07-21,INV-2025-0786,Tsumeb Metals,Oshakati,Office Chair,Office Furniture,10,2230.00,22300.00,Paid,2025-09-19,N. Haufiku
+2025-07-21,INV-2025-0787,Tsumeb Metals,Windhoek,Tablet,Electronics,2,5020.00,10040.00,Paid,2025-09-19,T. Nangolo
+2025-07-21,INV-2025-0788,Khomas Hardware,Windhoek,IT Support Contract,Software & Services,2,17680.00,35360.00,Paid,2025-08-20,L. Hamunyela
+2025-07-10,INV-2025-0738,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,2,5365.00,10730.00,Paid,2025-09-08,S. Tjivikua
+2025-07-21,INV-2025-0789,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,17,855.00,14535.00,Paid,2025-09-19,T. Nangolo
+2025-07-21,INV-2025-0790,Namib Logistics,Oshakati,Accounting Software Licence,Software & Services,5,10020.00,50100.00,Paid,2025-09-19,P. Iipinge
+2025-07-21,INV-2025-0791,Walvis Freight Agents,Windhoek,Laptop,Electronics,4,12685.00,50740.00,Paid,2025-09-19,L. Hamunyela
+2025-07-21,INV-2025-0792,Benguela Cold Storage,Walvis Bay,IT Support Contract,Software & Services,3,18750.00,56250.00,Paid,2025-08-20,J. Kandjoze
+2025-07-21,INV-2025-0793,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,5,1610.00,8050.00,Paid,2025-08-20,T. Nangolo
+2025-07-22,INV-2025-0794,NamiTech,Oshakati,Office Chair,Office Furniture,5,2245.00,11225.00,Overdue,2025-08-21,E. Shilongo
+2025-07-22,INV-2025-0795,Kalahari Traders,Walvis Bay,Printing Paper (Box),Stationery & Consumables,18,830.00,14940.00,Overdue,2025-08-21,J. Kandjoze
+2025-07-22,INV-2025-0796,ABC Trading,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1240.00,16120.00,Paid,2025-08-21,L. Hamunyela
+2025-07-23,INV-2025-0797,Rundu Motors,Oshakati,Printer,Electronics,4,3785.00,15140.00,Overdue,2025-08-22,N. Haufiku
+2025-07-23,INV-2025-0798,Namib Logistics,Windhoek,Laptop,Electronics,4,12385.00,49540.00,Paid,2025-09-21,T. Nangolo
+2025-07-24,INV-2025-0799,Grootfontein Agri,Walvis Bay,Tablet,Electronics,5,5145.00,25725.00,Paid,2025-08-23,J. Kandjoze
+2025-07-24,INV-2025-0800,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,9,1145.00,10305.00,Paid,2025-09-22,N. Haufiku
+2025-07-24,INV-2025-0801,Namib Logistics,Windhoek,Laptop,Electronics,4,11980.00,47920.00,Paid,2025-09-22,T. Nangolo
+2025-07-25,INV-2025-0802,Sossusvlei Lodge,Swakopmund,Accounting Software Licence,Software & Services,4,10125.00,40500.00,Overdue,2025-08-24,A. Gaoab
+2025-07-25,INV-2025-0803,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,3,1595.00,4785.00,Paid,2025-08-24,M. Shikongo
+2025-07-26,INV-2025-0804,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,5,1195.00,5975.00,Paid,2025-09-24,S. Tjivikua
+2025-07-26,INV-2025-0805,Erongo Mining Services,Swakopmund,Laptop,Electronics,5,12100.00,60500.00,Paid,2025-09-24,A. Gaoab
+2025-07-26,INV-2025-0806,Okavango Stationers,Windhoek,Filing Cabinet,Office Furniture,2,3070.00,6140.00,Paid,2025-08-25,L. Hamunyela
+2025-07-26,INV-2025-0807,Kalahari Traders,Windhoek,Smartphone,Electronics,3,6535.00,19605.00,Paid,2025-08-25,T. Nangolo
+2025-07-26,INV-2025-0808,Rundu Motors,Oshakati,Printing Paper (Box),Stationery & Consumables,14,885.00,12390.00,Overdue,2025-08-25,N. Haufiku
+2025-07-26,INV-2025-0809,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,26,815.00,21190.00,Paid,2025-08-25,J. Kandjoze
+2025-07-28,INV-2025-0810,Oshana Builders,Oshakati,Smartphone,Electronics,4,6405.00,25620.00,Paid,2025-08-27,P. Iipinge
+2025-07-28,INV-2025-0811,Khomas Hardware,Windhoek,Printing Paper (Box),Stationery & Consumables,32,865.00,27680.00,Paid,2025-08-27,T. Nangolo
+2025-07-28,INV-2025-0812,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,4,1205.00,4820.00,Paid,2025-08-27,P. Iipinge
+2025-07-28,INV-2025-0813,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,12,850.00,10200.00,Paid,2025-09-26,A. Gaoab
+2025-07-28,INV-2025-0814,Walvis Freight Agents,Walvis Bay,IT Support Contract,Software & Services,1,17145.00,17145.00,Paid,2025-09-26,S. Tjivikua
+2025-07-28,INV-2025-0815,Hardap Farms,Windhoek,Smartphone,Electronics,4,6325.00,25300.00,Paid,2025-08-27,M. Shikongo
+2025-07-28,INV-2025-0816,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,4,1235.00,4940.00,Paid,2025-09-26,R. Beukes
+2025-07-28,INV-2025-0817,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,6,1230.00,7380.00,Paid,2025-08-27,M. Shikongo
+2025-07-29,INV-2025-0818,Okavango Stationers,Windhoek,Laptop,Electronics,3,12555.00,37665.00,Paid,2025-08-28,M. Shikongo
+2025-07-29,INV-2025-0819,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,24,810.00,19440.00,Paid,2025-08-28,M. Shikongo
+2025-07-30,INV-2025-0820,Namib Logistics,Windhoek,Laptop,Electronics,2,12635.00,25270.00,Paid,2025-09-28,L. Hamunyela
+2025-07-30,INV-2025-0821,Khomas Hardware,Swakopmund,Toner Cartridge,Stationery & Consumables,6,1635.00,9810.00,Paid,2025-08-29,A. Gaoab
+2025-07-30,INV-2025-0822,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,11,1630.00,17930.00,Paid,2025-08-29,L. Hamunyela
+2025-07-31,INV-2025-0823,Ohangwena Traders,Oshakati,Printing Paper (Box),Stationery & Consumables,22,830.00,18260.00,Paid,2025-08-30,E. Shilongo
+2025-07-31,INV-2025-0824,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,6,4190.00,25140.00,Paid,2025-09-29,R. Beukes
+2025-07-31,INV-2025-0825,Dolphin Marine Services,Swakopmund,Toner Cartridge,Stationery & Consumables,3,1640.00,4920.00,Paid,2025-08-30,R. Beukes
+2025-08-01,INV-2025-0826,Windhoek Supplies,Windhoek,Tablet,Electronics,3,5310.00,15930.00,Paid,2025-08-31,L. Hamunyela
+2025-08-01,INV-2025-0827,Ongwediva Pharmacy,Oshakati,Printer,Electronics,2,3805.00,7610.00,Paid,2025-08-31,E. Shilongo
+2025-08-01,INV-2025-0828,ABC Trading,Windhoek,Office Desk,Office Furniture,1,4070.00,4070.00,Paid,2025-08-31,T. Nangolo
+2025-08-01,INV-2025-0829,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6635.00,39810.00,Paid,2025-08-31,L. Hamunyela
+2025-08-01,INV-2025-0830,Tsumeb Metals,Oshakati,Printing Paper (Box),Stationery & Consumables,27,820.00,22140.00,Paid,2025-09-30,N. Haufiku
+2025-08-02,INV-2025-0831,Ohangwena Traders,Oshakati,Office Desk,Office Furniture,2,4010.00,8020.00,Overdue,2025-09-01,N. Haufiku
+2025-08-02,INV-2025-0832,XYZ Enterprises,Windhoek,Laptop,Electronics,3,12895.00,38685.00,Paid,2025-09-01,M. Shikongo
+2025-08-04,INV-2025-0833,Skeleton Coast Foods,Walvis Bay,Smartphone,Electronics,4,6605.00,26420.00,Paid,2025-09-03,S. Tjivikua
+2025-08-04,INV-2025-0834,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,16,845.00,13520.00,Paid,2025-09-03,P. Iipinge
+2025-08-04,INV-2025-0835,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,2,1235.00,2470.00,Paid,2025-09-03,S. Tjivikua
+2025-08-04,INV-2025-0836,Atlantic Fisheries,Swakopmund,Printer,Electronics,3,3690.00,11070.00,Paid,2025-09-03,A. Gaoab
+2025-08-04,INV-2025-0837,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,13,830.00,10790.00,Overdue,2025-10-03,S. Tjivikua
+2025-08-04,INV-2025-0838,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,2,1660.00,3320.00,Paid,2025-09-03,N. Haufiku
+2025-08-04,INV-2025-0839,NamiTech,Windhoek,IT Support Contract,Software & Services,2,18150.00,36300.00,Paid,2025-09-03,L. Hamunyela
+2025-08-04,INV-2025-0840,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1240.00,9920.00,Paid,2025-10-03,M. Shikongo
+2025-08-04,INV-2025-0841,NamiTech,Windhoek,Office Chair,Office Furniture,1,2310.00,2310.00,Overdue,2025-09-03,L. Hamunyela
+2025-08-05,INV-2025-0842,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,9,1690.00,15210.00,Overdue,2025-09-04,L. Hamunyela
+2025-08-05,INV-2025-0843,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,12,1160.00,13920.00,Paid,2025-10-04,N. Haufiku
+2025-08-05,INV-2025-0844,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,3,4300.00,12900.00,Paid,2025-09-04,J. Kandjoze
+2025-08-05,INV-2025-0845,Ohangwena Traders,Oshakati,Printing Paper (Box),Stationery & Consumables,35,845.00,29575.00,Paid,2025-09-04,P. Iipinge
+2025-08-05,INV-2025-0846,NamiTech,Windhoek,Filing Cabinet,Office Furniture,1,3070.00,3070.00,Paid,2025-09-04,M. Shikongo
+2025-08-05,INV-2025-0847,Skeleton Coast Foods,Walvis Bay,Laptop,Electronics,5,12920.00,64600.00,Paid,2025-09-04,S. Tjivikua
+2025-08-05,INV-2025-0848,ABC Trading,Windhoek,Office Desk,Office Furniture,4,3995.00,15980.00,Paid,2025-09-04,L. Hamunyela
+2025-08-05,INV-2025-0849,Namib Logistics,Windhoek,Laptop,Electronics,2,13100.00,26200.00,Overdue,2025-10-04,M. Shikongo
+2025-08-05,INV-2025-0850,Dolphin Marine Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,24,825.00,19800.00,Paid,2025-09-04,R. Beukes
+2025-08-07,INV-2025-0851,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,7,2235.00,15645.00,Paid,2025-09-06,S. Tjivikua
+2025-08-07,INV-2025-0852,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,3,2320.00,6960.00,Paid,2025-10-06,R. Beukes
+2025-08-08,INV-2025-0853,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,21,825.00,17325.00,Paid,2025-09-07,A. Gaoab
+2025-08-08,INV-2025-0854,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,16,1195.00,19120.00,Overdue,2025-09-07,A. Gaoab
+2025-08-08,INV-2025-0855,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,16,870.00,13920.00,Paid,2025-09-07,P. Iipinge
+2025-08-08,INV-2025-0856,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,5,1180.00,5900.00,Paid,2025-09-07,A. Gaoab
+2025-08-09,INV-2025-0857,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,2,3995.00,7990.00,Paid,2025-09-08,A. Gaoab
+2025-08-09,INV-2025-0858,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,11,1600.00,17600.00,Paid,2025-09-08,L. Hamunyela
+2025-08-11,INV-2025-0859,Windhoek Supplies,Windhoek,Smartphone,Electronics,3,6535.00,19605.00,Paid,2025-09-10,L. Hamunyela
+2025-08-11,INV-2025-0860,Benguela Cold Storage,Walvis Bay,Tablet,Electronics,3,5405.00,16215.00,Paid,2025-09-10,S. Tjivikua
+2025-08-11,INV-2025-0861,NamiTech,Windhoek,Laptop,Electronics,1,13065.00,13065.00,Paid,2025-09-10,M. Shikongo
+2025-08-11,INV-2025-0862,Oshana Builders,Oshakati,Office Desk,Office Furniture,6,4220.00,25320.00,Paid,2025-09-10,E. Shilongo
+2025-08-11,INV-2025-0863,Khomas Hardware,Walvis Bay,Accounting Software Licence,Software & Services,1,10240.00,10240.00,Paid,2025-09-10,S. Tjivikua
+2025-08-12,INV-2025-0864,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,13,1210.00,15730.00,Paid,2025-10-11,A. Gaoab
+2025-08-02,INV-2025-0832,XYZ Enterprises,Windhoek,Laptop,Electronics,3,12895.00,38685.00,Paid,2025-09-01,M. Shikongo
+2025-08-13,INV-2025-0865,Khomas Hardware,Windhoek,Accounting Software Licence,Software & Services,4,9950.00,39800.00,Overdue,2025-09-12,T. Nangolo
+2025-08-13,INV-2025-0866,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,15,1210.00,18150.00,Paid,2025-09-12,M. Shikongo
+2025-08-13,INV-2025-0867,Namib Logistics,Windhoek,Laptop,Electronics,5,12310.00,61550.00,Paid,2025-10-12,M. Shikongo
+2025-07-08,INV-2025-0730,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1615.00,6460.00,Paid,2025-09-06,R. Beukes
+2025-08-13,INV-2025-0868,Erongo Mining Services,Swakopmund,Laptop,Electronics,4,13080.00,52320.00,Paid,2025-10-12,R. Beukes
+2025-08-13,INV-2025-0868,Erongo Mining Services,Swakopmund,Laptop,Electronics,4,13080.00,52320.00,Paid,2025-10-12,R. Beukes
+2025-08-13,INV-2025-0869,ABC Trading,Windhoek,Tablet,Electronics,5,5095.00,25475.00,Paid,2025-09-12,L. Hamunyela
+2025-08-13,INV-2025-0870,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,16,875.00,14000.00,Paid,2025-09-12,A. Gaoab
+2025-08-14,INV-2025-0871,Okavango Stationers,Windhoek,Toner Cartridge,Stationery & Consumables,2,1720.00,3440.00,Paid,2025-09-13,T. Nangolo
+2025-08-14,INV-2025-0872,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,7,1625.00,11375.00,Paid,2025-09-13,L. Hamunyela
+2025-08-14,INV-2025-0873,Kalahari Traders,Windhoek,Laptop,Electronics,2,12545.00,25090.00,Paid,2025-09-13,L. Hamunyela
+2025-08-14,INV-2025-0874,Oshana Builders,Oshakati,Toner Cartridge,Stationery & Consumables,3,1585.00,4755.00,Paid,2025-09-13,P. Iipinge
+2025-08-14,INV-2025-0875,Kalahari Traders,Oshakati,Smartphone,Electronics,3,6220.00,18660.00,Overdue,2025-09-13,N. Haufiku
+2025-08-14,INV-2025-0876,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,30,875.00,26250.00,Paid,2025-09-13,S. Tjivikua
+2025-08-14,INV-2025-0877,Benguela Cold Storage,Walvis Bay,Toner Cartridge,Stationery & Consumables,4,1710.00,6840.00,Paid,2025-09-13,J. Kandjoze
+2025-08-14,INV-2025-0878,NamiTech,Windhoek,Accounting Software Licence,Software & Services,2,9750.00,19500.00,Paid,2025-09-13,L. Hamunyela
+2025-08-15,INV-2025-0879,Ohangwena Traders,Oshakati,Printer,Electronics,4,3780.00,15120.00,Paid,2025-09-14,P. Iipinge
+2025-08-15,INV-2025-0879,Ohangwena Traders,Oshakati,Printer,Electronics,4,3780.00,15120.00,Paid,2025-09-14,P. Iipinge
+2025-08-15,INV-2025-0880,Kunene Tours,Swakopmund,Toner Cartridge,Stationery & Consumables,5,1600.00,8000.00,Paid,2025-09-14,R. Beukes
+2025-08-15,INV-2025-0881,Kunene Tours,Oshakati,Office Desk,Office Furniture,4,4230.00,16920.00,Overdue,2025-09-14,P. Iipinge
+2025-08-15,INV-2025-0882,NamiTech,Windhoek,Laptop,Electronics,2,12055.00,24110.00,Paid,2025-09-14,L. Hamunyela
+2025-08-15,INV-2025-0883,Oshana Builders,Oshakati,Office Desk,Office Furniture,4,4410.00,17640.00,Paid,2025-09-14,E. Shilongo
+2025-08-15,INV-2025-0884,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,1,5330.00,5330.00,Paid,2025-09-14,S. Tjivikua
+2025-08-16,INV-2025-0885,Ohangwena Traders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,8,1245.00,9960.00,Paid,2025-09-15,P. Iipinge
+2025-08-16,INV-2025-0886,Hardap Farms,Windhoek,Printer,Electronics,2,3815.00,7630.00,Paid,2025-09-15,L. Hamunyela
+2025-08-16,INV-2025-0887,Tsumeb Metals,Oshakati,Office Chair,Office Furniture,10,2255.00,22550.00,Paid,2025-10-15,E. Shilongo
+2025-08-16,INV-2025-0888,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,18,1220.00,21960.00,Paid,2025-09-15,R. Beukes
+2025-08-16,INV-2025-0889,Caprivi Timber,Oshakati,Tablet,Electronics,2,4990.00,9980.00,Overdue,2025-09-15,E. Shilongo
+2025-08-18,INV-2025-0890,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,5,3020.00,15100.00,Paid,2025-09-17,M. Shikongo
+2025-08-18,INV-2025-0890,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,5,3020.00,15100.00,Paid,2025-09-17,M. Shikongo
+2025-08-18,INV-2025-0891,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,6,1200.00,7200.00,Paid,2025-09-17,R. Beukes
+2025-08-18,INV-2025-0892,Benguela Cold Storage,Walvis Bay,Office Desk,Office Furniture,3,4075.00,12225.00,Paid,2025-09-17,S. Tjivikua
+2025-08-18,INV-2025-0893,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,13,1255.00,16315.00,Paid,2025-09-17,A. Gaoab
+2025-08-18,INV-2025-0894,Namport Contractors,Walvis Bay,Laptop,Electronics,3,11995.00,35985.00,Paid,2025-09-17,S. Tjivikua
+2025-08-18,INV-2025-0895,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,13,890.00,11570.00,Paid,2025-09-17,S. Tjivikua
+2025-08-18,INV-2025-0896,Kunene Tours,Oshakati,Office Desk,Office Furniture,6,4295.00,25770.00,Paid,2025-09-17,P. Iipinge
+2025-08-18,INV-2025-0897,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,5,4350.00,21750.00,Paid,2025-09-17,S. Tjivikua
+2025-08-19,INV-2025-0898,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,21,880.00,18480.00,Paid,2025-10-18,J. Kandjoze
+2025-08-19,INV-2025-0899,Dolphin Marine Services,Swakopmund,Accounting Software Licence,Software & Services,3,9755.00,29265.00,Paid,2025-09-18,A. Gaoab
+2025-08-20,INV-2025-0900,Khomas Hardware,Windhoek,Laptop,Electronics,2,12135.00,24270.00,Paid,2025-09-19,M. Shikongo
+2025-08-20,INV-2025-0901,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,3,12135.00,36405.00,Overdue,2025-10-19,J. Kandjoze
+2025-08-21,INV-2025-0902,Khomas Hardware,Windhoek,Smartphone,Electronics,2,6515.00,13030.00,Paid,2025-09-20,M. Shikongo
+2025-08-21,INV-2025-0903,Rundu Motors,Oshakati,Office Desk,Office Furniture,4,4285.00,17140.00,Paid,2025-09-20,E. Shilongo
+2025-08-21,INV-2025-0904,Tsumeb Metals,Oshakati,Laptop,Electronics,4,12135.00,48540.00,Paid,2025-10-20,E. Shilongo
+2025-08-21,INV-2025-0905,Kunene Tours,Oshakati,Accounting Software Licence,Software & Services,1,9575.00,9575.00,Paid,2025-09-20,P. Iipinge
+2025-08-21,INV-2025-0906,Windhoek Supplies,Windhoek,Printer,Electronics,1,3930.00,3930.00,Paid,2025-09-20,M. Shikongo
+2025-08-22,INV-2025-0907,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,4,1700.00,6800.00,Paid,2025-10-21,A. Gaoab
+2025-08-22,INV-2025-0908,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,10,1150.00,11500.00,Paid,2025-10-21,S. Tjivikua
+2025-08-22,INV-2025-0909,Tsumeb Metals,Oshakati,Laptop,Electronics,4,12360.00,49440.00,Paid,2025-10-21,E. Shilongo
+2025-08-22,INV-2025-0910,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,3,1175.00,3525.00,Paid,2025-09-21,T. Nangolo
+2025-08-22,INV-2025-0911,Rundu Motors,Oshakati,Stationery Bulk Pack,Stationery & Consumables,18,1255.00,22590.00,Overdue,2025-09-21,E. Shilongo
+2025-08-23,INV-2025-0912,Grootfontein Agri,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,9,1145.00,10305.00,Paid,2025-09-22,J. Kandjoze
+2025-08-23,INV-2025-0913,Khomas Hardware,Windhoek,Filing Cabinet,Office Furniture,3,3135.00,9405.00,Paid,2025-09-22,T. Nangolo
+2025-08-25,INV-2025-0914,Tsumeb Metals,Oshakati,Office Desk,Office Furniture,1,4205.00,4205.00,Paid,2025-10-24,P. Iipinge
+2025-08-25,INV-2025-0915,Okavango Stationers,Windhoek,Printing Paper (Box),Stationery & Consumables,12,825.00,9900.00,Paid,2025-09-24,T. Nangolo
+2025-08-25,INV-2025-0916,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,7,6940.00,48580.00,Overdue,2025-09-24,R. Beukes
+2025-08-25,INV-2025-0917,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,29,840.00,24360.00,Paid,2025-10-24,T. Nangolo
+2025-08-25,INV-2025-0918,Dolphin Marine Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,19,1160.00,22040.00,Paid,2025-09-24,A. Gaoab
+2025-08-25,INV-2025-0919,Walvis Freight Agents,Walvis Bay,Office Desk,Office Furniture,6,4175.00,25050.00,Paid,2025-10-24,S. Tjivikua
+2025-08-25,INV-2025-0920,Skeleton Coast Foods,Walvis Bay,Office Chair,Office Furniture,3,2225.00,6675.00,Paid,2025-09-24,J. Kandjoze
+2025-08-25,INV-2025-0921,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,7,1140.00,7980.00,Paid,2025-09-24,T. Nangolo
+2025-08-25,INV-2025-0922,Caprivi Timber,Oshakati,Toner Cartridge,Stationery & Consumables,2,1610.00,3220.00,Overdue,2025-09-24,P. Iipinge
+2025-08-25,INV-2025-0923,Khomas Hardware,Windhoek,Smartphone,Electronics,5,6630.00,33150.00,Paid,2025-09-24,L. Hamunyela
+2025-08-26,INV-2025-0924,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,36,890.00,32040.00,Paid,2025-10-25,R. Beukes
+2025-08-27,INV-2025-0925,Erongo Mining Services,Oshakati,Office Chair,Office Furniture,9,2270.00,20430.00,Paid,2025-10-26,E. Shilongo
+2025-08-27,INV-2025-0926,Kalahari Traders,Windhoek,Smartphone,Electronics,5,6635.00,33175.00,Paid,2025-09-26,T. Nangolo
+2025-08-27,INV-2025-0927,Atlantic Fisheries,Swakopmund,Laptop,Electronics,5,12490.00,62450.00,Paid,2025-09-26,A. Gaoab
+2025-08-27,INV-2025-0928,Caprivi Timber,Oshakati,Office Chair,Office Furniture,4,2230.00,8920.00,Paid,2025-09-26,P. Iipinge
+2025-08-28,INV-2025-0929,Kunene Tours,Oshakati,Toner Cartridge,Stationery & Consumables,9,1575.00,14175.00,Overdue,2025-09-27,E. Shilongo
+2025-08-28,INV-2025-0930,Okavango Stationers,Windhoek,Toner Cartridge,Stationery & Consumables,11,1725.00,18975.00,Paid,2025-09-27,L. Hamunyela
+2025-08-28,INV-2025-0931,Skeleton Coast Foods,Walvis Bay,Office Chair,Office Furniture,1,2415.00,"N$2,415.00",Paid,2025-09-27,J. Kandjoze
+2025-08-28,INV-2025-0932,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,2,2950.00,5900.00,Paid,2025-09-27,M. Shikongo
+2025-08-29,INV-2025-0933,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,18,1190.00,21420.00,Paid,2025-10-28,T. Nangolo
+2025-08-29,INV-2025-0934,ABC Trading,Windhoek,Printing Paper (Box),Stationery & Consumables,7,835.00,5845.00,Paid,2025-09-28,L. Hamunyela
+2025-08-29,INV-2025-0935,Benguela Cold Storage,Walvis Bay,Printer,Electronics,1,3870.00,3870.00,Paid,2025-09-28,J. Kandjoze
+2025-08-30,INV-2025-0936,Kalahari Traders,Windhoek,IT Support Contract,Software & Services,2,17885.00,35770.00,Overdue,2025-09-29,M. Shikongo
+2025-08-30,INV-2025-0937,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,17,1235.00,20995.00,Paid,2025-09-29,L. Hamunyela
+2025-08-30,INV-2025-0938,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,2,3890.00,7780.00,Paid,2025-09-29,J. Kandjoze
+2025-08-30,INV-2025-0939,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,29,855.00,24795.00,Paid,2025-09-29,M. Shikongo
+2025-07-05,INV-2025-0715,Kunene Tours,Oshakati,Office Chair,Office Furniture,3,2335.00,7005.00,Paid,2025-08-04,E. Shilongo
+2025-08-30,INV-2025-0940,Erongo Mining Services,Swakopmund,Smartphone,Electronics,6,6200.00,37200.00,Paid,2025-10-29,R. Beukes
+2025-09-01,INV-2025-0941,Rundu Motors,Oshakati,Printer,Electronics,3,3640.00,10920.00,Overdue,2025-10-01,P. Iipinge
+2025-09-01,INV-2025-0942,Grootfontein Agri,Walvis Bay,Tablet,Electronics,4,5175.00,20700.00,Paid,2025-10-01,J. Kandjoze
+2025-09-01,INV-2025-0943,XYZ Enterprises,Windhoek,Laptop,Electronics,4,12825.00,51300.00,Overdue,2025-10-01,M. Shikongo
+2025-09-01,INV-2025-0944,Hardap Farms,Windhoek,Accounting Software Licence,Software & Services,2,9355.00,18710.00,Paid,2025-10-01,L. Hamunyela
+2025-09-01,INV-2025-0945,Ongwediva Pharmacy,Oshakati,Accounting Software Licence,Software & Services,4,10075.00,40300.00,Paid,2025-10-01,E. Shilongo
+2025-09-01,INV-2025-0946,Skeleton Coast Foods,Oshakati,Filing Cabinet,Office Furniture,3,3055.00,9165.00,Paid,2025-10-01,N. Haufiku
+2025-09-01,INV-2025-0947,Dolphin Marine Services,Windhoek,Toner Cartridge,Stationery & Consumables,12,1665.00,19980.00,Paid,2025-10-01,M. Shikongo
+2025-09-02,INV-2025-0948,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,4,1235.00,4940.00,Paid,2025-10-02,M. Shikongo
+2025-09-02,INV-2025-0949,Tsumeb Metals,Oshakati,Office Desk,Office Furniture,3,4345.00,13035.00,Paid,2025-11-01,P. Iipinge
+2025-09-02,INV-2025-0950,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,7,1255.00,8785.00,Paid,2025-11-01,M. Shikongo
+2025-09-02,INV-2025-0951,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,2,12590.00,25180.00,Paid,2025-10-02,N. Haufiku
+2025-09-02,INV-2025-0952,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,3,12230.00,36690.00,Paid,2025-11-01,S. Tjivikua
+2025-09-02,INV-2025-0953,Benguela Cold Storage,Walvis Bay,Accounting Software Licence,Software & Services,2,9575.00,19150.00,Paid,2025-10-02,S. Tjivikua
+2025-09-03,INV-2025-0954,Atlantic Fisheries,Swakopmund,Office Desk,Office Furniture,2,4270.00,8540.00,Paid,2025-10-03,R. Beukes
+2025-09-03,INV-2025-0955,Erongo Mining Services,Swakopmund,Smartphone,Electronics,4,6325.00,25300.00,Paid,2025-11-02,R. Beukes
+2025-09-04,INV-2025-0956,Walvis Freight Agents,Walvis Bay,Toner Cartridge,Stationery & Consumables,3,1675.00,5025.00,Paid,2025-11-03,J. Kandjoze
+2025-09-04,INV-2025-0957,NamiTech,Windhoek,Laptop,Electronics,1,12700.00,12700.00,Paid,2025-10-04,M. Shikongo
+2025-09-04,INV-2025-0958,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,20,1230.00,24600.00,Overdue,2025-10-04,L. Hamunyela
+2025-09-04,INV-2025-0959,Dolphin Marine Services,Swakopmund,Laptop,Electronics,3,12015.00,36045.00,Paid,2025-10-04,R. Beukes
+2025-09-04,INV-2025-0960,Oshana Builders,Oshakati,Printer,Electronics,3,3805.00,11415.00,Paid,2025-10-04,N. Haufiku
+2025-09-04,INV-2025-0961,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,16,1185.00,18960.00,Paid,2025-10-04,T. Nangolo
+2025-09-04,INV-2025-0962,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,4,5335.00,21340.00,Paid,2025-10-04,S. Tjivikua
+2025-09-05,INV-2025-0963,Kunene Tours,Swakopmund,Printing Paper (Box),Stationery & Consumables,30,865.00,25950.00,Paid,2025-10-05,A. Gaoab
+2025-09-05,INV-2025-0964,Oshana Builders,Oshakati,Printer,Electronics,1,3675.00,3675.00,Paid,2025-10-05,E. Shilongo
+2025-09-05,INV-2025-0965,Rundu Motors,Oshakati,Printer,Electronics,1,3990.00,3990.00,Overdue,2025-10-05,N. Haufiku
+2025-09-06,INV-2025-0966,Erongo Mining Services,Swakopmund,Smartphone,Electronics,5,6650.00,33250.00,Paid,2025-11-05,A. Gaoab
+2025-09-06,INV-2025-0967,Ohangwena Traders,Oshakati,Laptop,Electronics,1,12050.00,12050.00,Paid,2025-10-06,P. Iipinge
+2025-09-08,INV-2025-0968,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,13,845.00,10985.00,Paid,2025-10-08,N. Haufiku
+2025-09-08,INV-2025-0969,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,5,5400.00,27000.00,Paid,2025-11-07,S. Tjivikua
+2025-09-08,INV-2025-0970,Caprivi Timber,Oshakati,Printing Paper (Box),Stationery & Consumables,20,815.00,16300.00,Overdue,2025-10-08,N. Haufiku
+2025-09-08,INV-2025-0971,Ongwediva Pharmacy,Oshakati,Office Desk,Office Furniture,5,4360.00,21800.00,Paid,2025-10-08,P. Iipinge
+2025-09-08,INV-2025-0972,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,24,810.00,19440.00,Paid,2025-10-08,T. Nangolo
+2025-09-08,INV-2025-0973,Windhoek Supplies,Windhoek,Smartphone,Electronics,3,6255.00,18765.00,Paid,2025-10-08,L. Hamunyela
+2025-09-09,INV-2025-0974,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,1,1630.00,1630.00,Paid,2025-10-09,T. Nangolo
+2025-09-09,INV-2025-0975,Erongo Mining Services,Oshakati,Laptop,Electronics,2,12670.00,25340.00,Paid,2025-11-08,P. Iipinge
+2025-09-09,INV-2025-0976,Namib Logistics,Windhoek,Office Desk,Office Furniture,5,4320.00,21600.00,Paid,2025-11-08,L. Hamunyela
+2025-09-10,INV-2025-0977,Windhoek Supplies,Windhoek,Printer,Electronics,1,3975.00,3975.00,Paid,2025-10-10,T. Nangolo
+2025-09-10,INV-2025-0978,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1145.00,11450.00,Overdue,2025-11-09,M. Shikongo
+2025-09-11,INV-2025-0979,Sossusvlei Lodge,Swakopmund,Printer,Electronics,4,3695.00,14780.00,Paid,2025-10-11,R. Beukes
+2025-09-11,INV-2025-0980,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,8,1585.00,12680.00,Paid,2025-10-11,P. Iipinge
+2025-09-11,INV-2025-0981,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,11,860.00,9460.00,Paid,2025-10-11,S. Tjivikua
+2025-09-12,INV-2025-0982,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1155.00,9240.00,Overdue,2025-10-12,L. Hamunyela
+2025-09-12,INV-2025-0983,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1195.00,11950.00,Paid,2025-10-12,T. Nangolo
+2025-09-12,INV-2025-0984,Ongwediva Pharmacy,Oshakati,Office Chair,Office Furniture,7,2360.00,16520.00,Paid,2025-10-12,N. Haufiku
+2025-09-12,INV-2025-0985,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,6,1575.00,9450.00,Paid,2025-10-12,L. Hamunyela
+2025-09-12,INV-2025-0986,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,11,1700.00,18700.00,Paid,2025-10-12,T. Nangolo
+2025-09-13,INV-2025-0987,Namport Contractors,Walvis Bay,Smartphone,Electronics,2,6590.00,13180.00,Paid,2025-10-13,J. Kandjoze
+2025-09-13,INV-2025-0988,Khomas Hardware,Windhoek,Smartphone,Electronics,3,6290.00,18870.00,Paid,2025-10-13,T. Nangolo
+2025-09-13,INV-2025-0989,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,8,1680.00,13440.00,Paid,2025-10-13,L. Hamunyela
+2025-09-13,INV-2025-0990,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,12,1200.00,14400.00,Overdue,2025-10-13,S. Tjivikua
+2025-09-15,INV-2025-0991,XYZ Enterprises,Windhoek,Office Chair,Office Furniture,6,2355.00,14130.00,Paid,2025-10-15,T. Nangolo
+2025-09-15,INV-2025-0992,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,5,1235.00,6175.00,Paid,2025-11-14,A. Gaoab
+2025-09-15,INV-2025-0993,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,2,1695.00,3390.00,Paid,2025-10-15,T. Nangolo
+2025-09-15,INV-2025-0994,Rundu Motors,Oshakati,Office Chair,Office Furniture,8,2185.00,17480.00,Paid,2025-10-15,E. Shilongo
+2025-09-15,INV-2025-0995,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,6,1170.00,7020.00,Overdue,2025-10-15,T. Nangolo
+2025-09-15,INV-2025-0996,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,9,1680.00,15120.00,Paid,2025-10-15,T. Nangolo
+2025-09-16,INV-2025-0997,Oshana Builders,Swakopmund,Printing Paper (Box),Stationery & Consumables,36,885.00,31860.00,Paid,2025-10-16,A. Gaoab
+2025-09-16,INV-2025-0998,Grootfontein Agri,Walvis Bay,Printer,Electronics,4,3765.00,15060.00,Paid,2025-10-16,S. Tjivikua
+2025-09-16,INV-2025-0999,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,6,1685.00,10110.00,Overdue,2025-10-16,N. Haufiku
+2025-09-17,INV-2025-1000,Windhoek Supplies,Swakopmund,Printer,Electronics,4,3860.00,15440.00,Paid,2025-10-17,R. Beukes
+2025-09-17,INV-2025-1001,Atlantic Fisheries,Oshakati,Stationery Bulk Pack,Stationery & Consumables,16,1235.00,19760.00,Paid,2025-10-17,N. Haufiku
+2025-09-17,INV-2025-1002,Khomas Hardware,Windhoek,Filing Cabinet,Office Furniture,2,3195.00,6390.00,Paid,2025-10-17,M. Shikongo
+2025-09-17,INV-2025-1003,Oshana Builders,Oshakati,Toner Cartridge,Stationery & Consumables,9,1585.00,14265.00,Paid,2025-10-17,N. Haufiku
+2025-09-17,INV-2025-1004,,Walvis Bay,Printer,Electronics,3,3705.00,11115.00,Paid,2025-10-17,J. Kandjoze
+2025-09-17,INV-2025-1005,Benguela Cold Storage,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,4,1235.00,4940.00,Paid,2025-10-17,S. Tjivikua
+2025-09-17,INV-2025-1006,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,11,1175.00,12925.00,Paid,2025-11-16,A. Gaoab
+2025-09-18,INV-2025-1007,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,5,4160.00,20800.00,Paid,2025-11-17,R. Beukes
+2025-09-18,INV-2025-1008,Benguela Cold Storage,Walvis Bay,IT Support Contract,Software & Services,2,18705.00,37410.00,Paid,2025-10-18,S. Tjivikua
+2025-09-18,INV-2025-1009,Namib Logistics,Windhoek,Laptop,Electronics,4,12765.00,51060.00,Paid,2025-11-17,T. Nangolo
+2025-09-18,INV-2025-1010,Okavango Stationers,Windhoek,Printing Paper (Box),Stationery & Consumables,10,855.00,8550.00,Paid,2025-10-18,L. Hamunyela
+2025-09-18,INV-2025-1011,Khomas Hardware,Windhoek,Laptop,Electronics,1,12760.00,12760.00,Paid,2025-10-18,M. Shikongo
+2025-09-18,INV-2025-1012,ABC Trading,Oshakati,Smartphone,Electronics,6,6225.00,37350.00,Paid,2025-10-18,N. Haufiku
+2025-09-19,INV-2025-1013,ABC Trading,Windhoek,Printing Paper (Box),Stationery & Consumables,10,835.00,8350.00,Paid,2025-10-19,T. Nangolo
+2025-09-19,INV-2025-1014,Rundu Motors,Walvis Bay,Toner Cartridge,Stationery & Consumables,10,1690.00,16900.00,Overdue,2025-10-19,S. Tjivikua
+2025-09-19,INV-2025-1015,Ongwediva Pharmacy,Oshakati,Office Desk,Office Furniture,6,4245.00,25470.00,Paid,2025-10-19,E. Shilongo
+2025-09-19,INV-2025-1016,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,38,820.00,31160.00,Paid,2025-10-19,M. Shikongo
+2025-09-20,INV-2025-1017,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,22,850.00,18700.00,Paid,2025-11-19,R. Beukes
+2025-09-20,INV-2025-1018,Kunene Tours,Oshakati,Office Desk,Office Furniture,4,4245.00,16980.00,Paid,2025-10-20,N. Haufiku
+2025-09-20,INV-2025-1019,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,37,865.00,32005.00,Paid,2025-10-20,T. Nangolo
+2025-09-22,INV-2025-1020,Benguela Cold Storage,Walvis Bay,Laptop,Electronics,1,12935.00,12935.00,Paid,2025-10-22,J. Kandjoze
+2025-09-22,INV-2025-1021,XYZ Enterprises,Windhoek,Printer,Electronics,3,3820.00,11460.00,Paid,2025-10-22,M. Shikongo
+2025-09-22,INV-2025-1022,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,12,1615.00,19380.00,Overdue,2025-10-22,T. Nangolo
+2025-09-22,INV-2025-1023,Kunene Tours,Oshakati,Tablet,Electronics,2,5245.00,10490.00,Paid,2025-10-22,E. Shilongo
+2025-09-22,INV-2025-1024,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1205.00,9640.00,Paid,2025-10-22,L. Hamunyela
+2025-09-23,INV-2025-1025,Kalahari Traders,Windhoek,Smartphone,Electronics,5,6445.00,32225.00,Paid,2025-10-23,T. Nangolo
+2025-09-23,INV-2025-1026,Skeleton Coast Foods,Walvis Bay,Smartphone,Electronics,4,6270.00,25080.00,Paid,2025-10-23,S. Tjivikua
+2025-09-23,INV-2025-1027,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,18,870.00,15660.00,Paid,2025-11-22,S. Tjivikua
+2025-09-23,INV-2025-1028,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,2,1570.00,3140.00,Paid,2025-10-23,L. Hamunyela
+2025-09-23,INV-2025-1029,Benguela Cold Storage,Walvis Bay,Toner Cartridge,Stationery & Consumables,5,1710.00,8550.00,Paid,2025-10-23,J. Kandjoze
+2025-09-24,INV-2025-1030,NamiTech,Oshakati,Accounting Software Licence,Software & Services,5,10120.00,50600.00,Paid,2025-10-24,P. Iipinge
+2025-09-24,INV-2025-1031,Erongo Mining Services,Swakopmund,Accounting Software Licence,Software & Services,5,10240.00,51200.00,Paid,2025-11-23,R. Beukes
+2025-09-24,INV-2025-1032,Skeleton Coast Foods,Walvis Bay,Accounting Software Licence,Software & Services,3,9500.00,28500.00,Paid,2025-10-24,J. Kandjoze
+2025-09-24,INV-2025-1033,Windhoek Supplies,Windhoek,Smartphone,Electronics,1,6695.00,6695.00,Paid,2025-10-24,L. Hamunyela
+2025-09-24,INV-2025-1034,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,1,5440.00,5440.00,Paid,2025-10-24,J. Kandjoze
+2025-09-24,INV-2025-1035,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,23,865.00,19895.00,Paid,2025-11-23,S. Tjivikua
+2025-09-24,INV-2025-1036,Tsumeb Metals,Oshakati,Printing Paper (Box),Stationery & Consumables,32,835.00,26720.00,Paid,2025-11-23,P. Iipinge
+2025-09-24,INV-2025-1037,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,8,1190.00,-9520.00,Paid,2025-10-24,R. Beukes
+2025-09-24,INV-2025-1038,NamiTech,Windhoek,Printer,Electronics,3,3765.00,11295.00,Paid,2025-10-24,M. Shikongo
+2025-09-25,INV-2025-1039,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,3,4080.00,12240.00,Paid,2025-11-24,A. Gaoab
+2025-09-25,INV-2025-1040,Oshana Builders,Oshakati,Accounting Software Licence,Software & Services,3,9815.00,29445.00,Paid,2025-10-25,E. Shilongo
+2025-09-25,INV-2025-1041,Erongo Mining Services,Swakopmund,Smartphone,Electronics,4,6485.00,25940.00,Paid,2025-11-24,A. Gaoab
+2025-09-26,INV-2025-1042,NamiTech,Windhoek,Tablet,Electronics,4,5080.00,20320.00,Paid,2025-10-26,M. Shikongo
+2025-09-26,INV-2025-1042,NamiTech,Windhoek,Tablet,Electronics,4,5080.00,20320.00,Paid,2025-10-26,M. Shikongo
+2025-09-26,INV-2025-1043,Kalahari Traders,Windhoek,Smartphone,Electronics,4,6200.00,24800.00,Paid,2025-10-26,M. Shikongo
+2025-09-27,INV-2025-1044,NamiTech,Windhoek,Office Chair,Office Furniture,9,2405.00,21645.00,Paid,2025-10-27,M. Shikongo
+2025-09-27,INV-2025-1045,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,9,1145.00,10305.00,Paid,2025-10-27,L. Hamunyela
+2025-09-27,INV-2025-1046,Caprivi Timber,Oshakati,Stationery Bulk Pack,Stationery & Consumables,10,1160.00,11600.00,Paid,2025-10-27,N. Haufiku
+2025-09-27,INV-2025-1047,Skeleton Coast Foods,Walvis Bay,Printer,Electronics,4,3950.00,15800.00,Paid,2025-10-27,S. Tjivikua
+2025-09-29,INV-2025-1048,Rundu Motors,Oshakati,Stationery Bulk Pack,Stationery & Consumables,6,1250.00,7500.00,Overdue,2025-10-29,N. Haufiku
+2025-09-29,INV-2025-1049,XYZ Enterprises,Windhoek,Tablet,Electronics,1,5455.00,5455.00,Paid,2025-10-29,M. Shikongo
+2025-09-29,INV-2025-1050,Kunene Tours,Oshakati,Smartphone,Electronics,1,6500.00,6500.00,Paid,2025-10-29,P. Iipinge
+2025-09-29,INV-2025-1051,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,5,1700.00,8500.00,Overdue,2025-10-29,E. Shilongo
+2025-09-29,INV-2025-1052,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6600.00,39600.00,Paid,2025-10-29,M. Shikongo
+2025-09-29,INV-2025-1053,Erongo Mining Services,Swakopmund,Printer,Electronics,2,3715.00,7430.00,Paid,2025-11-28,A. Gaoab
+2025-09-29,INV-2025-1054,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,1,13110.00,13110.00,Paid,2025-10-29,E. Shilongo
+2025-09-29,INV-2025-1055,NamiTech,Windhoek,Accounting Software Licence,Software & Services,4,9400.00,37600.00,Overdue,2025-10-29,T. Nangolo
+2025-09-29,INV-2025-1056,Atlantic Fisheries,Swakopmund,IT Support Contract,Software & Services,1,18120.00,18120.00,Paid,2025-10-29,A. Gaoab
+2025-09-29,INV-2025-1057,Caprivi Timber,Oshakati,Office Desk,Office Furniture,6,4360.00,26160.00,Paid,2025-10-29,N. Haufiku
+2025-09-29,INV-2025-1058,Rundu Motors,Walvis Bay,Office Desk,Office Furniture,4,4060.00,16240.00,Paid,2025-10-29,J. Kandjoze
+2025-09-29,INV-2025-1059,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,4,1705.00,6820.00,Paid,2025-10-29,L. Hamunyela
+2025-09-29,INV-2025-1060,Kunene Tours,Oshakati,Printing Paper (Box),Stationery & Consumables,11,840.00,9240.00,Overdue,2025-10-29,P. Iipinge
+2025-09-29,INV-2025-1061,Rundu Motors,Oshakati,Laptop,Electronics,1,12455.00,12455.00,Overdue,2025-10-29,E. Shilongo
+2025-09-29,INV-2025-1062,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,5,6715.00,33575.00,Paid,2025-10-29,J. Kandjoze
+2025-09-30,INV-2025-1063,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,9,1710.00,15390.00,Paid,2025-10-30,T. Nangolo
+2025-09-30,INV-2025-1064,Oshana Builders,Oshakati,Stationery Bulk Pack,Stationery & Consumables,7,1235.00,8645.00,Paid,2025-10-30,P. Iipinge
+2025-09-30,INV-2025-1065,Windhoek Supplies,Windhoek,Printer,Electronics,3,3820.00,11460.00,Paid,2025-10-30,T. Nangolo
+2025-09-30,INV-2025-1066,Ongwediva Pharmacy,Oshakati,Smartphone,Electronics,4,6285.00,25140.00,Paid,2025-10-30,E. Shilongo
+2025-10-01,INV-2025-1067,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,19,1230.00,23370.00,Paid,2025-10-31,J. Kandjoze
+2025-10-01,INV-2025-1068,Atlantic Fisheries,Swakopmund,Tablet,Electronics,5,5325.00,26625.00,Paid,2025-10-31,A. Gaoab
+2025-10-01,INV-2025-1069,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,11,815.00,8965.00,Paid,2025-10-31,L. Hamunyela
+2025-10-02,INV-2025-1070,Skeleton Coast Foods,Walvis Bay,Accounting Software Licence,Software & Services,5,9945.00,49725.00,Paid,2025-11-01,J. Kandjoze
+2025-10-02,INV-2025-1071,Skeleton Coast Foods,Walvis Bay,Accounting Software Licence,Software & Services,5,9520.00,47600.00,Paid,2025-11-01,J. Kandjoze
+2025-10-02,INV-2025-1072,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,12,1640.00,19680.00,Paid,2025-11-01,M. Shikongo
+2025-10-02,INV-2025-1073,Sossusvlei Lodge,Swakopmund,Filing Cabinet,Office Furniture,3,3100.00,9300.00,Paid,2025-11-01,R. Beukes
+2025-10-06,INV-2025-1074,NamiTech,Windhoek,Office Desk,Office Furniture,6,4025.00,24150.00,Paid,2025-11-05,M. Shikongo
+2025-10-06,INV-2025-1075,Khomas Hardware,Oshakati,Office Chair,Office Furniture,5,2275.00,11375.00,Overdue,2025-11-05,P. Iipinge
+2025-10-06,INV-2025-1076,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,4,1175.00,4700.00,Paid,2025-12-05,J. Kandjoze
+2025-10-06,INV-2025-1077,Windhoek Supplies,Windhoek,Filing Cabinet,Office Furniture,3,3050.00,9150.00,Paid,2025-11-05,M. Shikongo
+2025-10-06,INV-2025-1078,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,3,1585.00,4755.00,Overdue,2025-11-05,N. Haufiku
+2025-10-06,INV-2025-1079,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,5,10075.00,50375.00,Overdue,2025-11-05,T. Nangolo
+2025-10-07,INV-2025-1080,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,16,1250.00,20000.00,Paid,2025-11-06,S. Tjivikua
+2025-10-07,INV-2025-1081,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,16,1145.00,18320.00,Paid,2025-12-06,P. Iipinge
+2025-10-07,INV-2025-1082,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1235.00,23465.00,Paid,2025-11-06,M. Shikongo
+2025-10-07,INV-2025-1083,Caprivi Timber,Oshakati,Tablet,Electronics,4,5265.00,21060.00,Paid,2025-11-06,E. Shilongo
+2025-10-07,INV-2025-1084,Rundu Motors,Oshakati,Printing Paper (Box),Stationery & Consumables,8,845.00,6760.00,Overdue,2025-11-06,E. Shilongo
+2025-10-07,INV-2025-1085,Kalahari Traders,Windhoek,Laptop,Electronics,3,12070.00,36210.00,Overdue,2025-11-06,L. Hamunyela
+2025-10-08,INV-2025-1086,Ohangwena Traders,Windhoek,Smartphone,Electronics,1,6585.00,6585.00,Paid,2025-11-07,L. Hamunyela
+2025-10-08,INV-2025-1087,Atlantic Fisheries,Swakopmund,Laptop,Electronics,5,12400.00,62000.00,Paid,2025-11-07,A. Gaoab
+2025-10-08,INV-2025-1088,Kunene Tours,Oshakati,Laptop,Electronics,5,12610.00,63050.00,Paid,2025-11-07,P. Iipinge
+2025-10-08,INV-2025-1089,Rundu Motors,Oshakati,Office Desk,Office Furniture,2,4135.00,8270.00,Overdue,2025-11-07,E. Shilongo
+2025-10-09,INV-2025-1090,NamiTech,Windhoek,Office Chair,Office Furniture,9,2305.00,-20745.00,Paid,2025-11-08,L. Hamunyela
+2025-10-09,INV-2025-1091,Erongo Mining Services,Swakopmund,Filing Cabinet,Office Furniture,4,3160.00,12640.00,Paid,2025-12-08,A. Gaoab
+2025-10-09,INV-2025-1092,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,3,1205.00,3615.00,Overdue,2025-12-08,A. Gaoab
+2025-10-10,INV-2025-1093,Erongo Mining Services,Swakopmund,Filing Cabinet,Office Furniture,2,3000.00,6000.00,Overdue,2025-12-09,A. Gaoab
+2025-10-10,INV-2025-1094,Rundu Motors,Oshakati,Filing Cabinet,Office Furniture,4,3115.00,12460.00,Overdue,2025-11-09,P. Iipinge
+2025-10-10,INV-2025-1095,Oshana Builders,Oshakati,Printer,Electronics,3,3960.00,11880.00,Paid,2025-11-09,P. Iipinge
+2025-10-10,INV-2025-1096,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,17,865.00,14705.00,Paid,2025-11-09,A. Gaoab
+2025-10-10,INV-2025-1097,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,9,2335.00,21015.00,Paid,2025-11-09,A. Gaoab
+2025-10-10,INV-2025-1098,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,23,880.00,20240.00,Paid,2025-11-09,R. Beukes
+2025-10-11,INV-2025-1099,Namib Logistics,Windhoek,Tablet,Electronics,5,5135.00,25675.00,Overdue,2025-12-10,M. Shikongo
+2025-10-11,INV-2025-1100,Dolphin Marine Services,Swakopmund,Laptop,Electronics,4,12665.00,50660.00,Paid,2025-11-10,A. Gaoab
+2025-10-11,INV-2025-1101,Tsumeb Metals,Oshakati,Smartphone,Electronics,1,6175.00,6175.00,Overdue,2025-12-10,N. Haufiku
+2025-10-11,INV-2025-1102,Sossusvlei Lodge,Swakopmund,Printing Paper (Box),Stationery & Consumables,14,855.00,11970.00,Paid,2025-11-10,R. Beukes
+2025-10-11,INV-2025-1103,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,27,820.00,22140.00,Paid,2025-11-10,S. Tjivikua
+2025-10-13,INV-2025-1104,Windhoek Supplies,Windhoek,Smartphone,Electronics,4,6760.00,27040.00,Paid,2025-11-12,T. Nangolo
+2025-10-13,INV-2025-1105,XYZ Enterprises,Windhoek,Office Desk,Office Furniture,4,4205.00,16820.00,Paid,2025-11-12,M. Shikongo
+2025-10-13,INV-2025-1106,Ohangwena Traders,Oshakati,Laptop,Electronics,2,12625.00,25250.00,Paid,2025-11-12,P. Iipinge
+2025-10-13,INV-2025-1107,Windhoek Supplies,Windhoek,Printer,Electronics,1,3835.00,3835.00,Paid,2025-11-12,L. Hamunyela
+2025-10-13,INV-2025-1108,Erongo Mining Services,Swakopmund,Tablet,Electronics,5,5005.00,25025.00,Overdue,2025-12-12,R. Beukes
+2025-10-13,INV-2025-1109,Erongo Mining Services,Swakopmund,Printer,Electronics,1,3725.00,3725.00,Paid,2025-12-12,A. Gaoab
+2025-10-13,INV-2025-1110,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,17,860.00,14620.00,Paid,2025-11-12,P. Iipinge
+2025-10-13,INV-2025-1111,Namib Logistics,Windhoek,Tablet,Electronics,2,5455.00,10910.00,Paid,2025-12-12,M. Shikongo
+2025-10-14,INV-2025-1112,Windhoek Supplies,Windhoek,Printing Paper (Box),Stationery & Consumables,5,865.00,4325.00,Paid,2025-11-13,L. Hamunyela
+2025-10-14,INV-2025-1113,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,2,6175.00,12350.00,Paid,2025-11-13,R. Beukes
+2025-10-14,INV-2025-1114,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,3,1635.00,4905.00,Paid,2025-11-13,T. Nangolo
+2025-10-14,INV-2025-1115,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,1,2290.00,2290.00,Paid,2025-12-13,J. Kandjoze
+2025-10-14,INV-2025-1116,Caprivi Timber,Oshakati,Stationery Bulk Pack,Stationery & Consumables,18,1200.00,21600.00,Paid,2025-11-13,E. Shilongo
+2025-10-15,INV-2025-1117,ABC Trading,Windhoek,Toner Cartridge,Stationery & Consumables,6,1615.00,9690.00,Paid,2025-11-14,M. Shikongo
+2025-10-15,INV-2025-1118,Tsumeb Metals,Walvis Bay,Printer,Electronics,4,3700.00,14800.00,Paid,2025-12-14,S. Tjivikua
+2025-10-15,INV-2025-1119,Okavango Stationers,Windhoek,Printer,Electronics,1,3785.00,3785.00,Paid,2025-11-14,M. Shikongo
+2025-10-15,INV-2025-1120,Kunene Tours,Windhoek,Stationery Bulk Pack,Stationery & Consumables,2,1155.00,2310.00,Paid,2025-11-14,M. Shikongo
+2025-10-15,INV-2025-1121,Walvis Freight Agents,Walvis Bay,Office Desk,Office Furniture,6,4315.00,25890.00,Paid,2025-12-14,S. Tjivikua
+2025-10-16,INV-2025-1122,Okavango Stationers,Windhoek,Smartphone,Electronics,3,6535.00,19605.00,Paid,2025-11-15,T. Nangolo
+2025-10-16,INV-2025-1123,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,37,850.00,31450.00,Paid,2025-12-15,A. Gaoab
+2025-10-17,INV-2025-1124,Tsumeb Metals,Oshakati,Smartphone,Electronics,4,6520.00,26080.00,Overdue,2025-12-16,P. Iipinge
+2025-10-17,INV-2025-1125,Rundu Motors,Oshakati,Toner Cartridge,Stationery & Consumables,8,1585.00,12680.00,Overdue,2025-11-16,P. Iipinge
+2025-10-17,INV-2025-1126,XYZ Enterprises,Windhoek,Printer,Electronics,3,3790.00,11370.00,Paid,2025-11-16,L. Hamunyela
+2025-10-18,INV-2025-1127,Erongo Mining Services,Swakopmund,Smartphone,Electronics,6,6360.00,38160.00,Paid,2025-12-17,R. Beukes
+2025-10-18,INV-2025-1128,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,2,6450.00,12900.00,Paid,2025-12-17,J. Kandjoze
+2025-10-18,INV-2025-1129,Swakop Boutique Hotel,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1670.00,20040.00,Paid,2025-11-17,R. Beukes
+2025-10-20,INV-2025-1130,NamiTech,Windhoek,Office Desk,Office Furniture,2,4030.00,8060.00,Paid,2025-11-19,L. Hamunyela
+2025-10-20,INV-2025-1131,Sossusvlei Lodge,Swakopmund,Accounting Software Licence,Software & Services,2,9525.00,19050.00,Overdue,2025-11-19,A. Gaoab
+2025-10-20,INV-2025-1132,ABC Trading,Windhoek,Toner Cartridge,Stationery & Consumables,5,1650.00,8250.00,Paid,2025-11-19,L. Hamunyela
+2025-10-20,INV-2025-1133,Ongwediva Pharmacy,Oshakati,Printer,Electronics,2,3900.00,7800.00,Paid,2025-11-19,E. Shilongo
+2025-10-20,INV-2025-1134,XYZ Enterprises,Windhoek,Office Chair,Office Furniture,10,2210.00,22100.00,Paid,2025-11-19,M. Shikongo
+2025-10-20,INV-2025-1135,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,2,5170.00,10340.00,Paid,2025-12-19,S. Tjivikua
+2025-10-20,INV-2025-1136,ABC Trading,Windhoek,Tablet,Electronics,5,5120.00,25600.00,Overdue,2025-11-19,M. Shikongo
+2025-10-20,INV-2025-1137,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6660.00,39960.00,Paid,2025-11-19,L. Hamunyela
+2025-10-20,INV-2025-1138,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,35,880.00,30800.00,Paid,2025-11-19,A. Gaoab
+2025-10-20,INV-2025-1139,,Windhoek,Tablet,Electronics,1,5320.00,5320.00,Paid,2025-11-19,M. Shikongo
+2025-10-21,INV-2025-1140,Ohangwena Traders,Oshakati,Printer,Electronics,3,3885.00,11655.00,Paid,2025-11-20,E. Shilongo
+2025-10-21,INV-2025-1141,Namib Logistics,Windhoek,Office Desk,Office Furniture,6,4180.00,25080.00,Paid,2025-12-20,M. Shikongo
+2025-10-21,INV-2025-1142,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,6,2210.00,13260.00,Paid,2025-12-20,R. Beukes
+2025-10-21,INV-2025-1143,Hardap Farms,Windhoek,Smartphone,Electronics,6,6545.00,39270.00,Overdue,2025-11-20,M. Shikongo
+2025-10-21,INV-2025-1144,Erongo Mining Services,Swakopmund,Accounting Software Licence,Software & Services,4,10155.00,40620.00,Paid,2025-12-20,A. Gaoab
+2025-10-22,INV-2025-1145,,Windhoek,Smartphone,Electronics,3,6585.00,19755.00,Paid,2025-11-21,T. Nangolo
+2025-10-24,INV-2025-1146,Swakop Boutique Hotel,Swakopmund,Toner Cartridge,Stationery & Consumables,12,1665.00,19980.00,Paid,2025-11-23,R. Beukes
+2025-10-24,INV-2025-1147,Khomas Hardware,Windhoek,Office Chair,Office Furniture,3,2195.00,6585.00,Paid,2025-11-23,T. Nangolo
+2025-10-24,INV-2025-1148,Sossusvlei Lodge,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,6,1230.00,7380.00,Overdue,2025-11-23,R. Beukes
+2025-10-24,INV-2025-1149,Oshana Builders,Oshakati,Smartphone,Electronics,2,6395.00,"12,790.00",Overdue,2025-11-23,P. Iipinge
+2025-10-24,INV-2025-1150,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,6,1240.00,7440.00,Paid,2025-11-23,J. Kandjoze
+2025-10-24,INV-2025-1151,NamiTech,Windhoek,Office Chair,Office Furniture,4,2380.00,9520.00,Paid,2025-11-23,L. Hamunyela
+2025-10-24,INV-2025-1152,Oshana Builders,Swakopmund,Laptop,Electronics,5,12490.00,62450.00,Paid,2025-11-23,A. Gaoab
+2025-10-24,INV-2025-1152,Oshana Builders,Swakopmund,Laptop,Electronics,5,12490.00,62450.00,Paid,2025-11-23,A. Gaoab
+2025-10-25,INV-2025-1153,Caprivi Timber,Oshakati,Laptop,Electronics,3,12560.00,37680.00,Paid,2025-11-24,N. Haufiku
+2025-10-25,INV-2025-1154,Windhoek Supplies,Windhoek,Printer,Electronics,3,3970.00,11910.00,Paid,2025-11-24,T. Nangolo
+2025-10-27,INV-2025-1155,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1230.00,9840.00,Overdue,2025-12-26,M. Shikongo
+2025-10-27,INV-2025-1156,Sossusvlei Lodge,Swakopmund,Accounting Software Licence,Software & Services,3,9490.00,28470.00,Paid,2025-11-26,A. Gaoab
+2025-10-27,INV-2025-1157,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,1,6745.00,6745.00,Overdue,2025-11-26,A. Gaoab
+2025-10-27,INV-2025-1158,NamiTech,Windhoek,Printer,Electronics,3,3760.00,11280.00,Paid,2025-11-26,M. Shikongo
+2025-10-27,INV-2025-1159,Erongo Mining Services,Swakopmund,Printer,Electronics,1,3965.00,3965.00,Paid,2025-12-26,A. Gaoab
+2025-10-27,INV-2025-1160,ABC Trading,Oshakati,Accounting Software Licence,Software & Services,1,9840.00,9840.00,Paid,2025-11-26,P. Iipinge
+2025-10-27,INV-2025-1161,Kalahari Traders,Windhoek,Printer,Electronics,2,3795.00,7590.00,Overdue,2025-11-26,M. Shikongo
+2025-10-27,INV-2025-1162,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,3,1580.00,4740.00,Paid,2025-11-26,T. Nangolo
+2025-10-27,INV-2025-1163,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,33,835.00,27555.00,Paid,2025-11-26,S. Tjivikua
+2025-10-27,INV-2025-1164,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,10,820.00,8200.00,Paid,2025-11-26,J. Kandjoze
+2025-10-28,INV-2025-1165,ABC Trading,Windhoek,IT Support Contract,Software & Services,3,15730.00,47190.00,Overdue,2025-11-27,L. Hamunyela
+2025-10-28,INV-2025-1166,ABC Trading,Windhoek,IT Support Contract,Software & Services,3,16390.00,49170.00,Paid,2025-11-27,L. Hamunyela
+2025-10-28,INV-2025-1167,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,9,2355.00,21195.00,Paid,2025-12-27,S. Tjivikua
+2025-10-28,INV-2025-1168,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,1,1610.00,1610.00,Paid,2025-11-27,M. Shikongo
+2025-10-28,INV-2025-1169,Ohangwena Traders,Oshakati,Smartphone,Electronics,2,6660.00,13320.00,Paid,2025-11-27,P. Iipinge
+2025-10-28,INV-2025-1170,Caprivi Timber,Oshakati,Tablet,Electronics,5,5095.00,25475.00,Overdue,2025-11-27,N. Haufiku
+2025-10-30,INV-2025-1171,Oshana Builders,Oshakati,Office Chair,Office Furniture,4,2375.00,9500.00,Overdue,2025-11-29,N. Haufiku
+2025-10-30,INV-2025-1172,Atlantic Fisheries,Swakopmund,Accounting Software Licence,Software & Services,3,9480.00,28440.00,Paid,2025-11-29,R. Beukes
+2025-10-30,INV-2025-1173,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,3,2400.00,7200.00,Paid,2025-12-29,A. Gaoab
+2025-10-30,INV-2025-1174,Grootfontein Agri,Walvis Bay,Filing Cabinet,Office Furniture,3,3225.00,9675.00,Paid,2025-11-29,S. Tjivikua
+2025-10-31,INV-2025-1175,Grootfontein Agri,Walvis Bay,Accounting Software Licence,Software & Services,3,9995.00,29985.00,Paid,2025-11-30,S. Tjivikua
+2025-10-31,INV-2025-1176,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,5,12130.00,60650.00,Paid,2025-12-30,J. Kandjoze
+2025-10-31,INV-2025-1177,Oshana Builders,Windhoek,IT Support Contract,Software & Services,3,18320.00,54960.00,Overdue,2025-11-30,L. Hamunyela
+2025-11-01,INV-2025-1178,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,10,1690.00,16900.00,Paid,2025-12-01,M. Shikongo
+2025-11-01,INV-2025-1179,Kalahari Traders,Windhoek,Filing Cabinet,Office Furniture,5,2995.00,14975.00,Overdue,2025-12-01,L. Hamunyela
+2025-11-03,INV-2025-1180,NamiTech,Windhoek,Office Chair,Office Furniture,1,2225.00,2225.00,Paid,2025-12-03,T. Nangolo
+2025-11-03,INV-2025-1181,Tsumeb Metals,Oshakati,Stationery Bulk Pack,Stationery & Consumables,8,1190.00,9520.00,Paid,2026-01-02,P. Iipinge
+2025-11-03,INV-2025-1182,Atlantic Fisheries,Swakopmund,Laptop,Electronics,5,12410.00,62050.00,Paid,2025-12-03,R. Beukes
+2025-11-03,INV-2025-1183,Tsumeb Metals,Oshakati,Smartphone,Electronics,4,6400.00,25600.00,Outstanding,2026-01-02,P. Iipinge
+2025-11-03,INV-2025-1184,Oshana Builders,Windhoek,Smartphone,Electronics,3,6540.00,19620.00,Paid,2025-12-03,M. Shikongo
+2025-11-03,INV-2025-1185,Windhoek Supplies,Windhoek,Smartphone,Electronics,3,6680.00,20040.00,Overdue,2025-12-03,L. Hamunyela
+2025-11-03,INV-2025-1186,Erongo Mining Services,Swakopmund,Laptop,Electronics,5,12020.00,60100.00,Paid,2026-01-02,R. Beukes
+2025-11-03,INV-2025-1187,Walvis Freight Agents,Walvis Bay,Office Desk,Office Furniture,6,4210.00,25260.00,Outstanding,2026-01-02,J. Kandjoze
+2025-11-03,INV-2025-1188,Swakop Boutique Hotel,Windhoek,Stationery Bulk Pack,Stationery & Consumables,3,1250.00,3750.00,Overdue,2025-12-03,M. Shikongo
+2025-11-05,INV-2025-1189,Grootfontein Agri,Walvis Bay,Smartphone,Electronics,5,6470.00,32350.00,Paid,2025-12-05,S. Tjivikua
+2025-11-05,INV-2025-1190,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1175.00,11750.00,Paid,2025-12-05,L. Hamunyela
+2025-11-06,INV-2025-1191,ABC Trading,Swakopmund,Office Chair,Office Furniture,9,2270.00,20430.00,Paid,2025-12-06,R. Beukes
+2025-11-06,INV-2025-1192,Hardap Farms,Windhoek,Printer,Electronics,1,3815.00,3815.00,Overdue,2025-12-06,T. Nangolo
+2025-11-06,INV-2025-1193,Okavango Stationers,Windhoek,Smartphone,Electronics,4,6605.00,26420.00,Paid,2025-12-06,T. Nangolo
+2025-11-06,INV-2025-1194,Kunene Tours,Oshakati,Tablet,Electronics,1,5365.00,5365.00,Paid,2025-12-06,P. Iipinge
+2025-11-06,INV-2025-1195,ABC Trading,Windhoek,Filing Cabinet,Office Furniture,2,3165.00,6330.00,Paid,2025-12-06,M. Shikongo
+2025-11-07,INV-2025-1196,Erongo Mining Services,Oshakati,Printing Paper (Box),Stationery & Consumables,31,865.00,26815.00,Paid,2026-01-06,P. Iipinge
+2025-11-07,INV-2025-1197,Ohangwena Traders,Oshakati,Laptop,Electronics,2,11910.00,23820.00,Overdue,2025-12-07,N. Haufiku
+2025-11-07,INV-2025-1198,XYZ Enterprises,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,18,1215.00,21870.00,Paid,2025-12-07,J. Kandjoze
+2025-11-07,INV-2025-1199,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,6,1610.00,9660.00,Overdue,2025-12-07,P. Iipinge
+2025-11-07,INV-2025-1199,Ongwediva Pharmacy,Oshakati,Toner Cartridge,Stationery & Consumables,6,1610.00,9660.00,Overdue,2025-12-07,P. Iipinge
+2025-11-07,INV-2025-1200,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,4,1665.00,6660.00,Paid,2025-12-07,L. Hamunyela
+2025-11-07,INV-2025-1201,Windhoek Supplies,Windhoek,Printer,Electronics,2,3845.00,7690.00,Paid,2025-12-07,M. Shikongo
+2025-11-08,INV-2025-1202,Walvis Freight Agents,Swakopmund,Filing Cabinet,Office Furniture,5,3005.00,15025.00,Paid,2026-01-07,R. Beukes
+2025-11-08,INV-2025-1203,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,7,1230.00,8610.00,Paid,2026-01-07,S. Tjivikua
+2025-11-08,INV-2025-1204,NamiTech,Windhoek,Office Chair,Office Furniture,4,2235.00,8940.00,Paid,2025-12-08,M. Shikongo
+2025-11-10,INV-2025-1205,Skeleton Coast Foods,Walvis Bay,Smartphone,Electronics,3,6605.00,19815.00,Paid,2025-12-10,S. Tjivikua
+2025-11-10,INV-2025-1206,ABC Trading,Windhoek,Smartphone,Electronics,3,6280.00,18840.00,Paid,2025-12-10,T. Nangolo
+2025-11-10,INV-2025-1207,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,6,1670.00,10020.00,Overdue,2025-12-10,L. Hamunyela
+2025-11-10,INV-2025-1208,Khomas Hardware,Windhoek,Tablet,Electronics,4,5460.00,21840.00,Paid,2025-12-10,L. Hamunyela
+2025-11-10,INV-2025-1209,Rundu Motors,Oshakati,Laptop,Electronics,5,12425.00,62125.00,Paid,2025-12-10,P. Iipinge
+2025-11-10,INV-2025-1210,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,5,2385.00,11925.00,Paid,2025-12-10,R. Beukes
+2025-11-10,INV-2025-1211,Walvis Freight Agents,Windhoek,Office Desk,Office Furniture,6,4220.00,25320.00,Paid,2026-01-09,T. Nangolo
+2025-11-10,INV-2025-1212,Namport Contractors,Walvis Bay,Toner Cartridge,Stationery & Consumables,1,1615.00,1615.00,Paid,2025-12-10,S. Tjivikua
+2025-11-03,INV-2025-1180,NamiTech,Windhoek,Office Chair,Office Furniture,1,2225.00,2225.00,Paid,2025-12-03,T. Nangolo
+2025-11-10,INV-2025-1213,Walvis Freight Agents,Windhoek,Laptop,Electronics,3,12365.00,37095.00,Outstanding,2026-01-09,L. Hamunyela
+2025-11-10,INV-2025-1214,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,5,1570.00,7850.00,Overdue,2025-12-10,T. Nangolo
+2025-11-11,INV-2025-1215,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,20,1210.00,24200.00,Overdue,2025-12-11,S. Tjivikua
+2025-11-11,INV-2025-1216,Erongo Mining Services,Swakopmund,Printing Paper (Box),Stationery & Consumables,23,855.00,19665.00,Outstanding,2026-01-10,R. Beukes
+2025-11-11,INV-2025-1217,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,2,4260.00,8520.00,Paid,2025-12-11,J. Kandjoze
+2025-11-11,INV-2025-1218,Walvis Freight Agents,Swakopmund,Laptop,Electronics,4,12635.00,50540.00,Paid,2026-01-10,R. Beukes
+2025-11-11,INV-2025-1219,Tsumeb Metals,Oshakati,Accounting Software Licence,Software & Services,1,9715.00,9715.00,Paid,2026-01-10,N. Haufiku
+2025-11-11,INV-2025-1220,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,10,1595.00,15950.00,Paid,2026-01-10,R. Beukes
+2025-11-12,INV-2025-1221,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1240.00,9920.00,Overdue,2025-12-12,L. Hamunyela
+2025-11-12,INV-2025-1222,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,16,1165.00,18640.00,Paid,2025-12-12,L. Hamunyela
+2025-11-12,INV-2025-1223,Skeleton Coast Foods,Walvis Bay,Laptop,Electronics,3,12435.00,37305.00,Paid,2025-12-12,S. Tjivikua
+2025-11-12,INV-2025-1224,Rundu Motors,Oshakati,Office Chair,Office Furniture,8,2350.00,18800.00,Overdue,2025-12-12,N. Haufiku
+2025-11-12,INV-2025-1225,NamiTech,Windhoek,Tablet,Electronics,4,5270.00,21080.00,Paid,2025-12-12,L. Hamunyela
+2025-11-13,INV-2025-1226,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,10,1630.00,16300.00,Overdue,2025-12-13,T. Nangolo
+2025-11-13,INV-2025-1226,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,10,1630.00,16300.00,Overdue,2025-12-13,T. Nangolo
+2025-11-13,INV-2025-1227,ABC Trading,Windhoek,Office Chair,Office Furniture,6,2190.00,13140.00,Overdue,2025-12-13,L. Hamunyela
+2025-11-13,INV-2025-1228,Windhoek Supplies,Walvis Bay,Printing Paper (Box),Stationery & Consumables,18,810.00,14580.00,Overdue,2025-12-13,S. Tjivikua
+2025-11-13,INV-2025-1229,Namib Logistics,Windhoek,Filing Cabinet,Office Furniture,2,2995.00,5990.00,Paid,2026-01-12,M. Shikongo
+2025-11-13,INV-2025-1230,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,20,1170.00,23400.00,Paid,2026-01-12,J. Kandjoze
+2025-11-13,INV-2025-1231,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,1,6780.00,6780.00,Overdue,2025-12-13,R. Beukes
+2025-11-13,INV-2025-1232,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,5,6705.00,33525.00,Paid,2025-12-13,R. Beukes
+2025-11-13,INV-2025-1233,Windhoek Supplies,Windhoek,Laptop,Electronics,1,12760.00,12760.00,Paid,2025-12-13,T. Nangolo
+2025-11-13,INV-2025-1234,Caprivi Timber,Oshakati,Smartphone,Electronics,5,6670.00,33350.00,Overdue,2025-12-13,P. Iipinge
+2025-11-14,INV-2025-1235,NamiTech,Windhoek,Office Chair,Office Furniture,4,2330.00,9320.00,Paid,2025-12-14,M. Shikongo
+2025-11-14,INV-2025-1236,Kunene Tours,Oshakati,Office Chair,Office Furniture,1,2250.00,2250.00,Paid,2025-12-14,E. Shilongo
+2025-11-14,INV-2025-1237,Ongwediva Pharmacy,Oshakati,Laptop,Electronics,5,12255.00,61275.00,Paid,2025-12-14,E. Shilongo
+2025-11-15,INV-2025-1238,Tsumeb Metals,Oshakati,Printing Paper (Box),Stationery & Consumables,17,835.00,14195.00,Outstanding,2026-01-14,E. Shilongo
+2025-11-15,INV-2025-1239,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,1,5020.00,5020.00,Outstanding,2026-01-14,S. Tjivikua
+2025-11-15,INV-2025-1240,Erongo Mining Services,Swakopmund,Filing Cabinet,Office Furniture,5,3165.00,15825.00,Outstanding,2026-01-14,A. Gaoab
+2025-11-15,INV-2025-1241,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,2,2205.00,4410.00,Overdue,2025-12-15,S. Tjivikua
+2025-11-17,INV-2025-1242,Kunene Tours,Oshakati,Toner Cartridge,Stationery & Consumables,12,1715.00,20580.00,Paid,2025-12-17,N. Haufiku
+2025-11-17,INV-2025-1243,Atlantic Fisheries,Swakopmund,Filing Cabinet,Office Furniture,3,3230.00,9690.00,Overdue,2025-12-17,A. Gaoab
+2025-11-17,INV-2025-1244,Windhoek Supplies,Windhoek,Laptop,Electronics,3,12360.00,37080.00,Paid,2025-12-17,M. Shikongo
+2025-11-17,INV-2025-1245,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,29,840.00,24360.00,Paid,2025-12-17,J. Kandjoze
+2025-11-17,INV-2025-1246,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,3,6245.00,18735.00,Outstanding,2026-01-16,S. Tjivikua
+2025-11-17,INV-2025-1247,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,6,1620.00,9720.00,Paid,2025-12-17,T. Nangolo
+2025-11-17,INV-2025-1248,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,16,1220.00,19520.00,Paid,2025-12-17,L. Hamunyela
+2025-11-17,INV-2025-1249,Ohangwena Traders,Oshakati,Filing Cabinet,Office Furniture,4,3100.00,12400.00,Paid,2025-12-17,P. Iipinge
+2025-11-17,INV-2025-1250,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,8,870.00,6960.00,Paid,2026-01-16,S. Tjivikua
+2025-11-17,INV-2025-1251,Atlantic Fisheries,Swakopmund,Office Chair,Office Furniture,1,2220.00,2220.00,Paid,2025-12-17,R. Beukes
+2025-11-18,INV-2025-1252,NamiTech,Windhoek,Tablet,Electronics,4,5155.00,20620.00,Paid,2025-12-18,M. Shikongo
+2025-11-18,INV-2025-1253,Tsumeb Metals,Oshakati,Filing Cabinet,Office Furniture,5,3020.00,15100.00,Paid,2026-01-17,E. Shilongo
+2025-11-18,INV-2025-1254,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,14,1145.00,16030.00,Overdue,2025-12-18,J. Kandjoze
+2025-11-19,INV-2025-1255,Caprivi Timber,Oshakati,Stationery Bulk Pack,Stationery & Consumables,8,1240.00,9920.00,Overdue,2025-12-19,N. Haufiku
+2025-11-19,INV-2025-1256,Windhoek Supplies,Windhoek,Accounting Software Licence,Software & Services,1,10010.00,10010.00,Paid,2025-12-19,M. Shikongo
+2025-11-19,INV-2025-1257,Erongo Mining Services,Swakopmund,Printer,Electronics,2,3625.00,7250.00,Outstanding,2026-01-18,A. Gaoab
+2025-11-19,INV-2025-1258,Namib Logistics,Windhoek,IT Support Contract,Software & Services,1,18360.00,18360.00,Paid,2026-01-18,T. Nangolo
+2025-11-19,INV-2025-1259,Walvis Freight Agents,Walvis Bay,IT Support Contract,Software & Services,2,17840.00,35680.00,Paid,2026-01-18,S. Tjivikua
+2025-11-20,INV-2025-1260,Ongwediva Pharmacy,Oshakati,IT Support Contract,Software & Services,3,18880.00,56640.00,Overdue,2025-12-20,N. Haufiku
+2025-11-20,INV-2025-1261,Namport Contractors,Walvis Bay,Printing Paper (Box),Stationery & Consumables,13,835.00,10855.00,Paid,2025-12-20,J. Kandjoze
+2025-11-21,INV-2025-1262,Oshana Builders,Oshakati,Office Chair,Office Furniture,2,2255.00,4510.00,Paid,2025-12-21,P. Iipinge
+2025-11-21,INV-2025-1263,XYZ Enterprises,Windhoek,Stationery Bulk Pack,Stationery & Consumables,13,1240.00,16120.00,Overdue,2025-12-21,L. Hamunyela
+2025-11-21,INV-2025-1264,,Walvis Bay,Printer,Electronics,3,3910.00,11730.00,Paid,2026-01-20,S. Tjivikua
+2025-11-21,INV-2025-1265,Kalahari Traders,Windhoek,Smartphone,Electronics,6,6545.00,39270.00,Overdue,2025-12-21,M. Shikongo
+2025-11-22,INV-2025-1266,Namport Contractors,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,14,1155.00,16170.00,Paid,2025-12-22,J. Kandjoze
+2025-11-22,INV-2025-1267,Okavango Stationers,Windhoek,Printing Paper (Box),Stationery & Consumables,27,860.00,23220.00,Paid,2025-12-22,L. Hamunyela
+2025-11-22,INV-2025-1268,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,3,4365.00,13095.00,Overdue,2025-12-22,S. Tjivikua
+2025-11-22,INV-2025-1269,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,1,6450.00,6450.00,Paid,2025-12-22,J. Kandjoze
+2025-11-22,INV-2025-1270,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,8,1175.00,9400.00,Paid,2026-01-21,A. Gaoab
+2025-11-24,INV-2025-1271,Okavango Stationers,Windhoek,Smartphone,Electronics,2,6595.00,13190.00,Paid,2025-12-24,M. Shikongo
+2025-11-24,INV-2025-1272,Namib Logistics,Oshakati,Laptop,Electronics,4,13090.00,52360.00,Paid,2026-01-23,N. Haufiku
+2025-11-24,INV-2025-1273,Walvis Freight Agents,Walvis Bay,Printing Paper (Box),Stationery & Consumables,36,890.00,"N$32,040.00",Paid,2026-01-23,S. Tjivikua
+2025-11-24,INV-2025-1274,Caprivi Timber,Oshakati,Printing Paper (Box),Stationery & Consumables,12,885.00,10620.00,Overdue,2025-12-24,E. Shilongo
+2025-11-24,INV-2025-1275,Windhoek Supplies,Windhoek,Printer,Electronics,1,3710.00,3710.00,Overdue,2025-12-24,L. Hamunyela
+2025-11-24,INV-2025-1276,Benguela Cold Storage,Walvis Bay,Tablet,Electronics,3,5245.00,15735.00,Paid,2025-12-24,J. Kandjoze
+2025-11-24,INV-2025-1277,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,2,4030.00,8060.00,Paid,2025-12-24,T. Nangolo
+2025-11-24,INV-2025-1278,Windhoek Supplies,Windhoek,Laptop,Electronics,5,12985.00,64925.00,Paid,2025-12-24,T. Nangolo
+2025-11-24,INV-2025-1279,Namib Logistics,Windhoek,Tablet,Electronics,1,5065.00,5065.00,Paid,2026-01-23,T. Nangolo
+2025-11-24,INV-2025-1280,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,3,1190.00,3570.00,Paid,2026-01-23,J. Kandjoze
+2025-11-24,INV-2025-1281,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1235.00,23465.00,Paid,2025-12-24,T. Nangolo
+2025-11-25,INV-2025-1282,Walvis Freight Agents,Oshakati,Stationery Bulk Pack,Stationery & Consumables,9,1220.00,10980.00,Paid,2026-01-24,E. Shilongo
+2025-11-25,INV-2025-1283,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,4,2190.00,8760.00,Overdue,2025-12-25,J. Kandjoze
+2025-11-25,INV-2025-1284,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,3,6400.00,19200.00,Overdue,2025-12-25,A. Gaoab
+2025-11-25,INV-2025-1285,Skeleton Coast Foods,Walvis Bay,Office Desk,Office Furniture,4,4345.00,17380.00,Paid,2025-12-25,J. Kandjoze
+2025-11-25,INV-2025-1286,XYZ Enterprises,Oshakati,Smartphone,Electronics,6,6185.00,37110.00,Paid,2025-12-25,P. Iipinge
+2025-11-25,INV-2025-1287,NamiTech,Windhoek,Laptop,Electronics,3,13030.00,39090.00,Paid,2025-12-25,T. Nangolo
+2025-11-26,INV-2025-1288,Ohangwena Traders,Oshakati,Printer,Electronics,3,3730.00,11190.00,Paid,2025-12-26,N. Haufiku
+2025-11-26,INV-2025-1289,Erongo Mining Services,Swakopmund,Smartphone,Electronics,6,6805.00,40830.00,Paid,2026-01-25,A. Gaoab
+2025-11-26,INV-2025-1290,Sossusvlei Lodge,Swakopmund,Office Desk,Office Furniture,3,4310.00,12930.00,Paid,2025-12-26,R. Beukes
+2025-11-27,INV-2025-1291,Walvis Freight Agents,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,9,1215.00,10935.00,Paid,2026-01-26,J. Kandjoze
+2025-11-27,INV-2025-1292,Kunene Tours,Oshakati,Smartphone,Electronics,4,6270.00,25080.00,Paid,2025-12-27,E. Shilongo
+2025-11-27,INV-2025-1293,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,17,1250.00,21250.00,Overdue,2025-12-27,M. Shikongo
+2025-11-27,INV-2025-1294,Namib Logistics,Windhoek,Laptop,Electronics,1,11965.00,11965.00,Paid,2026-01-26,T. Nangolo
+2025-11-28,INV-2025-1295,Windhoek Supplies,Windhoek,Stationery Bulk Pack,Stationery & Consumables,2,1205.00,2410.00,Paid,2025-12-28,L. Hamunyela
+2025-11-28,INV-2025-1296,Kunene Tours,Oshakati,Stationery Bulk Pack,Stationery & Consumables,10,1180.00,11800.00,Paid,2025-12-28,E. Shilongo
+2025-11-28,INV-2025-1297,Ongwediva Pharmacy,Oshakati,Smartphone,Electronics,3,6680.00,20040.00,Paid,2025-12-28,P. Iipinge
+2025-11-28,INV-2025-1298,Swakop Boutique Hotel,Swakopmund,Tablet,Electronics,3,5245.00,15735.00,Paid,2025-12-28,A. Gaoab
+2025-11-28,INV-2025-1299,Swakop Boutique Hotel,Swakopmund,Office Chair,Office Furniture,2,2285.00,4570.00,Paid,2025-12-28,A. Gaoab
+2025-11-28,INV-2025-1300,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,2,13120.00,26240.00,Paid,2026-01-27,S. Tjivikua
+2025-11-28,INV-2025-1301,Hardap Farms,Windhoek,Smartphone,Electronics,2,6745.00,13490.00,Paid,2025-12-28,T. Nangolo
+2025-11-28,INV-2025-1302,Namib Logistics,Windhoek,Smartphone,Electronics,5,6825.00,34125.00,Outstanding,2026-01-27,T. Nangolo
+2025-11-29,INV-2025-1303,Namport Contractors,Walvis Bay,Toner Cartridge,Stationery & Consumables,6,1590.00,9540.00,Paid,2025-12-29,J. Kandjoze
+2025-12-01,INV-2025-1304,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,4,5390.00,21560.00,Paid,2026-01-30,S. Tjivikua
+2025-12-01,INV-2025-1305,Skeleton Coast Foods,Walvis Bay,Laptop,Electronics,1,12115.00,12115.00,Outstanding,2025-12-31,J. Kandjoze
+2025-12-01,INV-2025-1306,Hardap Farms,Windhoek,Smartphone,Electronics,3,6620.00,19860.00,Outstanding,2025-12-31,L. Hamunyela
+2025-12-01,INV-2025-1307,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,12,1685.00,20220.00,Paid,2025-12-31,M. Shikongo
+2025-12-01,INV-2025-1308,ABC Trading,Windhoek,Smartphone,Electronics,5,6615.00,33075.00,Outstanding,2025-12-31,M. Shikongo
+2025-12-01,INV-2025-1309,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,3,1570.00,4710.00,Outstanding,2025-12-31,M. Shikongo
+2025-12-01,INV-2025-1310,Dolphin Marine Services,Swakopmund,Accounting Software Licence,Software & Services,3,9380.00,28140.00,Paid,2025-12-31,R. Beukes
+2025-12-01,INV-2025-1311,Erongo Mining Services,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,8,1260.00,10080.00,Outstanding,2026-01-30,R. Beukes
+2025-12-01,INV-2025-1312,Ongwediva Pharmacy,Oshakati,Office Desk,Office Furniture,2,4205.00,8410.00,Outstanding,2025-12-31,P. Iipinge
+2025-12-01,INV-2025-1313,Okavango Stationers,Windhoek,Printing Paper (Box),Stationery & Consumables,23,865.00,19895.00,Outstanding,2025-12-31,M. Shikongo
+2025-12-01,INV-2025-1313,Okavango Stationers,Windhoek,Printing Paper (Box),Stationery & Consumables,23,865.00,19895.00,Outstanding,2025-12-31,M. Shikongo
+2025-12-01,INV-2025-1314,Skeleton Coast Foods,Walvis Bay,Printing Paper (Box),Stationery & Consumables,17,855.00,14535.00,Paid,2025-12-31,S. Tjivikua
+2025-12-01,INV-2025-1315,Ongwediva Pharmacy,Oshakati,Office Desk,Office Furniture,4,4075.00,16300.00,Outstanding,2025-12-31,P. Iipinge
+2025-12-01,INV-2025-1316,Windhoek Supplies,Windhoek,Smartphone,Electronics,4,6240.00,24960.00,Paid,2025-12-31,L. Hamunyela
+2025-12-01,INV-2025-1317,Ohangwena Traders,Oshakati,Printing Paper (Box),Stationery & Consumables,40,835.00,33400.00,Outstanding,2025-12-31,N. Haufiku
+2025-12-01,INV-2025-1318,XYZ Enterprises,Windhoek,Printer,Electronics,2,3730.00,7460.00,Outstanding,2025-12-31,T. Nangolo
+2025-12-01,INV-2025-1319,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,8,1620.00,12960.00,Outstanding,2025-12-31,M. Shikongo
+2025-12-02,INV-2025-1320,Atlantic Fisheries,Swakopmund,Toner Cartridge,Stationery & Consumables,9,1655.00,14895.00,Outstanding,2026-01-01,R. Beukes
+2025-12-02,INV-2025-1321,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,3,1650.00,4950.00,Outstanding,2026-01-01,T. Nangolo
+2025-12-02,INV-2025-1322,Hardap Farms,Windhoek,Office Desk,Office Furniture,1,4215.00,4215.00,Outstanding,2026-01-01,M. Shikongo
+2025-12-02,INV-2025-1323,Rundu Motors,Oshakati,Tablet,Electronics,5,5370.00,26850.00,Outstanding,2026-01-01,P. Iipinge
+2025-12-03,INV-2025-1324,Skeleton Coast Foods,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,6,1170.00,7020.00,Outstanding,2026-01-02,S. Tjivikua
+2025-12-03,INV-2025-1325,Namport Contractors,Walvis Bay,Printer,Electronics,2,3760.00,7520.00,Outstanding,2026-01-02,S. Tjivikua
+2025-12-03,INV-2025-1326,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,20,1240.00,24800.00,Paid,2026-02-01,T. Nangolo
+2025-12-03,INV-2025-1327,Hardap Farms,Oshakati,Smartphone,Electronics,4,6270.00,25080.00,Paid,2026-01-02,E. Shilongo
+2025-12-03,INV-2025-1328,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,11,1205.00,13255.00,Outstanding,2026-01-02,T. Nangolo
+2025-12-03,INV-2025-1329,Erongo Mining Services,Walvis Bay,Printing Paper (Box),Stationery & Consumables,39,820.00,31980.00,Outstanding,2026-02-01,S. Tjivikua
+2025-12-03,INV-2025-1330,Windhoek Supplies,Windhoek,Filing Cabinet,Office Furniture,2,3190.00,6380.00,Outstanding,2026-01-02,T. Nangolo
+2025-12-04,INV-2025-1331,Walvis Freight Agents,Swakopmund,Toner Cartridge,Stationery & Consumables,10,1700.00,17000.00,Outstanding,2026-02-02,A. Gaoab
+2025-12-04,INV-2025-1332,Khomas Hardware,Windhoek,Stationery Bulk Pack,Stationery & Consumables,8,1245.00,9960.00,Outstanding,2026-01-03,L. Hamunyela
+2025-12-04,INV-2025-1333,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,3,17785.00,53355.00,Paid,2026-01-03,T. Nangolo
+2025-12-05,INV-2025-1334,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,2,6190.00,12380.00,Outstanding,2026-01-04,S. Tjivikua
+2025-12-05,INV-2025-1335,Oshana Builders,Oshakati,Smartphone,Electronics,4,6610.00,26440.00,Outstanding,2026-01-04,P. Iipinge
+2025-12-06,INV-2025-1336,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,9,880.00,7920.00,Outstanding,2026-02-04,T. Nangolo
+2025-12-06,INV-2025-1337,NamiTech,Windhoek,Smartphone,Electronics,3,6820.00,20460.00,Outstanding,2026-01-05,M. Shikongo
+2025-12-06,INV-2025-1338,Namport Contractors,Walvis Bay,Toner Cartridge,Stationery & Consumables,3,1725.00,5175.00,Outstanding,2026-01-05,S. Tjivikua
+2025-12-06,INV-2025-1339,Namport Contractors,Walvis Bay,Toner Cartridge,Stationery & Consumables,9,1610.00,14490.00,Outstanding,2026-01-05,S. Tjivikua
+2025-12-08,INV-2025-1340,Namport Contractors,Walvis Bay,Printer,Electronics,3,3730.00,11190.00,Paid,2026-01-07,S. Tjivikua
+2025-12-08,INV-2025-1341,Caprivi Timber,Oshakati,Printer,Electronics,3,3745.00,11235.00,Outstanding,2026-01-07,E. Shilongo
+2025-12-08,INV-2025-1342,Swakop Boutique Hotel,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,2,1255.00,2510.00,Paid,2026-01-07,A. Gaoab
+2025-12-08,INV-2025-1343,,Windhoek,Toner Cartridge,Stationery & Consumables,7,1655.00,11585.00,Paid,2026-01-07,L. Hamunyela
+2025-12-08,INV-2025-1344,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,5,10270.00,51350.00,Outstanding,2026-01-07,T. Nangolo
+2025-12-08,INV-2025-1345,ABC Trading,Swakopmund,Office Chair,Office Furniture,7,2375.00,16625.00,Outstanding,2026-01-07,R. Beukes
+2025-12-08,INV-2025-1346,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,24,845.00,20280.00,Paid,2026-01-07,A. Gaoab
+2025-12-08,INV-2025-1347,Oshana Builders,Oshakati,Printer,Electronics,3,3810.00,11430.00,Paid,2026-01-07,P. Iipinge
+2025-12-08,INV-2025-1348,Caprivi Timber,Oshakati,Printer,Electronics,3,3895.00,11685.00,Outstanding,2026-01-07,P. Iipinge
+2025-12-08,INV-2025-1349,Kalahari Traders,Walvis Bay,Stationery Bulk Pack,Stationery & Consumables,11,1250.00,13750.00,Outstanding,2026-01-07,J. Kandjoze
+2025-12-08,INV-2025-1350,Atlantic Fisheries,Swakopmund,Printer,Electronics,3,3830.00,11490.00,Outstanding,2026-01-07,A. Gaoab
+2025-12-08,INV-2025-1351,Hardap Farms,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1215.00,12150.00,Outstanding,2026-01-07,L. Hamunyela
+2025-12-08,INV-2025-1352,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,5,1210.00,6050.00,Outstanding,2026-01-07,M. Shikongo
+2025-12-09,INV-2025-1353,Kalahari Traders,Windhoek,Laptop,Electronics,1,12605.00,12605.00,Outstanding,2026-01-08,L. Hamunyela
+2025-12-09,INV-2025-1354,ABC Trading,Swakopmund,Smartphone,Electronics,2,6575.00,13150.00,Outstanding,2026-01-08,A. Gaoab
+2025-12-09,INV-2025-1355,Atlantic Fisheries,Swakopmund,Printer,Electronics,2,3915.00,7830.00,Outstanding,2026-01-08,R. Beukes
+2025-11-24,INV-2025-1281,Kalahari Traders,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1235.00,23465.00,Paid,2025-12-24,T. Nangolo
+2025-12-09,INV-2025-1356,Okavango Stationers,Windhoek,Tablet,Electronics,1,5430.00,5430.00,Outstanding,2026-01-08,L. Hamunyela
+2025-12-09,INV-2025-1357,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,1,1600.00,1600.00,Outstanding,2026-02-07,A. Gaoab
+2025-10-21,INV-2025-1142,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,6,2210.00,13260.00,Paid,2025-12-20,R. Beukes
+2025-12-09,INV-2025-1358,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,10,1250.00,12500.00,Outstanding,2026-02-07,T. Nangolo
+2025-12-09,INV-2025-1359,Dolphin Marine Services,Walvis Bay,Printing Paper (Box),Stationery & Consumables,19,815.00,15485.00,Outstanding,2026-01-08,S. Tjivikua
+2025-12-09,INV-2025-1360,Khomas Hardware,Windhoek,IT Support Contract,Software & Services,3,18255.00,54765.00,Paid,2026-01-08,L. Hamunyela
+2025-12-09,INV-2025-1361,Atlantic Fisheries,Swakopmund,Smartphone,Electronics,4,6600.00,26400.00,Outstanding,2026-01-08,R. Beukes
+2025-12-10,INV-2025-1362,Namport Contractors,Walvis Bay,Printing Paper (Box),Stationery & Consumables,21,830.00,17430.00,Outstanding,2026-01-09,J. Kandjoze
+2025-12-10,INV-2025-1363,Windhoek Supplies,Windhoek,Smartphone,Electronics,3,6175.00,18525.00,Outstanding,2026-01-09,T. Nangolo
+2025-12-11,INV-2025-1364,Rundu Motors,Oshakati,Laptop,Electronics,3,12055.00,36165.00,Outstanding,2026-01-10,P. Iipinge
+2025-12-11,INV-2025-1365,Erongo Mining Services,Swakopmund,Laptop,Electronics,1,11880.00,11880.00,Outstanding,2026-02-09,R. Beukes
+2025-12-11,INV-2025-1366,Walvis Freight Agents,Walvis Bay,Tablet,Electronics,2,5260.00,10520.00,Paid,2026-02-09,S. Tjivikua
+2025-12-11,INV-2025-1367,Namport Contractors,Walvis Bay,Office Chair,Office Furniture,7,2315.00,16205.00,Paid,2026-01-10,J. Kandjoze
+2025-12-12,INV-2025-1368,Rundu Motors,Oshakati,Office Chair,Office Furniture,7,2290.00,16030.00,Paid,2026-01-11,E. Shilongo
+2025-12-12,INV-2025-1369,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,9,1665.00,14985.00,Outstanding,2026-01-11,T. Nangolo
+2025-12-12,INV-2025-1370,Benguela Cold Storage,Walvis Bay,Smartphone,Electronics,1,6745.00,6745.00,Outstanding,2026-01-11,S. Tjivikua
+2025-12-13,INV-2025-1371,NamiTech,Windhoek,Tablet,Electronics,5,5075.00,25375.00,Paid,2026-01-12,T. Nangolo
+2025-12-13,INV-2025-1372,Erongo Mining Services,Swakopmund,Smartphone,Electronics,4,6385.00,25540.00,Outstanding,2026-02-11,R. Beukes
+2025-12-13,INV-2025-1373,Erongo Mining Services,Windhoek,Stationery Bulk Pack,Stationery & Consumables,5,1250.00,6250.00,Outstanding,2026-02-11,T. Nangolo
+2025-12-13,INV-2025-1374,Ohangwena Traders,Oshakati,Toner Cartridge,Stationery & Consumables,2,1610.00,3220.00,Outstanding,2026-01-12,N. Haufiku
+2025-12-13,INV-2025-1375,NamiTech,Windhoek,Office Desk,Office Furniture,6,4230.00,25380.00,Paid,2026-01-12,L. Hamunyela
+2025-12-13,INV-2025-1376,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,1,12115.00,12115.00,Paid,2026-02-11,S. Tjivikua
+2025-12-13,INV-2025-1377,Benguela Cold Storage,Windhoek,Printing Paper (Box),Stationery & Consumables,20,865.00,17300.00,Outstanding,2026-01-12,T. Nangolo
+2025-12-15,INV-2025-1378,Namib Logistics,Windhoek,Toner Cartridge,Stationery & Consumables,5,1715.00,8575.00,Outstanding,2026-02-13,M. Shikongo
+2025-12-15,INV-2025-1379,Namport Contractors,Walvis Bay,IT Support Contract,Software & Services,3,18430.00,55290.00,Outstanding,2026-01-14,J. Kandjoze
+2025-12-15,INV-2025-1380,Tsumeb Metals,Oshakati,Filing Cabinet,Office Furniture,3,3095.00,9285.00,Outstanding,2026-02-13,N. Haufiku
+2025-12-15,INV-2025-1381,Namib Logistics,Windhoek,Stationery Bulk Pack,Stationery & Consumables,19,1140.00,21660.00,Outstanding,2026-02-13,L. Hamunyela
+2025-12-15,INV-2025-1382,NamiTech,Windhoek,Toner Cartridge,Stationery & Consumables,1,1655.00,1655.00,Outstanding,2026-01-14,T. Nangolo
+2025-12-15,INV-2025-1383,Oshana Builders,Walvis Bay,Office Chair,Office Furniture,8,2260.00,18080.00,Paid,2026-01-14,S. Tjivikua
+2025-12-15,INV-2025-1384,Windhoek Supplies,Windhoek,Accounting Software Licence,Software & Services,3,9805.00,29415.00,Paid,2026-01-14,M. Shikongo
+2025-12-15,INV-2025-1385,XYZ Enterprises,Windhoek,Office Chair,Office Furniture,1,2235.00,2235.00,Outstanding,2026-01-14,T. Nangolo
+2025-12-15,INV-2025-1386,Atlantic Fisheries,Swakopmund,Toner Cartridge,Stationery & Consumables,7,1680.00,11760.00,Outstanding,2026-01-14,R. Beukes
+2025-12-15,INV-2025-1387,,Swakopmund,Office Chair,Office Furniture,10,2340.00,23400.00,Outstanding,2026-01-14,A. Gaoab
+2025-12-15,INV-2025-1388,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,11,1210.00,13310.00,Paid,2026-01-14,T. Nangolo
+2025-12-15,INV-2025-1389,Benguela Cold Storage,Walvis Bay,Printing Paper (Box),Stationery & Consumables,18,880.00,15840.00,Paid,2026-01-14,J. Kandjoze
+2025-12-15,INV-2025-1390,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,1,2195.00,2195.00,Outstanding,2026-02-13,A. Gaoab
+2025-12-16,INV-2025-1391,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,9,1220.00,10980.00,Paid,2026-01-15,L. Hamunyela
+2025-12-16,INV-2025-1392,Windhoek Supplies,Windhoek,Office Chair,Office Furniture,7,2380.00,16660.00,Outstanding,2026-01-15,L. Hamunyela
+2025-12-16,INV-2025-1393,Windhoek Supplies,Windhoek,Smartphone,Electronics,6,6785.00,40710.00,Paid,2026-01-15,M. Shikongo
+2025-12-16,INV-2025-1394,XYZ Enterprises,Windhoek,Office Desk,Office Furniture,3,4215.00,12645.00,Paid,2026-01-15,L. Hamunyela
+2025-12-16,INV-2025-1395,ABC Trading,Windhoek,Tablet,Electronics,5,5085.00,25425.00,Outstanding,2026-01-15,T. Nangolo
+2025-12-16,INV-2025-1396,Khomas Hardware,Windhoek,Office Chair,Office Furniture,5,2370.00,11850.00,Outstanding,2026-01-15,T. Nangolo
+2025-12-16,INV-2025-1397,Kalahari Traders,Windhoek,Toner Cartridge,Stationery & Consumables,8,1580.00,12640.00,Outstanding,2026-01-15,T. Nangolo
+2025-12-16,INV-2025-1398,Hardap Farms,Swakopmund,Filing Cabinet,Office Furniture,1,3145.00,3145.00,Paid,2026-01-15,A. Gaoab
+2025-12-17,INV-2025-1399,Oshana Builders,Oshakati,Printing Paper (Box),Stationery & Consumables,17,890.00,15130.00,Outstanding,2026-01-16,E. Shilongo
+2025-12-17,INV-2025-1400,Dolphin Marine Services,Swakopmund,Laptop,Electronics,3,11875.00,35625.00,Outstanding,2026-01-16,R. Beukes
+2025-12-17,INV-2025-1401,Hardap Farms,Windhoek,Accounting Software Licence,Software & Services,4,9885.00,39540.00,Outstanding,2026-01-16,T. Nangolo
+2025-12-17,INV-2025-1402,Ohangwena Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,20,870.00,17400.00,Outstanding,2026-01-16,T. Nangolo
+2025-12-17,INV-2025-1403,Atlantic Fisheries,Swakopmund,Stationery Bulk Pack,Stationery & Consumables,8,1160.00,9280.00,Paid,2026-01-16,A. Gaoab
+2025-12-18,INV-2025-1404,Namib Logistics,Windhoek,Printing Paper (Box),Stationery & Consumables,36,865.00,31140.00,Paid,2026-02-16,M. Shikongo
+2025-12-18,INV-2025-1405,Kalahari Traders,Windhoek,Accounting Software Licence,Software & Services,2,9955.00,19910.00,Outstanding,2026-01-17,T. Nangolo
+2025-12-18,INV-2025-1406,Caprivi Timber,Oshakati,Toner Cartridge,Stationery & Consumables,8,1605.00,12840.00,Outstanding,2026-01-17,P. Iipinge
+2025-12-18,INV-2025-1407,Okavango Stationers,Windhoek,Printer,Electronics,3,3910.00,11730.00,Outstanding,2026-01-17,L. Hamunyela
+2025-12-18,INV-2025-1408,Windhoek Supplies,Windhoek,Laptop,Electronics,3,13045.00,39135.00,Outstanding,2026-01-17,M. Shikongo
+2025-12-18,INV-2025-1409,Grootfontein Agri,Walvis Bay,Office Desk,Office Furniture,2,4100.00,8200.00,Paid,2026-01-17,S. Tjivikua
+2025-12-19,INV-2025-1410,Atlantic Fisheries,Swakopmund,Filing Cabinet,Office Furniture,5,3105.00,15525.00,Paid,2026-01-18,R. Beukes
+2025-12-20,INV-2025-1411,Grootfontein Agri,Walvis Bay,Filing Cabinet,Office Furniture,1,3100.00,3100.00,Paid,2026-01-19,S. Tjivikua
+2025-12-20,INV-2025-1412,Okavango Stationers,Windhoek,Smartphone,Electronics,6,6695.00,40170.00,Outstanding,2026-01-19,T. Nangolo
+2025-12-20,INV-2025-1413,,Oshakati,Toner Cartridge,Stationery & Consumables,8,1595.00,12760.00,Outstanding,2026-01-19,P. Iipinge
+2025-12-20,INV-2025-1414,Okavango Stationers,Windhoek,Toner Cartridge,Stationery & Consumables,2,1715.00,3430.00,Outstanding,2026-01-19,M. Shikongo
+2025-12-20,INV-2025-1415,Erongo Mining Services,Walvis Bay,Smartphone,Electronics,5,6700.00,33500.00,Paid,2026-02-18,S. Tjivikua
+2025-12-17,INV-2025-1400,Dolphin Marine Services,Swakopmund,Laptop,Electronics,3,11875.00,35625.00,Outstanding,2026-01-16,R. Beukes
+2025-12-22,INV-2025-1416,Walvis Freight Agents,Walvis Bay,Smartphone,Electronics,1,6665.00,6665.00,Outstanding,2026-02-20,S. Tjivikua
+2025-12-22,INV-2025-1417,Swakop Boutique Hotel,Swakopmund,Printing Paper (Box),Stationery & Consumables,14,835.00,11690.00,Outstanding,2026-01-21,R. Beukes
+2025-12-22,INV-2025-1418,Caprivi Timber,Oshakati,Laptop,Electronics,2,12645.00,25290.00,Outstanding,2026-01-21,N. Haufiku
+2025-12-22,INV-2025-1419,Khomas Hardware,Windhoek,Office Chair,Office Furniture,2,2225.00,4450.00,Paid,2026-01-21,M. Shikongo
+2025-12-22,INV-2025-1420,Benguela Cold Storage,Windhoek,Accounting Software Licence,Software & Services,1,9770.00,9770.00,Paid,2026-01-21,T. Nangolo
+2025-12-22,INV-2025-1421,Windhoek Supplies,Windhoek,Toner Cartridge,Stationery & Consumables,3,1585.00,4755.00,Paid,2026-01-21,T. Nangolo
+2025-12-22,INV-2025-1422,Sossusvlei Lodge,Swakopmund,Smartphone,Electronics,5,6745.00,33725.00,Paid,2026-01-21,R. Beukes
+2025-12-22,INV-2025-1423,Erongo Mining Services,Swakopmund,Office Chair,Office Furniture,3,2375.00,7125.00,Paid,2026-02-20,R. Beukes
+2025-12-23,INV-2025-1424,Ongwediva Pharmacy,Oshakati,Tablet,Electronics,4,5400.00,21600.00,Paid,2026-01-22,N. Haufiku
+2025-12-23,INV-2025-1425,Namib Logistics,Windhoek,Toner Cartridge,Stationery & Consumables,12,1720.00,20640.00,Paid,2026-02-21,T. Nangolo
+2025-12-23,INV-2025-1426,ABC Trading,Windhoek,Printing Paper (Box),Stationery & Consumables,23,860.00,19780.00,Outstanding,2026-01-22,L. Hamunyela
+2025-12-24,INV-2025-1427,Walvis Freight Agents,Walvis Bay,Laptop,Electronics,3,11905.00,35715.00,Outstanding,2026-02-22,S. Tjivikua
+2025-12-24,INV-2025-1428,Erongo Mining Services,Swakopmund,Office Desk,Office Furniture,6,4025.00,24150.00,Outstanding,2026-02-22,A. Gaoab
+2025-12-24,INV-2025-1429,XYZ Enterprises,Windhoek,Toner Cartridge,Stationery & Consumables,1,1640.00,1640.00,Outstanding,2026-01-23,L. Hamunyela
+2025-12-24,INV-2025-1430,Ohangwena Traders,Oshakati,Office Chair,Office Furniture,6,2325.00,13950.00,Paid,2026-01-23,E. Shilongo
+2025-12-25,INV-2025-1431,NamiTech,Windhoek,Printing Paper (Box),Stationery & Consumables,35,830.00,29050.00,Outstanding,2026-01-24,M. Shikongo
+2025-12-25,INV-2025-1432,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,1,17460.00,17460.00,Paid,2026-01-24,M. Shikongo
+2025-12-25,INV-2025-1433,Tsumeb Metals,Oshakati,Toner Cartridge,Stationery & Consumables,9,1680.00,15120.00,Outstanding,2026-02-23,N. Haufiku
+2025-12-25,INV-2025-1434,Erongo Mining Services,Swakopmund,Smartphone,Electronics,3,6740.00,20220.00,Outstanding,2026-02-23,A. Gaoab
+2025-12-25,INV-2025-1435,Khomas Hardware,Windhoek,Toner Cartridge,Stationery & Consumables,12,1705.00,20460.00,Outstanding,2026-01-24,L. Hamunyela
+2025-12-25,INV-2025-1436,Ongwediva Pharmacy,Oshakati,Printer,Electronics,4,3855.00,15420.00,Outstanding,2026-01-24,E. Shilongo
+2025-12-25,INV-2025-1437,ABC Trading,Windhoek,Office Chair,Office Furniture,4,2195.00,8780.00,Outstanding,2026-01-24,T. Nangolo
+2025-12-26,INV-2025-1438,Skeleton Coast Foods,Walvis Bay,Office Desk,Office Furniture,3,4400.00,13200.00,Outstanding,2026-01-25,J. Kandjoze
+2025-12-26,INV-2025-1439,Khomas Hardware,Windhoek,Laptop,Electronics,3,12235.00,36705.00,Outstanding,2026-01-25,L. Hamunyela
+2025-12-26,INV-2025-1440,XYZ Enterprises,Windhoek,Filing Cabinet,Office Furniture,4,3050.00,12200.00,Paid,2026-01-25,T. Nangolo
+2025-12-26,INV-2025-1441,ABC Trading,Windhoek,Office Chair,Office Furniture,9,2415.00,21735.00,Outstanding,2026-01-25,M. Shikongo
+2025-12-27,INV-2025-1442,Skeleton Coast Foods,Walvis Bay,Filing Cabinet,Office Furniture,5,3200.00,16000.00,Paid,2026-01-26,J. Kandjoze
+2025-12-27,INV-2025-1443,Erongo Mining Services,Swakopmund,Toner Cartridge,Stationery & Consumables,8,1670.00,13360.00,Outstanding,2026-02-25,A. Gaoab
+2025-12-27,INV-2025-1444,Atlantic Fisheries,Swakopmund,Printing Paper (Box),Stationery & Consumables,18,880.00,15840.00,Paid,2026-01-26,A. Gaoab
+2025-12-27,INV-2025-1445,Okavango Stationers,Windhoek,Stationery Bulk Pack,Stationery & Consumables,11,1180.00,12980.00,Paid,2026-01-26,T. Nangolo
+2025-12-29,INV-2025-1446,Walvis Freight Agents,Walvis Bay,Office Chair,Office Furniture,5,2300.00,11500.00,Paid,2026-02-27,S. Tjivikua
+2025-12-29,INV-2025-1447,Windhoek Supplies,Windhoek,Office Desk,Office Furniture,6,4320.00,25920.00,Outstanding,2026-01-28,L. Hamunyela
+2025-12-29,INV-2025-1448,Khomas Hardware,Windhoek,Office Desk,Office Furniture,6,4180.00,25080.00,Paid,2026-01-28,L. Hamunyela
+2025-12-29,INV-2025-1449,Caprivi Timber,Oshakati,Laptop,Electronics,1,12790.00,12790.00,Outstanding,2026-01-28,N. Haufiku
+2025-12-29,INV-2025-1450,Caprivi Timber,Oshakati,Office Chair,Office Furniture,8,2200.00,17600.00,Outstanding,2026-01-28,N. Haufiku
+2025-12-29,INV-2025-1451,Rundu Motors,Oshakati,Accounting Software Licence,Software & Services,3,9340.00,28020.00,Outstanding,2026-01-28,N. Haufiku
+2025-12-29,INV-2025-1452,Walvis Freight Agents,Walvis Bay,IT Support Contract,Software & Services,2,17640.00,35280.00,Paid,2026-02-27,J. Kandjoze
+2025-12-29,INV-2025-1453,ABC Trading,Windhoek,Office Desk,Office Furniture,2,4055.00,8110.00,Outstanding,2026-01-28,L. Hamunyela
+2025-12-29,INV-2025-1454,Atlantic Fisheries,Swakopmund,Printer,Electronics,4,3685.00,14740.00,Outstanding,2026-01-28,A. Gaoab
+2025-12-29,INV-2025-1455,Namib Logistics,Windhoek,Office Chair,Office Furniture,3,2385.00,7155.00,Paid,2026-02-27,M. Shikongo
+2025-12-30,INV-2025-1456,Sossusvlei Lodge,Swakopmund,Office Desk,Office Furniture,3,4165.00,12495.00,Paid,2026-01-29,A. Gaoab
+2025-12-30,INV-2025-1457,Skeleton Coast Foods,Walvis Bay,Tablet,Electronics,4,5100.00,20400.00,Outstanding,2026-01-29,S. Tjivikua
+2025-12-30,INV-2025-1458,Walvis Freight Agents,Walvis Bay,Printer,Electronics,3,3660.00,10980.00,Outstanding,2026-02-28,J. Kandjoze
+2025-12-30,INV-2025-1459,Namib Logistics,Windhoek,Office Desk,Office Furniture,2,4240.00,8480.00,Outstanding,2026-02-28,M. Shikongo
+2025-12-30,INV-2025-1460,Rundu Motors,Oshakati,Office Desk,Office Furniture,4,4140.00,16560.00,Outstanding,2026-01-29,N. Haufiku
+2025-12-30,INV-2025-1461,Caprivi Timber,Oshakati,IT Support Contract,Software & Services,1,17795.00,17795.00,Outstanding,2026-01-29,N. Haufiku
+2025-12-30,INV-2025-1462,Swakop Boutique Hotel,Swakopmund,IT Support Contract,Software & Services,1,18300.00,18300.00,Paid,2026-01-29,R. Beukes
+2025-12-30,INV-2025-1463,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,14,1235.00,17290.00,Paid,2026-01-29,T. Nangolo
+2025-12-30,INV-2025-1463,NamiTech,Windhoek,Stationery Bulk Pack,Stationery & Consumables,14,1235.00,17290.00,Paid,2026-01-29,T. Nangolo
+2025-12-30,INV-2025-1464,Hardap Farms,Windhoek,Toner Cartridge,Stationery & Consumables,11,1715.00,18865.00,Outstanding,2026-01-29,L. Hamunyela
+2025-12-31,INV-2025-1465,Kalahari Traders,Windhoek,Printing Paper (Box),Stationery & Consumables,26,810.00,21060.00,Paid,2026-01-30,T. Nangolo
+2025-12-31,INV-2025-1466,Windhoek Supplies,Windhoek,Accounting Software Licence,Software & Services,3,9610.00,28830.00,Outstanding,2026-01-30,L. Hamunyela
+2025-12-31,INV-2025-1467,Namport Contractors,Walvis Bay,Accounting Software Licence,Software & Services,2,10200.00,20400.00,Outstanding,2026-01-30,J. Kandjoze
+2025-12-31,INV-2025-1468,Windhoek Supplies,Windhoek,IT Support Contract,Software & Services,1,17595.00,17595.00,Outstanding,2026-01-30,M. Shikongo
+2025-12-31,INV-2025-1469,Khomas Hardware,Windhoek,Smartphone,Electronics,1,6475.00,6475.00,Paid,2026-01-30,L. Hamunyela
+2025-12-31,INV-2025-1470,Kalahari Traders,Windhoek,Tablet,Electronics,3,5360.00,16080.00,Outstanding,2026-01-30,M. Shikongo
+2025-12-31,INV-2025-1471,Rundu Motors,Oshakati,Filing Cabinet,Office Furniture,3,3000.00,9000.00,Outstanding,2026-01-30,P. Iipinge
+2025-12-31,INV-2025-1472,NamiTech,Windhoek,Smartphone,Electronics,3,6415.00,19245.00,Outstanding,2026-01-30,M. Shikongo

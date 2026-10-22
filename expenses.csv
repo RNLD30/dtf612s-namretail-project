@@ -1,0 +1,697 @@
+Date,Branch,ExpenseCategory,Amount
+2025-01-01,Oshakati,Rent,29400.00
+2025-01-01,Swakopmund,Rent,25100.00
+2025-01-01,Walvis Bay,Rent,24500.00
+2025-01-01,Walvis Bay,Transport & Fuel,5965.85
+2025-01-01,Windhoek,Rent,53900.00
+2025-01-02,Swakopmund,Cost of Sales,54734.68
+2025-01-02,Windhoek,Repairs & Maintenance,12955.54
+2025-01-02,Windhoek,Repairs & Maintenance,14026.09
+2025-01-05,Oshakati,Insurance,7360.00
+2025-01-05,Swakopmund,Insurance,6270.00
+2025-01-05,Walvis Bay,Insurance,6110.00
+2025-01-05,Windhoek,Cost of Sales,120699.51
+2025-01-05,Windhoek,Insurance,13460.00
+2025-01-06,Swakopmund,Transport & Fuel,7014.50
+2025-01-07,Walvis Bay,Marketing,7789.09
+2025-01-07,Windhoek,Transport & Fuel,14614.79
+2025-01-08,Oshakati,Marketing,5326.99
+2025-01-09,Swakopmund,Cost of Sales,45671.63
+2025-01-09,Swakopmund,Marketing,4615.34
+2025-01-10,Oshakati,IT & Software,6321.36
+2025-01-10,Walvis Bay,Other,2759.90
+2025-01-10,Windhoek,Other,7984.85
+2025-01-11,Oshakati,Cost of Sales,38848.84
+2025-01-12,Walvis Bay,IT & Software,7751.24
+2025-01-13,Oshakati,Transport & Fuel,8857.31
+2025-01-14,Swakopmund,Marketing,3546.63
+2025-01-14,Walvis Bay,Cost of Sales,13789.46
+2025-01-14,Walvis Bay,Repairs & Maintenance,14072.15
+2025-01-14,Windhoek,IT & Software,12152.38
+2025-01-15,Oshakati,Cost of Sales,60563.61
+2025-01-15,Swakopmund,IT & Software,7029.55
+2025-01-15,Walvis Bay,Cost of Sales,26107.07
+2025-01-19,Walvis Bay,Cost of Sales,20939.39
+2025-01-19,Walvis Bay,Other,2018.70
+2025-01-19,Windhoek,Cost of Sales,198359.98
+2025-01-20,Walvis Bay,Marketing,6057.66
+2025-01-20,Walvis Bay,Transport & Fuel,7239.18
+2025-01-21,Oshakati,Cost of Sales,66568.79
+2025-01-21,Oshakati,Other,2093.11
+2025-01-21,Oshakati,Other,2088.63
+2025-01-21,Oshakati,Transport & Fuel,13147.14
+2025-01-21,Swakopmund,Transport & Fuel,4266.14
+2025-01-22,Swakopmund,Cost of Sales,49370.25
+2025-01-22,Swakopmund,Other,3180.88
+2025-01-23,Windhoek,Other,5973.06
+2025-01-24,Windhoek,Transport & Fuel,15944.94
+2025-01-25,Oshakati,Salaries,94851.70
+2025-01-25,Swakopmund,Salaries,76196.43
+2025-01-25,Walvis Bay,Salaries,74509.80
+2025-01-25,Windhoek,Cost of Sales,171774.34
+2025-01-25,Windhoek,Salaries,160211.25
+2025-01-26,Oshakati,Marketing,10615.31
+2025-01-27,Oshakati,Bank Charges,4210.46
+2025-01-27,Swakopmund,Bank Charges,3281.92
+2025-01-27,Walvis Bay,Bank Charges,3084.10
+2025-01-27,Windhoek,Bank Charges,6680.27
+2025-01-28,Oshakati,Utilities,16631.64
+2025-01-28,Swakopmund,Utilities,13544.73
+2025-01-28,Walvis Bay,Utilities,14018.28
+2025-01-28,Windhoek,Utilities,27705.71
+2025-02-01,Oshakati,Rent,29400.00
+2025-02-01,Swakopmund,Cost of Sales,55200.74
+2025-02-01,Swakopmund,Rent,25100.00
+2025-02-01,Walvis Bay,Rent,24500.00
+2025-02-01,Windhoek,Rent,53900.00
+2025-02-01,Windhoek,Transport & Fuel,13659.24
+2025-02-02,Oshakati,Transport & Fuel,5504.34
+2025-02-04,Oshakati,Cost of Sales,84039.70
+2025-02-04,Oshakati,Other,8116.91
+2025-02-04,Swakopmund,Other,3633.83
+2025-02-04,Windhoek,Cost of Sales,125294.34
+2025-02-05,Oshakati,Insurance,7360.00
+2025-02-05,Swakopmund,Insurance,6270.00
+2025-02-05,Walvis Bay,Insurance,6110.00
+2025-02-05,Windhoek,Insurance,13460.00
+2025-02-06,Oshakati,Cost of Sales,65274.45
+2025-02-06,Oshakati,Marketing,5748.31
+2025-02-06,Oshakati,Transport & Fuel,11768.31
+2025-02-06,Swakopmund,Transport & Fuel,4316.54
+2025-02-06,Windhoek,Transport & Fuel,17561.21
+2025-02-07,Oshakati,Repairs & Maintenance,5804.64
+2025-02-07,Walvis Bay,Transport & Fuel,9315.17
+2025-02-08,Walvis Bay,Marketing,4294.23
+2025-02-08,Windhoek,Cost of Sales,200072.97
+2025-02-09,Windhoek,Cost of Sales,107538.59
+2025-02-10,Walvis Bay,IT & Software,7463.50
+2025-02-11,Oshakati,Cost of Sales,-80409.02
+2025-02-11,Swakopmund,Transport & Fuel,7521.10
+2025-02-12,Swakopmund,Cost of Sales,39364.58
+2025-02-13,Swakopmund,IT & Software,6282.14
+2025-02-14,Walvis Bay,Cost of Sales,53034.08
+2025-02-14,Walvis Bay,Transport & Fuel,5031.15
+2025-02-15,Oshakati,IT & Software,7840.68
+2025-02-15,Walvis Bay,Repairs & Maintenance,4244.30
+2025-02-15,Windhoek,IT & Software,12866.95
+2025-02-16,Swakopmund,Other,2207.74
+2025-02-17,Walvis Bay,Cost of Sales,22178.34
+2025-02-17,Walvis Bay,Other,6338.87
+2025-02-18,Swakopmund,Cost of Sales,33681.50
+2025-02-18,Walvis Bay,Cost of Sales,42220.18
+2025-02-21,Windhoek,Other,8383.84
+2025-02-23,Oshakati,Marketing,7175.00
+2025-02-24,Windhoek,Other,6122.51
+2025-02-25,Oshakati,Salaries,96748.98
+2025-02-25,Swakopmund,Salaries,73903.79
+2025-02-25,Walvis Bay,Salaries,74677.56
+2025-02-25,Windhoek,Salaries,160238.38
+2025-02-25,Windhoek,Salaries,160238.38
+2025-02-27,Oshakati,Bank Charges,4226.60
+2025-02-27,Swakopmund,Bank Charges,3486.03
+2025-02-27,Walvis Bay,Bank Charges,3195.84
+2025-02-27,Windhoek,Bank Charges,7339.81
+2025-02-28,Oshakati,Utilities,14652.34
+2025-02-28,Swakopmund,Utilities,14492.89
+2025-02-28,Walvis Bay,Utilities,14010.76
+2025-02-28,Windhoek,Utilities,32192.07
+2025-03-01,Oshakati,Rent,29400.00
+2025-03-01,Oshakati,Transport & Fuel,11743.37
+2025-03-01,Swakopmund,Rent,25100.00
+2025-03-01,Walvis Bay,Rent,24500.00
+2025-03-01,Windhoek,Rent,53900.00
+2025-03-02,Swakopmund,Other,6880.79
+2025-03-02,Walvis Bay,Cost of Sales,87696.92
+2025-03-02,Walvis Bay,Transport & Fuel,8659.63
+2025-03-03,Oshakati,Repairs & Maintenance,9669.60
+2025-03-03,Windhoek,Cost of Sales,148527.49
+2025-03-05,Oshakati,Insurance,7360.00
+2025-03-05,Swakopmund,Insurance,6270.00
+2025-03-05,Walvis Bay,Insurance,6110.00
+2025-03-05,Windhoek,Insurance,13460.00
+2025-03-05,Windhoek,Repairs & Maintenance,32909.31
+2025-03-07,Oshakati,Other,6669.95
+2025-03-10,Oshakati,IT & Software,8456.36
+2025-03-10,Walvis Bay,Cost of Sales,78730.03
+2025-03-11,Swakopmund,Cost of Sales,64190.95
+2025-03-11,Swakopmund,IT & Software,6822.14
+2025-03-11,Walvis Bay,IT & Software,6404.85
+2025-03-12,Oshakati,Cost of Sales,89274.44
+2025-03-12,Walvis Bay,Cost of Sales,48843.45
+2025-03-12,Walvis Bay,Repairs & Maintenance,3490.36
+2025-03-13,Swakopmund,Cost of Sales,78563.71
+2025-03-13,Windhoek,Transport & Fuel,9605.66
+2025-03-14,Oshakati,Repairs & Maintenance,4861.94
+2025-03-14,Swakopmund,Repairs & Maintenance,6594.43
+2025-03-15,Windhoek,IT & Software,15666.27
+2025-03-16,Oshakati,Marketing,9998.95
+2025-03-17,Swakopmund,Marketing,13925.83
+2025-03-18,Oshakati,Cost of Sales,119703.19
+2025-03-18,Windhoek,Transport & Fuel,17453.28
+2025-03-19,Swakopmund,Cost of Sales,54671.13
+2025-03-19,Swakopmund,Transport & Fuel,8042.14
+2025-03-20,Oshakati,Transport & Fuel,6865.51
+2025-03-20,Windhoek,Other,4909.46
+2025-03-21,Oshakati,Cost of Sales,71230.74
+2025-03-21,Walvis Bay,Other,2799.04
+2025-03-21,Walvis Bay,Repairs & Maintenance,9190.17
+2025-03-21,Windhoek,Other,3005.46
+2025-03-23,Windhoek,Marketing,27662.64
+2025-03-24,Swakopmund,Transport & Fuel,5617.83
+2025-03-24,Windhoek,Cost of Sales,150870.63
+2025-03-24,Windhoek,Cost of Sales,155999.09
+2025-03-25,Oshakati,Salaries,94606.50
+2025-03-25,Swakopmund,Salaries,75919.94
+2025-03-25,Walvis Bay,Salaries,74569.79
+2025-03-25,Windhoek,Salaries,160278.26
+2025-03-26,Swakopmund,Repairs & Maintenance,8043.73
+2025-03-26,Walvis Bay,Transport & Fuel,4695.75
+2025-03-27,Oshakati,Bank Charges,3659.07
+2025-03-27,Swakopmund,Bank Charges,3308.94
+2025-03-27,Walvis Bay,Bank Charges,3077.40
+2025-03-27,Windhoek,Bank Charges,7652.93
+2025-03-28,Oshakati,Utilities,16861.94
+2025-03-28,Swakopmund,Utilities,12631.80
+2025-03-28,Walvis Bay,Utilities,11327.38
+2025-03-28,Windhoek,Utilities,28930.09
+2025-04-01,Oshakati,Rent,29400.00
+2025-04-01,Swakopmund,Rent,25100.00
+2025-04-01,Walvis Bay,Rent,24500.00
+2025-04-01,Windhoek,Rent,53900.00
+2025-04-02,Walvis Bay,Transport & Fuel,8950.41
+2025-04-03,Oshakati,Other,3969.60
+2025-04-04,Windhoek,Cost of Sales,155073.70
+2025-04-05,Oshakati,Insurance,7360.00
+2025-04-05,Swakopmund,Insurance,6270.00
+2025-04-05,Walvis Bay,Insurance,6110.00
+2025-04-05,Walvis Bay,Repairs & Maintenance,4348.68
+2025-04-05,Windhoek,Insurance,13460.00
+2025-04-06,Oshakati,Cost of Sales,78130.11
+2025-04-06,Walvis Bay,Cost of Sales,92288.47
+2025-04-06,Windhoek,Other,3221.04
+2025-04-07,Swakopmund,Transport & Fuel,6418.89
+2025-04-07,Walvis Bay,Other,3966.66
+2025-04-07,Walvis Bay,Transport & Fuel,4249.37
+2025-04-08,Oshakati,Marketing,12235.25
+2025-04-08,Swakopmund,Cost of Sales,83058.54
+2025-04-10,Windhoek,Transport & Fuel,21378.40
+2025-04-11,Swakopmund,Cost of Sales,74868.55
+2025-04-12,Oshakati,Cost of Sales,40705.83
+2025-04-12,Oshakati,Repairs & Maintenance,13235.86
+2025-04-12,Oshakati,Transport & Fuel,8926.21
+2025-04-12,Swakopmund,IT & Software,6588.57
+2025-04-12,Swakopmund,Other,3562.05
+2025-04-12,Walvis Bay,IT & Software,4984.16
+2025-04-12,Windhoek,Transport & Fuel,10892.99
+2025-04-14,Oshakati,IT & Software,7510.72
+2025-04-14,Windhoek,IT & Software,13072.58
+2025-04-15,Walvis Bay,Cost of Sales,88515.28
+2025-04-15,Windhoek,Cost of Sales,74682.35
+2025-04-16,Swakopmund,Cost of Sales,41817.68
+2025-04-16,Walvis Bay,Repairs & Maintenance,5203.79
+2025-04-18,Oshakati,Cost of Sales,84983.73
+2025-04-18,Swakopmund,Transport & Fuel,6236.62
+2025-04-18,Walvis Bay,Other,2717.93
+2025-04-19,Walvis Bay,Marketing,9778.60
+2025-04-19,Windhoek,Cost of Sales,174427.27
+2025-04-19,Windhoek,Other,5150.30
+2025-04-20,Swakopmund,Repairs & Maintenance,13802.27
+2025-04-22,Windhoek,Repairs & Maintenance,24869.06
+2025-04-24,Oshakati,Transport & Fuel,13992.46
+2025-04-24,Walvis Bay,Cost of Sales,54357.19
+2025-04-25,Oshakati,Salaries,95013.82
+2025-04-25,Swakopmund,Salaries,76058.84
+2025-04-25,Walvis Bay,Salaries,74318.02
+2025-04-25,Windhoek,Salaries,161199.84
+2025-04-26,Windhoek,Marketing,29832.38
+2025-04-27,Oshakati,Bank Charges,3649.44
+2025-04-27,Swakopmund,Bank Charges,3607.13
+2025-04-27,Walvis Bay,Bank Charges,2952.72
+2025-04-27,Windhoek,Bank Charges,7057.52
+2025-04-28,Oshakati,Utilities,15439.43
+2025-04-28,Swakopmund,Utilities,12964.97
+2025-04-28,Walvis Bay,Utilities,13532.34
+2025-04-28,Windhoek,Utilities,26644.19
+2025-05-01,Oshakati,Rent,29400.00
+2025-05-01,Swakopmund,Rent,25100.00
+2025-05-01,Walvis Bay,Rent,24500.00
+2025-05-01,Windhoek,Rent,53900.00
+2025-05-02,Windhoek,Cost of Sales,172643.07
+2025-05-03,Oshakati,Marketing,8673.73
+2025-05-03,Oshakati,Transport & Fuel,8091.87
+2025-05-03,Swakopmund,Repairs & Maintenance,1462.53
+2025-05-05,Oshakati,Insurance,7360.00
+2025-05-05,Swakopmund,Insurance,6270.00
+2025-05-05,Walvis Bay,Insurance,6110.00
+2025-05-05,Windhoek,Insurance,13460.00
+2025-05-05,Windhoek,Transport & Fuel,13799.10
+2025-05-06,Windhoek,Other,5971.75
+2025-05-09,Swakopmund,Other,6857.88
+2025-05-10,Oshakati,Cost of Sales,52607.82
+2025-05-10,Oshakati,Cost of Sales,120834.63
+2025-05-10,Swakopmund,Cost of Sales,64331.05
+2025-05-10,Swakopmund,IT & Software,5679.79
+2025-05-10,Swakopmund,Transport & Fuel,7749.89
+2025-05-10,Walvis Bay,IT & Software,6290.03
+2025-05-10,Windhoek,Cost of Sales,93652.99
+2025-05-11,Oshakati,IT & Software,6934.01
+2025-05-11,Swakopmund,Cost of Sales,46578.50
+2025-05-11,Walvis Bay,Repairs & Maintenance,3106.89
+2025-05-12,Oshakati,Cost of Sales,105725.26
+2025-05-12,Oshakati,Transport & Fuel,10644.44
+2025-05-12,Walvis Bay,Cost of Sales,61290.78
+2025-05-13,Walvis Bay,Cost of Sales,63746.59
+2025-05-13,Windhoek,Repairs & Maintenance,31921.42
+2025-05-14,Windhoek,Other,7524.13
+2025-05-15,Walvis Bay,Other,1309.35
+2025-05-15,Windhoek,IT & Software,11947.82
+2025-05-16,Swakopmund,Cost of Sales,95345.10
+2025-05-17,Oshakati,Other,6784.75
+2025-05-18,Walvis Bay,Cost of Sales,62538.64
+2025-05-19,Oshakati,Repairs & Maintenance,15155.55
+2025-05-22,Walvis Bay,Other,1212.80
+2025-05-22,Windhoek,Cost of Sales,157597.20
+2025-05-25,Oshakati,Salaries,94926.94
+2025-05-25,Swakopmund,Salaries,75154.48
+2025-05-25,Swakopmund,Transport & Fuel,6868.70
+2025-05-25,Walvis Bay,Salaries,71939.14
+2025-05-25,Windhoek,Salaries,161659.34
+2025-05-25,Windhoek,Transport & Fuel,14379.36
+2025-05-26,Swakopmund,Repairs & Maintenance,1493.16
+2025-05-26,Walvis Bay,Repairs & Maintenance,7643.68
+2025-05-26,Walvis Bay,Transport & Fuel,9498.88
+2025-05-26,Walvis Bay,Transport & Fuel,4066.98
+2025-05-27,Oshakati,Bank Charges,3985.64
+2025-05-27,Swakopmund,Bank Charges,3199.09
+2025-05-27,Walvis Bay,Bank Charges,3225.39
+2025-05-27,Windhoek,Bank Charges,7578.70
+2025-05-28,Oshakati,Utilities,14967.58
+2025-05-28,Swakopmund,Utilities,11134.67
+2025-05-28,Walvis Bay,Utilities,12860.02
+2025-05-28,Windhoek,Utilities,23939.13
+2025-06-01,Oshakati,Other,2952.90
+2025-06-01,Oshakati,Rent,29400.00
+2025-06-01,Swakopmund,Rent,25100.00
+2025-06-01,Walvis Bay,Rent,24500.00
+2025-06-01,Windhoek,Rent,53900.00
+2025-06-02,Swakopmund,Transport & Fuel,7054.16
+2025-06-03,Oshakati,Cost of Sales,101225.73
+2025-06-03,Oshakati,Marketing,5546.91
+2025-06-03,Swakopmund,Cost of Sales,66236.19
+2025-06-03,Swakopmund,Repairs & Maintenance,7934.89
+2025-06-04,Oshakati,Other,5149.69
+2025-06-04,Oshakati,Transport & Fuel,9307.89
+2025-06-05,Oshakati,Insurance,7360.00
+2025-06-05,Swakopmund,Insurance,6270.00
+2025-06-05,Walvis Bay,Insurance,6110.00
+2025-06-05,Walvis Bay,Other,6645.87
+2025-06-05,Walvis Bay,Repairs & Maintenance,12682.29
+2025-06-05,Windhoek,Insurance,13460.00
+2025-06-06,Walvis Bay,Cost of Sales,100821.42
+2025-06-07,Walvis Bay,Marketing,2332.64
+2025-06-09,Swakopmund,Repairs & Maintenance,7029.97
+2025-06-10,Swakopmund,IT & Software,7602.21
+2025-06-10,Walvis Bay,Cost of Sales,77086.34
+2025-06-11,Windhoek,Cost of Sales,111869.40
+2025-06-12,Oshakati,Cost of Sales,78973.56
+2025-06-12,Oshakati,IT & Software,9261.97
+2025-06-12,Windhoek,Cost of Sales,165192.58
+2025-06-13,Swakopmund,Cost of Sales,53881.32
+2025-06-13,Swakopmund,Marketing,9198.70
+2025-06-13,Swakopmund,Transport & Fuel,7080.88
+2025-06-13,Walvis Bay,IT & Software,5841.86
+2025-06-14,Oshakati,Repairs & Maintenance,2263.94
+2025-06-14,Swakopmund,Cost of Sales,68268.76
+2025-06-14,Windhoek,Transport & Fuel,21143.69
+2025-06-15,Windhoek,IT & Software,17320.74
+2025-06-17,Windhoek,Cost of Sales,120530.11
+2025-06-18,Oshakati,Cost of Sales,157110.47
+2025-06-18,Oshakati,Repairs & Maintenance,4749.16
+2025-06-18,Walvis Bay,Marketing,2303.10
+2025-06-18,Walvis Bay,Transport & Fuel,5091.92
+2025-06-19,Walvis Bay,Transport & Fuel,7684.52
+2025-06-20,Swakopmund,Other,2981.12
+2025-06-20,Windhoek,Other,9153.48
+2025-06-21,Windhoek,Transport & Fuel,10373.23
+2025-06-23,Oshakati,Transport & Fuel,7533.87
+2025-06-25,Oshakati,Salaries,95492.31
+2025-06-25,Swakopmund,Salaries,76055.64
+2025-06-25,Walvis Bay,Cost of Sales,104606.09
+2025-06-25,Walvis Bay,Salaries,74267.93
+2025-06-25,Windhoek,Salaries,158662.03
+2025-06-27,Oshakati,Bank Charges,3726.47
+2025-06-27,Swakopmund,Bank Charges,3296.76
+2025-06-27,Walvis Bay,Bank Charges,3371.34
+2025-06-27,Windhoek,Bank Charges,7483.24
+2025-06-28,Oshakati,Utilities,13522.23
+2025-06-28,Swakopmund,Utilities,12362.20
+2025-06-28,Walvis Bay,Utilities,12903.49
+2025-06-28,Windhoek,Utilities,29613.95
+2025-07-01,Oshakati,Rent,29400.00
+2025-07-01,Swakopmund,Rent,25100.00
+2025-07-01,Walvis Bay,Rent,24500.00
+2025-07-01,Windhoek,Rent,53900.00
+2025-07-02,Oshakati,Other,3333.05
+2025-07-03,Walvis Bay,Cost of Sales,66966.75
+2025-07-03,Walvis Bay,Cost of Sales,66966.75
+2025-07-03,Windhoek,Repairs & Maintenance,12300.95
+2025-07-04,Walvis Bay,Cost of Sales,71409.81
+2025-07-05,Oshakati,Insurance,7360.00
+2025-07-05,Swakopmund,Insurance,6270.00
+2025-07-05,Walvis Bay,Insurance,6110.00
+2025-07-05,Windhoek,Insurance,13460.00
+2025-07-05,Windhoek,Transport & Fuel,19313.53
+2025-07-06,Oshakati,Other,1336.66
+2025-07-06,Oshakati,Transport & Fuel,8895.72
+2025-07-06,Windhoek,Marketing,31613.20
+2025-07-08,Oshakati,Transport & Fuel,9667.50
+2025-07-08,Swakopmund,Transport & Fuel,8962.17
+2025-07-10,Oshakati,Cost of Sales,65871.49
+2025-07-10,Swakopmund,Cost of Sales,120862.50
+2025-07-11,Windhoek,Cost of Sales,224982.57
+2025-07-11,Windhoek,Cost of Sales,155524.96
+2025-07-12,Windhoek,Other,7969.00
+2025-07-13,Swakopmund,Transport & Fuel,5163.37
+2025-07-13,Walvis Bay,Other,2634.86
+2025-07-13,Walvis Bay,Other,2331.28
+2025-07-13,Windhoek,IT & Software,11639.21
+2025-07-14,Swakopmund,IT & Software,6171.86
+2025-07-14,Walvis Bay,Transport & Fuel,5416.21
+2025-07-15,Oshakati,IT & Software,8716.60
+2025-07-15,Swakopmund,Cost of Sales,75527.78
+2025-07-15,Swakopmund,Other,3396.14
+2025-07-15,Walvis Bay,IT & Software,5698.77
+2025-07-17,Windhoek,Repairs & Maintenance,16761.67
+2025-07-18,Walvis Bay,Cost of Sales,68780.36
+2025-07-18,Windhoek,Cost of Sales,168030.53
+2025-07-19,Oshakati,Repairs & Maintenance,8444.93
+2025-07-20,Oshakati,Cost of Sales,57148.53
+2025-07-20,Swakopmund,Cost of Sales,48322.56
+2025-07-22,Oshakati,Repairs & Maintenance,7582.54
+2025-07-22,Swakopmund,Repairs & Maintenance,14730.83
+2025-07-22,Windhoek,Transport & Fuel,8073.70
+2025-07-24,Walvis Bay,Transport & Fuel,4562.91
+2025-07-25,Oshakati,Salaries,96152.91
+2025-07-25,Swakopmund,Salaries,75047.28
+2025-07-25,Walvis Bay,Salaries,72011.69
+2025-07-25,Windhoek,Salaries,160983.33
+2025-07-26,Oshakati,Cost of Sales,53067.26
+2025-07-27,Oshakati,Bank Charges,3826.86
+2025-07-27,Swakopmund,Bank Charges,3435.25
+2025-07-27,Walvis Bay,Bank Charges,3394.26
+2025-07-27,Windhoek,Bank Charges,6823.96
+2025-07-28,Oshakati,Utilities,12761.26
+2025-07-28,Swakopmund,Utilities,13595.00
+2025-07-28,Walvis Bay,Utilities,10685.51
+2025-07-28,Windhoek,Utilities,30366.73
+2025-08-01,Oshakati,Cost of Sales,124837.17
+2025-08-01,Oshakati,Rent,29400.00
+2025-08-01,Swakopmund,Rent,25100.00
+2025-08-01,Walvis Bay,Rent,24500.00
+2025-08-01,Windhoek,Rent,53900.00
+2025-08-02,Oshakati,Marketing,10427.06
+2025-08-02,Oshakati,Other,5991.75
+2025-08-02,Walvis Bay,Cost of Sales,82881.03
+2025-08-02,Windhoek,Transport & Fuel,12276.08
+2025-08-03,Windhoek,Cost of Sales,111963.33
+2025-08-03,Windhoek,Other,5071.54
+2025-08-04,Oshakati,Other,2472.79
+2025-08-04,Oshakati,Transport & Fuel,12380.62
+2025-08-04,Swakopmund,Cost of Sales,100795.60
+2025-08-05,Oshakati,Insurance,7360.00
+2025-08-05,Swakopmund,Insurance,6270.00
+2025-08-05,Swakopmund,Transport & Fuel,6697.63
+2025-08-05,Walvis Bay,Insurance,6110.00
+2025-08-05,Windhoek,Insurance,13460.00
+2025-08-06,Oshakati,Marketing,7202.90
+2025-08-06,Swakopmund,Other,2813.85
+2025-08-07,Oshakati,Cost of Sales,50315.21
+2025-08-07,Oshakati,Cost of Sales,67733.47
+2025-08-07,Swakopmund,Transport & Fuel,5390.11
+2025-08-08,Walvis Bay,Cost of Sales,59087.14
+2025-08-08,Walvis Bay,Cost of Sales,59087.14
+2025-08-08,Walvis Bay,Other,7144.71
+2025-08-09,Swakopmund,Marketing,7805.88
+2025-08-10,Swakopmund,IT & Software,"N$6,856.40"
+2025-08-11,Swakopmund,Other,2311.56
+2025-08-11,Walvis Bay,Marketing,3882.11
+2025-08-12,Swakopmund,Cost of Sales,56104.55
+2025-08-12,Windhoek,IT & Software,13985.42
+2025-08-12,Windhoek,Marketing,10662.70
+2025-08-13,Walvis Bay,Marketing,6499.85
+2025-08-14,Oshakati,IT & Software,9559.26
+2025-08-14,Oshakati,Repairs & Maintenance,15967.56
+2025-08-14,Walvis Bay,Cost of Sales,57981.35
+2025-08-14,Walvis Bay,IT & Software,6020.09
+2025-08-16,Swakopmund,Repairs & Maintenance,7333.05
+2025-08-19,Walvis Bay,Transport & Fuel,5885.35
+2025-08-20,Windhoek,Cost of Sales,159335.54
+2025-08-20,Windhoek,Transport & Fuel,17755.28
+2025-08-21,Oshakati,Transport & Fuel,10181.29
+2025-08-22,Walvis Bay,Repairs & Maintenance,13717.02
+2025-08-24,Swakopmund,Cost of Sales,84886.99
+2025-08-24,Windhoek,Marketing,16591.86
+2025-08-24,Windhoek,Other,9714.07
+2025-08-25,Oshakati,Salaries,94925.42
+2025-08-25,Swakopmund,Salaries,74178.41
+2025-08-25,Walvis Bay,Salaries,74447.30
+2025-08-25,Windhoek,Repairs & Maintenance,27467.56
+2025-08-25,Windhoek,Salaries,160861.99
+2025-08-26,Swakopmund,Repairs & Maintenance,5461.46
+2025-08-26,Walvis Bay,Transport & Fuel,6799.68
+2025-08-26,Windhoek,Cost of Sales,133491.98
+2025-08-27,Oshakati,Bank Charges,3809.40
+2025-08-27,Swakopmund,Bank Charges,3276.19
+2025-08-27,Walvis Bay,Bank Charges,2976.55
+2025-08-27,Windhoek,Bank Charges,6916.92
+2025-08-28,Oshakati,Utilities,16518.94
+2025-08-28,Swakopmund,Utilities,13352.39
+2025-08-28,Walvis Bay,Utilities,11196.86
+2025-08-28,Windhoek,Utilities,31973.41
+2025-09-01,Oshakati,Rent,29400.00
+2025-09-01,Swakopmund,Marketing,14276.05
+2025-09-01,Swakopmund,Rent,25100.00
+2025-09-01,Walvis Bay,Cost of Sales,83664.37
+2025-09-01,Walvis Bay,Rent,24500.00
+2025-09-01,Windhoek,Rent,53900.00
+2025-09-02,Walvis Bay,Other,6942.63
+2025-09-03,Walvis Bay,Marketing,6877.20
+2025-09-03,Windhoek,Cost of Sales,109148.82
+2025-09-04,Walvis Bay,Cost of Sales,45318.51
+2025-09-04,Windhoek,Other,6458.29
+2025-09-05,Oshakati,Insurance,7360.00
+2025-09-05,Oshakati,Repairs & Maintenance,2474.92
+2025-09-05,Swakopmund,Insurance,6270.00
+2025-09-05,Walvis Bay,Insurance,6110.00
+2025-09-05,Windhoek,Insurance,13460.00
+2025-09-06,Swakopmund,Other,2721.49
+2025-09-08,Windhoek,Other,4256.48
+2025-09-09,Swakopmund,Cost of Sales,81716.84
+2025-09-09,Swakopmund,Transport & Fuel,8119.80
+2025-09-10,Oshakati,Other,7718.48
+2025-09-10,Swakopmund,IT & Software,5191.30
+2025-09-11,Oshakati,Repairs & Maintenance,1873.87
+2025-09-11,Windhoek,Transport & Fuel,9342.45
+2025-09-12,Swakopmund,Transport & Fuel,6791.62
+2025-09-13,Oshakati,IT & Software,7008.39
+2025-09-13,Swakopmund,Repairs & Maintenance,11847.88
+2025-09-13,Windhoek,IT & Software,15433.32
+2025-09-14,Oshakati,Transport & Fuel,9312.85
+2025-09-14,Swakopmund,Cost of Sales,41772.38
+2025-09-15,Walvis Bay,IT & Software,6391.26
+2025-09-15,Windhoek,Cost of Sales,139482.62
+2025-09-16,Walvis Bay,Cost of Sales,89619.17
+2025-09-17,Oshakati,Transport & Fuel,8225.14
+2025-09-18,Oshakati,Cost of Sales,83782.15
+2025-09-18,Oshakati,Cost of Sales,97864.98
+2025-09-19,Swakopmund,Cost of Sales,72131.77
+2025-09-19,Walvis Bay,Transport & Fuel,6280.09
+2025-09-19,Windhoek,Transport & Fuel,15323.69
+2025-09-20,Oshakati,Cost of Sales,-137792.45
+2025-09-20,Swakopmund,Other,1528.52
+2025-09-22,Windhoek,Cost of Sales,152906.68
+2025-09-23,Walvis Bay,Marketing,6152.06
+2025-09-25,Oshakati,Salaries,94491.43
+2025-09-25,Swakopmund,Salaries,75381.80
+2025-09-25,Walvis Bay,Salaries,74518.69
+2025-09-25,Walvis Bay,Transport & Fuel,4287.23
+2025-09-25,Windhoek,Salaries,161628.47
+2025-09-27,Oshakati,Bank Charges,3774.38
+2025-09-27,Swakopmund,Bank Charges,3299.51
+2025-09-27,Walvis Bay,Bank Charges,2986.59
+2025-09-27,Windhoek,Bank Charges,7415.62
+2025-09-28,Oshakati,Utilities,17022.47
+2025-09-28,Swakopmund,Utilities,14036.29
+2025-09-28,Walvis Bay,Utilities,13096.76
+2025-09-28,Windhoek,Utilities,23366.16
+2025-10-01,Oshakati,Rent,29400.00
+2025-10-01,Swakopmund,Rent,25100.00
+2025-10-01,Walvis Bay,Rent,24500.00
+2025-10-01,Windhoek,Marketing,18168.26
+2025-10-01,Windhoek,Rent,53900.00
+2025-10-02,Swakopmund,Cost of Sales,113327.64
+2025-10-02,Swakopmund,Cost of Sales,88106.36
+2025-10-04,Walvis Bay,Cost of Sales,55595.52
+2025-10-04,Windhoek,Transport & Fuel,20416.85
+2025-10-05,Oshakati,Insurance,7360.00
+2025-10-05,Swakopmund,Insurance,"N$6,270.00"
+2025-10-05,Walvis Bay,Insurance,6110.00
+2025-10-05,Walvis Bay,Other,5689.85
+2025-10-05,Windhoek,Cost of Sales,164120.11
+2025-10-05,Windhoek,Insurance,13460.00
+2025-10-06,Oshakati,Cost of Sales,38723.80
+2025-10-06,Oshakati,Transport & Fuel,13941.63
+2025-10-06,Swakopmund,Transport & Fuel,7580.76
+2025-10-07,Walvis Bay,Cost of Sales,85775.20
+2025-10-07,Windhoek,Cost of Sales,105236.02
+2025-10-08,Walvis Bay,Transport & Fuel,4650.58
+2025-10-08,Windhoek,Cost of Sales,114113.37
+2025-10-08,Windhoek,Other,6946.87
+2025-10-09,Walvis Bay,Repairs & Maintenance,6417.56
+2025-10-10,Oshakati,IT & Software,9108.35
+2025-10-10,Windhoek,IT & Software,11110.74
+2025-10-10,Windhoek,Transport & Fuel,10227.14
+2025-10-12,Swakopmund,Marketing,5988.79
+2025-10-13,Oshakati,Marketing,4910.20
+2025-10-13,Walvis Bay,IT & Software,6748.16
+2025-10-14,Oshakati,Cost of Sales,101863.44
+2025-10-14,Oshakati,Transport & Fuel,4911.38
+2025-10-14,Swakopmund,Other,2496.73
+2025-10-15,Swakopmund,IT & Software,5534.15
+2025-10-18,Oshakati,Other,3497.29
+2025-10-18,Swakopmund,Transport & Fuel,6639.32
+2025-10-18,Walvis Bay,Cost of Sales,58212.55
+2025-10-19,Windhoek,Repairs & Maintenance,21686.78
+2025-10-20,Oshakati,Cost of Sales,46066.83
+2025-10-20,Swakopmund,Repairs & Maintenance,4191.48
+2025-10-22,Swakopmund,Other,2901.92
+2025-10-22,Walvis Bay,Transport & Fuel,5899.41
+2025-10-22,Walvis Bay,Transport & Fuel,5899.41
+2025-10-25,Oshakati,Salaries,96047.53
+2025-10-25,Swakopmund,Cost of Sales,128303.37
+2025-10-25,Swakopmund,Salaries,75502.28
+2025-10-25,Walvis Bay,Repairs & Maintenance,5581.01
+2025-10-25,Walvis Bay,Salaries,73514.67
+2025-10-25,Windhoek,Salaries,164098.41
+2025-10-27,Oshakati,Bank Charges,4270.57
+2025-10-27,Swakopmund,Bank Charges,3243.59
+2025-10-27,Walvis Bay,Bank Charges,3306.87
+2025-10-27,Windhoek,Bank Charges,7243.47
+2025-10-28,Oshakati,Utilities,14479.75
+2025-10-28,Swakopmund,Utilities,13079.55
+2025-10-28,Walvis Bay,Utilities,14379.43
+2025-10-28,Windhoek,Utilities,25734.80
+2025-11-01,Oshakati,Rent,29400.00
+2025-11-01,Oshakati,Transport & Fuel,6768.02
+2025-11-01,Swakopmund,Other,4099.13
+2025-11-01,Swakopmund,Rent,25100.00
+2025-11-01,Walvis Bay,Rent,24500.00
+2025-11-01,Windhoek,Cost of Sales,"N$135,189.61"
+2025-11-01,Windhoek,Rent,53900.00
+2025-11-02,Swakopmund,Cost of Sales,85812.00
+2025-11-03,Oshakati,Cost of Sales,114922.62
+2025-11-04,Windhoek,Other,8980.49
+2025-11-05,Oshakati,Insurance,7360.00
+2025-11-05,Oshakati,Other,6526.96
+2025-11-05,Swakopmund,Insurance,6270.00
+2025-11-05,Swakopmund,Marketing,9639.12
+2025-11-05,Walvis Bay,Insurance,6110.00
+2025-11-05,Windhoek,Insurance,13460.00
+2025-11-06,Walvis Bay,Cost of Sales,46162.71
+2025-11-06,Windhoek,Repairs & Maintenance,19805.68
+2025-11-10,Swakopmund,Transport & Fuel,8008.00
+2025-11-10,Windhoek,IT & Software,11753.39
+2025-11-10,Windhoek,Other,4306.15
+2025-11-11,Walvis Bay,Other,5661.41
+2025-11-11,Windhoek,Cost of Sales,157789.23
+2025-11-13,Walvis Bay,IT & Software,6620.54
+2025-11-14,Oshakati,IT & Software,6126.79
+2025-11-14,Swakopmund,IT & Software,6963.32
+2025-11-14,Walvis Bay,Marketing,4206.68
+2025-11-15,Walvis Bay,Repairs & Maintenance,8486.64
+2025-11-15,Windhoek,Marketing,12961.16
+2025-11-15,Windhoek,Repairs & Maintenance,9285.80
+2025-11-16,Swakopmund,Transport & Fuel,3896.77
+2025-11-17,Oshakati,Cost of Sales,98907.73
+2025-11-17,Windhoek,Transport & Fuel,19568.59
+2025-11-18,Oshakati,Marketing,14538.80
+2025-11-19,Oshakati,Transport & Fuel,11260.55
+2025-11-20,Swakopmund,Other,2961.35
+2025-11-22,Walvis Bay,Cost of Sales,117337.01
+2025-11-22,Windhoek,Transport & Fuel,12657.99
+2025-11-24,Swakopmund,Cost of Sales,74407.92
+2025-11-24,Walvis Bay,Transport & Fuel,6656.07
+2025-11-24,Walvis Bay,Transport & Fuel,4952.15
+2025-11-24,Windhoek,Cost of Sales,125945.43
+2025-11-25,Oshakati,Cost of Sales,89255.36
+2025-11-25,Oshakati,Salaries,97200.56
+2025-11-25,Swakopmund,Salaries,74605.61
+2025-11-25,Walvis Bay,Cost of Sales,87048.00
+2025-11-25,Walvis Bay,Salaries,72400.46
+2025-11-25,Windhoek,Salaries,162512.48
+2025-11-26,Swakopmund,Cost of Sales,49243.74
+2025-11-27,Oshakati,Bank Charges,4203.75
+2025-11-27,Swakopmund,Bank Charges,3148.80
+2025-11-27,Walvis Bay,Bank Charges,3414.85
+2025-11-27,Windhoek,Bank Charges,6614.15
+2025-11-28,Oshakati,Utilities,13213.30
+2025-11-28,Swakopmund,Utilities,13030.47
+2025-11-28,Walvis Bay,Utilities,14451.91
+2025-11-28,Windhoek,Utilities,26487.79
+2025-12-01,Oshakati,Rent,29400.00
+2025-12-01,Swakopmund,Rent,25100.00
+2025-12-01,Walvis Bay,Rent,24500.00
+2025-12-01,Windhoek,Other,7008.45
+2025-12-01,Windhoek,Rent,53900.00
+2025-12-02,Swakopmund,Other,2216.72
+2025-12-02,Walvis Bay,Cost of Sales,117451.34
+2025-12-02,Walvis Bay,Transport & Fuel,5988.18
+2025-12-03,Swakopmund,Cost of Sales,95093.59
+2025-12-03,Swakopmund,Cost of Sales,57946.48
+2025-12-03,Windhoek,Cost of Sales,-227031.09
+2025-12-04,Oshakati,Cost of Sales,54002.81
+2025-12-04,Swakopmund,Marketing,7653.33
+2025-12-04,Walvis Bay,Repairs & Maintenance,1246.90
+2025-12-04,Windhoek,Other,8227.52
+2025-12-04,Windhoek,Transport & Fuel,17608.86
+2025-12-05,Oshakati,Insurance,7360.00
+2025-12-05,Swakopmund,Insurance,6270.00
+2025-12-05,Walvis Bay,Insurance,6110.00
+2025-12-05,Windhoek,Insurance,13460.00
+2025-12-06,Swakopmund,Transport & Fuel,6643.76
+2025-12-06,Walvis Bay,Cost of Sales,93037.31
+2025-12-06,Walvis Bay,Transport & Fuel,6821.76
+2025-12-07,Oshakati,Marketing,4333.68
+2025-12-08,Oshakati,Transport & Fuel,10177.57
+2025-12-09,Swakopmund,Cost of Sales,98530.74
+2025-12-09,Swakopmund,Transport & Fuel,4788.37
+2025-12-10,Oshakati,Cost of Sales,96324.45
+2025-12-10,Windhoek,IT & Software,17164.53
+2025-12-12,Oshakati,IT & Software,7970.12
+2025-12-12,Walvis Bay,Other,4041.57
+2025-12-12,Windhoek,Repairs & Maintenance,9142.88
+2025-12-13,Walvis Bay,IT & Software,6343.34
+2025-12-13,Windhoek,Cost of Sales,214781.39
+2025-12-15,Oshakati,Marketing,7949.44
+2025-12-15,Swakopmund,IT & Software,7694.57
+2025-12-17,Oshakati,Other,6785.83
+2025-12-19,Oshakati,Transport & Fuel,6576.65
+2025-12-19,Swakopmund,Repairs & Maintenance,6398.42
+2025-12-20,Walvis Bay,Cost of Sales,67958.33
+2025-12-21,Windhoek,Cost of Sales,258201.33
+2025-12-22,Walvis Bay,Repairs & Maintenance,1664.12
+2025-12-22,Windhoek,Transport & Fuel,13182.41
+2025-12-24,Oshakati,Cost of Sales,92729.27
+2025-12-24,Swakopmund,Other,1405.02
+2025-12-25,Oshakati,Salaries,93461.53
+2025-12-25,Swakopmund,Salaries,74869.39
+2025-12-25,Walvis Bay,Salaries,74657.66
+2025-12-25,Windhoek,Salaries,163131.66
+2025-12-27,Oshakati,Bank Charges,4094.77
+2025-12-27,Swakopmund,Bank Charges,3011.79
+2025-12-27,Walvis Bay,Bank Charges,2995.31
+2025-12-27,Windhoek,Bank Charges,7611.18
+2025-12-28,Oshakati,Utilities,14372.68
+2025-12-28,Swakopmund,Utilities,12024.82
+2025-12-28,Walvis Bay,Utilities,11876.65
+2025-12-28,Windhoek,Utilities,27102.64
